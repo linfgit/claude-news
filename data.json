@@ -1,5 +1,397 @@
 [
   {
+    "title": "In a Dramatic Reversal, the U.S. Allows Access to Anthropic's Most Powerful AI—But There's a Catch",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOajZVbV9fbjF4WHJSMHpPcVdMOUdpSjBadEg5cS1OVlRGSjI0RjlfbVZRUlgzNk5NbUZGT09EVllSanBEVlMyWDZvcjRsUm9hajFUQWU3TGVxS1pJb0NmeURtTE1mTFlKaHl2MlhlcEVvemNNX2JITlppZDg1eTFsc3BOSlFYTXZmV040aWJHT1FVeC1Vc0lzdi1YdWZacExaOExQWkliT1Bldk9ndWNSbm9ia2xmenNPT083cFVBamtIMjJ2Zm41MWRrXzRoTE4zaGc?oc=5",
+    "source": "Google News",
+    "time": "2026-06-28T06:26:05+00:00",
+    "meta": "inc.com"
+  },
+  {
+    "title": "Trump Admin Releases Anthropic Mythos",
+    "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "source": "Hacker News",
+    "time": "2026-06-28T05:58:54+00:00",
+    "meta": "4 分"
+  },
+  {
+    "title": "Powerful Anthropic model, Fable 5, on track to return soon",
+    "url": "https://www.axios.com/2026/06/27/anthropic-fable-5-return-soon",
+    "source": "Hacker News",
+    "time": "2026-06-28T02:37:13+00:00",
+    "meta": "4 分"
+  },
+  {
+    "title": "The Trump administration is expected to soon allow Anthropic’s powerful AI model, Claude 5, to resum..",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMVkVGVXAxXzVNaWZLWm9ldmZDc09ja0owTTMzcG9JaDlTbW5lTG1GWFI2X1RCSFpFVnRJZHpaeWhDTEJBQUhrX1BLVkFTMm8?oc=5",
+    "source": "Google News",
+    "time": "2026-06-28T02:09:29+00:00",
+    "meta": "매일경제"
+  },
+  {
+    "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race",
+    "url": "https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2",
+    "source": "Hacker News",
+    "time": "2026-06-28T01:52:01+00:00",
+    "meta": "11 分"
+  },
+  {
+    "title": "Show HN: Claude-CLI – Run Claude Code in a throwaway Docker container",
+    "url": "https://github.com/shirozuki/claude-cli",
+    "source": "Hacker News",
+    "time": "2026-06-27T21:51:56+00:00",
+    "meta": "1 分"
+  },
+  {
+    "title": "How Claude Code and Codex Sandbox Untrusted Code",
+    "url": "https://medium.com/@Koukyosyumei/how-claude-code-and-codex-sandbox-untrusted-code-ba39b493046a",
+    "source": "Hacker News",
+    "time": "2026-06-27T21:25:57+00:00",
+    "meta": "2 分"
+  },
+  {
+    "title": "CI&T (CINT) Joins Anthropic’s Claude Partner Network",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZTRtV2RuMVp5Yl93TlVoSDgweGl3cmM0dWdrTi1fZld4UVpyb1dsek5FcVJnMkRva1l6b29Fek9wMFh6Qk5PNld5bGprOGlJdl93SjgzQUJjcTlnemdnel91cG83M3FvTEJSSXhiY3ozLXJ6Qms0VjJZRll3U1Bhc0QxdkhROXNiS1oxT3Ytam5LTmc?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T20:31:17+00:00",
+    "meta": "Yahoo Finance"
+  },
+  {
+    "title": "Claude Ecosystem",
+    "url": "https://claude.com/ecosystem",
+    "source": "Hacker News",
+    "time": "2026-06-27T20:17:37+00:00",
+    "meta": "4 分"
+  },
+  {
+    "title": "Claude Opus 4.7 Leaked, Anthropic Full Stack App, New GPT Model, M2.7, Claude Code Update! AI NEWS Jauan Jennings (U4E3QP5N4j)",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRUjZ5dVJVR1FPZENjM1Y3ZUhSaUJhdTV4b0NIX01uR08yaTRnT2Zwd0ktSXBkSmNrSmh3M3E4MjROdWZrblU2c3BNa0g5czFscGdJWDVVU2E0TVo4OFRzZFB4MjQ?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T19:59:44+00:00",
+    "meta": "Fathom Journal"
+  },
+  {
+    "title": "US Government allows Anthropic limited release of Mythos/Fable models",
+    "url": "https://www.cnn.com/2026/06/26/tech/anthropic-mythos-release",
+    "source": "Hacker News",
+    "time": "2026-06-27T19:57:09+00:00",
+    "meta": "1 分"
+  },
+  {
+    "title": "Can a robot be a modern artist? I gave Claude Code creative freedom",
+    "url": "https://museum.nal.digital",
+    "source": "Hacker News",
+    "time": "2026-06-27T19:18:11+00:00",
+    "meta": "2 分"
+  },
+  {
+    "title": "Expect Claude Fable 5 to Be Turned Back on in a Matter of Days, Report Says",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMi1PMkFveVl2YmQ4OVotM0hjd29YT1VLenZBdUY5eE81dEgyOEN0eTRmd2VUZVpuVjRUQjVvOTExVlZIQThrdlF2UWdma0ZMa2R2eGVRQVJKaTVUa3hjaFcybVV5ZFRPbm96MXlTQWhCLWFHY0FyS0x2d01pNk1lbGdfM2N2ZHpEOXRFVTZVeVVqVFBKOGd6QUtrNi1DeHhEYTFtbDQ5UV8?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T18:13:53+00:00",
+    "meta": "Gizmodo"
+  },
+  {
+    "title": "How Boris Cherny Uses Claude Code",
+    "url": "https://howborisusesclaudecode.com",
+    "source": "Hacker News",
+    "time": "2026-06-27T17:10:17+00:00",
+    "meta": "4 分"
+  },
+  {
+    "title": "Anthropic says Alibaba used 25k accounts to mine Claude",
+    "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+    "source": "Hacker News",
+    "time": "2026-06-27T16:16:20+00:00",
+    "meta": "36 分"
+  },
+  {
+    "title": "Legion LegalTech sues U.S. over Anthropic Fable 5 and Mythos 5 shutdown",
+    "url": "https://thenextweb.com/news/legion-legaltech-sues-us-anthropic-access",
+    "source": "Hacker News",
+    "time": "2026-06-27T15:52:32+00:00",
+    "meta": "4 分"
+  },
+  {
+    "title": "Half of Claude users say AI can already handle half their work according to Anthropic survey",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObEZyZDR3SElUSzcybFd3NUpkTzhDSS1VTFBCTDZqbURUQjl6LVE1czN0U1J5aDV6bmN4Y3pIRlRncjdyanpBSjA5cGpMRzBQbFd4ODNNMS1Dd0JsWXRkY2lPdzBMejVYZmRqQ2ZjZktHRXhzRV9sRU1DaW1NejRkc1lNcWVSejlkWE82Tm5QSU4tWFJjc1pBSUQtdVE2MnJOUjdvV29EV1hISkwtbzc4NmIwZmx5ckdz?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T15:31:53+00:00",
+    "meta": "the-decoder.com"
+  },
+  {
+    "title": "Show HN: AI-whisper – Claude works better when Codex watches its back",
+    "url": "https://ai-creed.dev/projects/ai-whisper/",
+    "source": "Hacker News",
+    "time": "2026-06-27T15:07:57+00:00",
+    "meta": "3 分"
+  },
+  {
+    "title": "Anthropic’s Mythos 5 AI model cleared by U.S. for wider use",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUI0dGRWU0J5UDFxVVRJbUw2eDUzTVEzNW1WVThBck1mZVlwSlM5WVRXNHBSY29SNWxxdWFOWDF2cEVSbjNCLVdBVmZWSzdOTW9tWERYYmJDU0k2eDZ0dFpjWEM1YmJvR1FBNVl0a2xOcThCYlVTeGFRXzA1OTRsVFYzdnFMbkJXNnZLVGNHMWtOdGhYdlVzeTZWMWJVMlE?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T14:01:00+00:00",
+    "meta": "Fortune"
+  },
+  {
+    "title": "Salesforce Employees Worry Over Anthropic’s Invasion of Slack",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPekhLUHlFVHFGTHVxaTF3WTdMZkdCT3lQMjhPNTRzb3JBa2tLa2lId3Q1Z3FPZ2VlNmlYNkdBdHk0MWRHQXlLOEpnZkdSUVh6Z3ktU2R2Z2tzOG9JUzZJVk9LRVlSalkya0FXTlpTOC1tSG90MTdWUk8wdmtBQjM5YmhUMkdfandUSXg0THVEajhyR0N1RXJr?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T14:01:00+00:00",
+    "meta": "The Information"
+  },
+  {
+    "title": "US allows partial release of Anthropic's Mythos AI model",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNblZFRGxOS2hwck8tVnBHOHZ4MXdFLUFyR0IxTFpxY2hTR1FLMG1mcTJJeXF6MjJZMXQxQk0xTy1saUR6WExGblVRcFRXTU8wMEQ0ZmRaWTd2NEd4b01SZWJjeGtmMDVQMUZ3MDFYSVBzTEh5N0twbklVZmUyaGd4Yk9xU01fbklXMExaLW9HLVhSd9IBkgFBVV95cUxOSVAyLVN4NVdYOFNLRWEtUDRKaXBpeEFLNkdrZGVHWU5BWXlFR2xvbnU3UUw1VTl3LVNBZDJhVFJISGtLUkV2V2V5Rk04QWlMc1dDOVByWlBSNWlfZ2tLczE5cUFNUlB6SW5USTkwbnVwNGtZY2t1akNJWU1oYmZJX0JSXzJSNHlZVkx0YUhadmhQUQ?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T12:49:34+00:00",
+    "meta": "DW.com"
+  },
+  {
+    "title": "Anthropic Granted Approval To Release Claude Mythos 5 To 100+ U.S. Organizations",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkIwSVpGWDlJeEM0MUNLZFhGOUUwR1R4QjdlRm5TQTJmZVIzNHVQSGFUaEtyS1lqSVlpYXpieWV3UmNjWDllRFpJNDNYY3J3LVZDdUZORjFwaGx2TTJVMmlodndNWU1RWjhVZDFJTzdnOXVGUzRVQVNlU1hZY2RheFFaSGZrMG5uZVFrVzNB?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T12:00:09+00:00",
+    "meta": "LinkedIn"
+  },
+  {
+    "title": "Show HN: Open Tag, the open source Claude Tag",
+    "url": "https://github.com/CopilotKit/OpenTag",
+    "source": "Hacker News",
+    "time": "2026-06-27T11:48:39+00:00",
+    "meta": "4 分"
+  },
+  {
+    "title": "Inside Claude Mythos: Why Anthropic held back its most advanced AI",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORU5hTjJndEhzU0NUNjBFa1BLemFMVjAtYnA2ZllTcHNlclhic1FtS0hGampSQ21aMmJ5eUVPVlgxZ21QbUdlMURTSlFDbm52UDFVcFhZWnY2SjBuZW1GUlZGU25fNTJMMTVMdTVfNXR6YTdpQWMyUklsMzBqT1pBcndMZlpTUUJ4bTV0RkdYbTJSQzBHUUctUW42ckhmNXM2MlJmTk5qUkd4bS1WWVFreXN1NWVsbDNvMlEtZzdtM3VJWDNBekk1cFZEQmhVUV92b0VYTkFtaVh5ZUJDMXU0Vmd30gHnAUFVX3lxTE9zQXBsTWNOeXBBLUF1a1dkbzgxZzA3OVMyZjJqb2lHUTY5TGVvRVpFRHVITGJRN091bFlqXzd6Zmo2SzZacWJkbHYtVlBneGJhN21oR0xqVHg1Yl9sX0ZvekJMUkFaNXVCM1RyRkxJLWNubm5zNzJXM21Xcm5idDlESngwa1QxY1ROSWtJNjBoMHdNc0JneDZXSG9nOHVqWHRNOGxRR2ltYXBRMjFOZHdtRXJna0xnRnZ1Y2RzTGxhZkZNV2h4eHFuZy1BaU00VEE1cXB4dHQzX0ZKS3FtM2ZoWkhzSlRfYw?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T10:44:13+00:00",
+    "meta": "The Economic Times"
+  },
+  {
+    "title": "Anthropic resumes access to advanced AI model",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fd2NxNU1vdHRMQk42emRoVXJoN3pBRmFjM1dDZWVVelNfMENuM1dfcmFZT3h1QjlBbkhYLXZTNkd3WlV5YUNza244SnJKQWZuQlpXZ3dMY2JqMy1UalhCQWd3?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T10:18:55+00:00",
+    "meta": "nhk.or.jp"
+  },
+  {
+    "title": "Anthropic gets US approval to bring back Claude Mythos 5",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONVNva3JVLVJPWGF2bFhNZDZPM3pCRk9mTHNXUW5uemQ4ODUxRDc2T0d3QnZXbXdTNGQ3Q2p0UHplZkRSNVhtNENXZEx4VTQwenZTQ0xRa25aOXZrMXFoMFplTmVUYnVLWnRyUWVqT2xncXlZWEwyWXRyNFRkUUdBeDdndzY3em9B?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T09:45:40+00:00",
+    "meta": "the-decoder.com"
+  },
+  {
+    "title": "US Lifts Block on Anthropic's Claude Mythos 5 AI Model",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZnBrSU1BV01jVG5WZVJrTUhqNmRzbTdsbC1HUkl2UE12Ulk4UjBxampsRmlpZTFLalRtYzViTGNEcEY5dDB0LXFBMENLNm9LYzR0ekx4am1xZFhDMy0xZmhWbjNuYkVXRmtHZmcxQWxOTTZuVEs2M3NMc283UEs5WTdDQmFZWGhRYUhiS2pidG9tY215Wlo0NHNTWHkzZw?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T09:44:03+00:00",
+    "meta": "اسلام تايمز"
+  },
+  {
+    "title": "Higher rate limits on the Claude API",
+    "url": "https://platform.claude.com/docs/en/api/rate-limits",
+    "source": "Hacker News",
+    "time": "2026-06-27T08:15:18+00:00",
+    "meta": "2 分"
+  },
+  {
+    "title": "Anthropic says US allows limited access to Mythos 5 AI model",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkRXdWx4TUlCY1ZnSVJOMDdOMVQzRmFyQ1NuQlVHT0d6azJjWW1McEZHcDdJUTdoSmdNbEpPWnVDQVZnWWVxS19UR1gyWWYxOUJFYThuTGtsR2EtOTVhQjVPNzNLS3VkeDhtNVZDRW1wNW0zVU9pRWktSlZQV2JEbnhlYWFyaVVIS2V5S21GOEpiRWRrTzhvY3RFbmdsYU4yY091RElkRXdKdw?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T07:07:13+00:00",
+    "meta": "Türkiye Today"
+  },
+  {
+    "title": "Anthropic Receives Approval To Release Claude Mythos AI Model To Trusted Partners",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYkMzUDZtUUVOeGxoRndYTjhEdEV5c2NBdXNfYkRfbHdoaUpHNzZZUV8wTGlIN1VULTNRb2MwUXI3X296M2hRT3EwWHhqNnV0WmRIdS1XdU4yWk1UYk5GY3NHejVDM0hNYmEycy1rS3ZOS1hpakJzel8wSGlLVTZmYkxpT1ZRUWtORkZ4UWNGMmlrRkN6UldNWWp5QmtTYWZ6YXVZS1IwOHlxT1ZHRzdWVnQyM3A3TEREcEplZFlsQdIBxwFBVV95cUxORU5ManVWRXk4Y1FCNjltb2t3dWR3US1sV3hDeWNMQnhTdGxFNnctSTVLRE1uR29pZklkOHBhcXJXc1d3SG5EOE9UWml6bmxoOVdNaFlfcEF2V3pBVUtMMy1IREdZS19XZjJDMmZUb0RRYkFrZmxDc21jeHF5YXczMUZyU1BOUHI2dG1oUWp0Yld4QUoxcHdfaWIxUGhlQ3NCRTZ1Qm1KNkZkTTlYWlZNaW1wZHo3ZXVkVWxpVGtjM2lKQlNKeEpN?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T07:04:29+00:00",
+    "meta": "NDTV"
+  },
+  {
+    "title": "Anthropic | History, Controversies, & Claude AI",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T06:46:21+00:00",
+    "meta": "Britannica"
+  },
+  {
+    "title": "U.S. lifts export ban on Anthropic's Claude Mythos 5, allowing sharing with more than 100 firms",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVE5YMVoyR0lqYXk0NWU2WENnWmtuNTZwYkk3VFB5djRucVRPY2hIeFRKeElISXdCT2hDNkFvOTJXcGFaRjFhdmQxVkRlNG9XNi1qWkxFd1ZsNkJJLXBsYXhtaEtjZVdtcjNnZjdaMjlqend4MU1YMERuVmh3Q2kzVFllUkh0VUI3aGgtd0oyRlNLeXFhdE81M2ExVkJiazJONWw0SHJnUG56MVRyRThoX0dfMUtJWXVHTDA5YjBTSWJmVnBxelBiZFFB?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T05:10:21+00:00",
+    "meta": "Tippah News"
+  },
+  {
+    "title": "Anthropic announces 'Claude Corps' to teach nonprofits to use AI more effectively",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNV1N6d1JLWEFweTM3ZkItcXNNV25hMjNlNjNZZG1PWG5MZ25OTVRFOVIweWxKcjBsMTR2dldJYnlhWWJaWkltaWt1elhGTS1vNVZjSm1neW0yQWZWOGVtVWVsV1hnMGhjblFXeVpNZ0hWUVVrSXpOTjN3TFFrb0pUNWNPLUhvbGpXTXN3UFNlOERsbmxTbXNOeC1XaENXQV8wamU3bzZoSjJ5bVJ6ZjBsa0xCUC1xVjJsNC02Vm13c185MkNPa3k2YVU1M0M2MW1sTUpEblhNV2wwT3RzQzBPbWw1bElpQzA5UWFnX3BhRkRYWGVwN0E?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T05:00:00+00:00",
+    "meta": "Decatur Daily"
+  },
+  {
+    "title": "Anthropic Gets US Green Light To Deploy Claude Mythos 5 To Trusted Partners But Fable 5 Access Still Bloc",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRlpyYWE5cnBtU21wZ29rWHQ2Tl8waFF4Yi1oaFZ5N2NFcEExVnFTVXY4WVlUVy1OSjVVMEhMdzBFamxmdXlCZ3pEYzJ4NmwtUVBOZFFuSjBwLTRsZURtQmhJdzYtS3BFRk5SQXBqYTFjVGNwVEdfQ2wwZjJVRlVmdkdHdWVFcHJsTllSQzl4bEo0YXhUeklfckVRaDZFOFh3TlIzckxCa05QWjFGa3BMc2tIbzkzVE5PU0NraGV3akhnYW4wVEJYTnJlNTl3NVk2cF9MYUlaV3hLcVpjYlpYZVFrX2kxUkZodWJSVENHdzVkWTRucWF3NjBCVGU?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T04:51:14+00:00",
+    "meta": "Benzinga"
+  },
+  {
+    "title": "OpenAI and Anthropic limit new AI models to Trump-approved customers during cybersecurity review",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRVYyaHZnYVZ3WEtURXdadXdIOUZ5RHZXQlpNejRsc0o1a3UzV2RiOG85QTdDWFk1NnB0Y0NsajhnN1hwdnZGY1N1NzhWWjAzX2pQeWk3RS1NZ3B3eV9ZV1NoYm1na1BxTlpRM21oUWhFZEx0RVkxTHh4SXMtVUJxUFVKdWVOWlhYMVpOOTJaYTZ0bzRwUFRSeld4OVY3ZTlHTmNWaVp2ak5DZE1kUjVJLWY4ckktaFpobFh2YVRVR1dmT0FndXlaNVcyZGhCOHFZdm0xWko1YU5kdEhGZlE?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T04:00:00+00:00",
+    "meta": "The Washington Post"
+  },
+  {
+    "title": "US allows Anthropic to release Mythos AI to 'trusted' US organizations",
+    "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+    "source": "Hacker News",
+    "time": "2026-06-27T03:35:55+00:00",
+    "meta": "1 分"
+  },
+  {
+    "title": "Enterprise AI customers pulling back from OpenAI and Anthropic as costs mount",
+    "url": "https://qz.com/enterprise-ai-spending-openai-anthropic-roi-pullback-062626",
+    "source": "Hacker News",
+    "time": "2026-06-27T01:10:03+00:00",
+    "meta": "5 分"
+  },
+  {
+    "title": "Show HN: Tested – AI Tools Scored by a Panel of LLMs (Claude, GPT, Gemini, Grok)",
+    "url": "https://trytested.com",
+    "source": "Hacker News",
+    "time": "2026-06-27T01:06:31+00:00",
+    "meta": "1 分"
+  },
+  {
+    "title": "Anthropic accuses Alibaba of copying Claude by asking it millions of questions — and sets the stage for a new AI war",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdGltQ3dTRUl5Yk13SDZxZnBxZDRoUFp3eThSTjhjRXVSblNHOXRhMEliQnRmVURObS10WENQbnEzMUg3S3RyWTlpN2pHMy1kZFQzWkhaaGRmSkp4YlJXOFB6R2JpOUlmeHhyLUpJb1ZlTWhEY3NyT2hjMVY0cGRjVzl1LVpuSmdvY1dsNGZEcWNCVG5jaVFuNkItaWZGUlJXOVRGX3N2Q3I4RUpVMVItazBLZF84ZjFwOTBqU3JGd1pWZXNmdkJnaXpLVjI2alNTRGVoZ21YMk8yRkdkTU5wUTZ0ZEg5Sll0SjE4TE1DaFdKQ3NuM3hr?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T01:00:00+00:00",
+    "meta": "TechRadar"
+  },
+  {
+    "title": "Show HN: Hatchr – Share Claude Designs with a public link",
+    "url": "https://www.hatchr.link/",
+    "source": "Hacker News",
+    "time": "2026-06-27T00:35:32+00:00",
+    "meta": "1 分"
+  },
+  {
+    "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByRGM1ZVBPM1d1STgzNUFTbGFiZHREbUUtUGpVN1BhVS1QLWRMYXgxRFRqNHRSc0RqWHMtSHpza3ZQU2VIZWtMRHJwNV9wVEZweXVBRHZTaFQ2MGhJS1pKV2FOREltckdsWnJ0bi1PaUZtQQ?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T00:26:00+00:00",
+    "meta": "WIRED"
+  },
+  {
+    "title": "US government allows Anthropic limited release of AI model that sparked cybersecurity concerns",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lX2FHbTI1SEJfWTJ4WmMyeVdfSHo3V3NDbndfbUdaTFAyRlJtX09WY0pUWkIzTkVpOEhpcmEyY2xPeElZdW04eU9hc2Q2TU1xcDhlUzR4WU1iamN1OXJDQkY2d3NMQ3p5WTRYNg?oc=5",
+    "source": "Google News",
+    "time": "2026-06-27T00:22:00+00:00",
+    "meta": "CNN"
+  },
+  {
+    "title": "Ask HN: Anthropic Billing Issues?",
+    "url": "https://news.ycombinator.com/item?id=48693360",
+    "source": "Hacker News",
+    "time": "2026-06-26T23:28:31+00:00",
+    "meta": "1 分"
+  },
+  {
+    "title": "Trump admin allows Anthropic to release Mythos AI model to some companies",
+    "url": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
+    "source": "Hacker News",
+    "time": "2026-06-26T23:00:31+00:00",
+    "meta": "3 分"
+  },
+  {
+    "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOE9ZNnB4d2ZGbU9LSE83eHhldFlELXVmNWZjZGdmTFFGTEU3WVhkWHBieTNCS3dwS0JKejJIMDktTEprZmYxS19YS0FEbW15MW5aR1FIWi1md25uSkVBQXBjY3lCTHR3alQxMHRlVXlSMFcxZDQ3c0p6UkpBSkNPMS1NejM?oc=5",
+    "source": "Google News",
+    "time": "2026-06-26T22:59:12+00:00",
+    "meta": "CNBC"
+  },
+  {
+    "title": "US clears Anthropic to release Claude Mythos 5 to trusted partners",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JdnhNZVhFeTVOSFgzdGFQUGItRTZJdHM1Tk5CM1hHQkw4TVhKVFVHNngwVjVwRTlLZGFKU2wzdDE4UnM5UzU3X3o0bE5oNkFtb3pfUVNYUkRYTjFZbWdnRzFFTnkzUkl6aktNdA?oc=5",
+    "source": "Google News",
+    "time": "2026-06-26T22:59:03+00:00",
+    "meta": "Ynetnews"
+  },
+  {
+    "title": "US releases powerful Anthropic model Mythos to some US companies",
+    "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+    "source": "Hacker News",
+    "time": "2026-06-26T22:58:25+00:00",
+    "meta": "6 分"
+  },
+  {
+    "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+    "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+    "source": "Hacker News",
+    "time": "2026-06-26T22:48:28+00:00",
+    "meta": "545 分"
+  },
+  {
+    "title": "Exclusive / US releases powerful Anthropic model Mythos to some US companies",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeG1SQ2UxUF9nRHQ1ejZ2VU95NllPMFBvd3d4NzVMcEU2ai1JSzlTS3p2em5naEZickIyZWw3S0RPVzl0c0JBZnM5SDBzaEViRWoxY3FXNnBvQy1OdHEySlJmS0x3ZGVaa000RFpUNWwxTjI0bmdkSkhEMGFmMTJrTmE1YWZ0RUsxYnEzS1o3QlMxdHpxTHZDbHVrbFRGQUlCMGl3TmI2Z1dPN1U?oc=5",
+    "source": "Google News",
+    "time": "2026-06-26T22:30:00+00:00",
+    "meta": "Semafor"
+  },
+  {
+    "title": "Anthropic Accuses Alibaba Of Running 29 Million Fake Queries to Clone Claude",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSDBkQWJhdEU3YkhBUVNLYkRKcU4zRnJLaWs5V2xIS2Q5UnJHSnZJQjZscGFvNDRha1A2NmNpTld5VDVPb256ZU13VnFmcUlPQWRKUzc0dmR5YlNRblF5WVpnV2lxMzBnc25FWHZJTUlfcUk3VExDSGE0T1dhUVR6ZVI2VFI3OXNaeEJYbkR2NDg2d2R6aU5oQjVMYkp2ckFvV1hBdVhOclQ0N0RlZUZ6UEItUk5OQ1ZHUC1GaHNuNXAxaTEzcjR6MW9nMlhfRUk?oc=5",
+    "source": "Google News",
+    "time": "2026-06-26T22:14:48+00:00",
+    "meta": "PYMNTS.com"
+  },
+  {
+    "title": "OpenTag: An open-source alternative to Claude in Slack",
+    "url": "https://github.com/CopilotKit/OpenTag/",
+    "source": "Hacker News",
+    "time": "2026-06-26T22:09:07+00:00",
+    "meta": "13 分"
+  },
+  {
+    "title": "Anthropic Moves Toward Deal with US to Lift Curbs on AI Models",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-26/anthropic-moves-toward-deal-with-us-to-lift-curbs-on-ai-models",
+    "source": "Hacker News",
+    "time": "2026-06-26T21:59:26+00:00",
+    "meta": "3 分"
+  },
+  {
+    "title": "Anthropic has hired an economist with interesting views on human survival",
+    "url": "https://www.ft.com/content/bb04671c-4377-4231-96ef-0f8e57ed5d1b",
+    "source": "Hacker News",
+    "time": "2026-06-26T17:55:27+00:00",
+    "meta": "9 分"
+  },
+  {
+    "title": "Anthropic Economic Index report: Cadences",
+    "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
+    "source": "Hacker News",
+    "time": "2026-06-26T17:12:15+00:00",
+    "meta": "1 分"
+  },
+  {
+    "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+    "url": "https://github.com/workweave/router",
+    "source": "Hacker News",
+    "time": "2026-06-26T16:40:11+00:00",
+    "meta": "203 分"
+  },
+  {
+    "title": "Fact Check Team: Anthropic court rulings could shape AI copyright future",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYkxfa1dqYUZUVFBScE1YdjlFYmt6cmhaRDVNVW1MTHdNOUQ1aTBwNVk1bTB0NTBLT0F5elhwUzdBaEN6VVNhb0g4T2prVVl1YTkxS19NejRoTDdGS0JZT09EeDlQWnQ0Q1pKdG51WE9nSG5JRVhBUlpGcFkzT2Y0Y3pxM3BmTUd5SGdmMTdWTXJpMFZZdjFJZWJRdjVoeF9fQWxySlRzOXVvRGVBdTdMWHY3ZWk5ZEFJbnI5QUZLdjlHRUt3UmtmZTRBSnNPQWpkTVRfR2xnbEQ3TnhHdkFVei1oaVY?oc=5",
+    "source": "Google News",
+    "time": "2026-06-26T16:00:00+00:00",
+    "meta": "The National News Desk"
+  },
+  {
     "title": "Clawd, Claude's Pulse",
     "url": "https://clawd-pulse.vercel.app",
     "source": "Hacker News",
@@ -25,398 +417,6 @@
     "url": "https://deep-reinforce.com/ornith_1_0.html",
     "source": "Hacker News",
     "time": "2026-06-26T13:37:12+00:00",
-    "meta": "1 分"
-  },
-  {
-    "title": "Anthropic's Claude is winning over paid consumers, a market owned by ChatGPT",
-    "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-    "source": "Hacker News",
-    "time": "2026-06-26T13:17:42+00:00",
     "meta": "2 分"
-  },
-  {
-    "title": "Show HN: Novakit.tech – pre-built Claude Code skills, no prompting required",
-    "url": "https://novakit.tech/",
-    "source": "Hacker News",
-    "time": "2026-06-26T12:56:17+00:00",
-    "meta": "1 分"
-  },
-  {
-    "title": "Onplana – ChatGPT and Claude do work through one shared project plan",
-    "url": "https://onplana.com/agents",
-    "source": "Hacker News",
-    "time": "2026-06-26T12:44:55+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "Show HN: Verity – self-healing review gate for Claude Code",
-    "url": "https://verity.md",
-    "source": "Hacker News",
-    "time": "2026-06-26T12:27:05+00:00",
-    "meta": "4 分"
-  },
-  {
-    "title": "Ask HN: Can anyone use Claude Fable 5?",
-    "url": "https://news.ycombinator.com/item?id=48685607",
-    "source": "Hacker News",
-    "time": "2026-06-26T11:58:49+00:00",
-    "meta": "5 分"
-  },
-  {
-    "title": "Claude ends the chat – refuses conversation",
-    "url": "https://medium.com/@thesuperrepemail/claude-got-sentimental-couldnt-take-the-insults-anymore-56de74ccd9f9",
-    "source": "Hacker News",
-    "time": "2026-06-26T10:38:25+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "It took two weeks to make Claude's \"overnight solution\" for flaky tests useful",
-    "url": "https://thoughtbot.com/blog/what-it-took-to-use-this-overnight-ai-solution",
-    "source": "Hacker News",
-    "time": "2026-06-26T09:40:59+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "Anthropic Accuses Alibaba-Linked Operators of Distilling Claude",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmJTd3RYYUw5b2FzZS0zZ094VzZob01jQzR4MHBXempMVXJpMVRTZXMwa0ZhMkhtc044Ymc5SEs3OVE3VlNxaGNQdURXcUFSRWpJNlZnN3gzTnlXNG9HOWFtYUY0SmpoandsS1hsZlJTck5PT01VUG5CMFA2TzY2czhOZEhEVmZ2WGVaSWxaREU?oc=5",
-    "source": "Google News",
-    "time": "2026-06-26T09:19:00+00:00",
-    "meta": "ForkLog"
-  },
-  {
-    "title": "I made a Claude Code session manager for tmux",
-    "url": "https://www.devas.life/i-made-a-claude-code-session-manager-for-tmux/",
-    "source": "Hacker News",
-    "time": "2026-06-26T07:44:59+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "Terminal Agents in 2026: Goose, Claude Code, OpenCode, and Pi Compared",
-    "url": "https://outofcontext.dev/blog/goose-claude-code-opencode-pi/",
-    "source": "Hacker News",
-    "time": "2026-06-26T07:12:24+00:00",
-    "meta": "3 分"
-  },
-  {
-    "title": "Anthropic Alleges Largest-Ever Claude Distillation Attack by Alibaba",
-    "url": "https://twitter.com/MTSlive/status/2070141140607832353",
-    "source": "Hacker News",
-    "time": "2026-06-26T07:10:07+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "Anthropic accuses Alibaba of biggest Claude cloning attempt, seeks tougher US action",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSnlXeEJwVm9HQTlWOFlfdTAwTlNMVmtMWlBBa3ZOckh1d2prOHVmMXBrTjMySTZEc1ZPMndCbVR0c3pKTHNNdDVFd09DUUpsYUtfX054dEZ2WHB3OGFsWk12OUhLb2N0MTJGenZOYmFqQXBkYkpOb0VtT3VFbTBxSmVfcmpSckpOZjgtOTREOW1tMHZfZ1M1dkdVYzhGdkwwLURjclRJOWI3X0RzMjNBc2NLMXZWYzA1TEJJWW5WNlNCR0tKZFZEckVVaTRDV3l3akNoQkdwVVp3VHd2dFk0M3dCcll3TVFqaG9SRG95WUfSAfcBQVVfeXFMT0pzOTREdzBvemFIWlRxcF9zNUsyYmJvRG43SVp6Nms5U2ZFUW1mTzA2V0NOQkhKRVQ0UllCM2tRNXVHcTlrc0hWQ1RRekluNGM2ZE45LUt6azRVVGp4RFZVTXRmdU5ONENRTDFTOGVBMUhibU9hOHRaNjdsd0NZMG1IVUlNN3pFcExKQVVWVkR4UG9TbWc5SFl3RVRFT1gtSXRXMm1SQXBMQndHWTBsMXNENEw0N29HMEdFbmVGajFkc3BnbGNna0FETURqd3I1SjltSnNMbUJlNXUwbW4wcjBkSkUxUzRpVlVBd2NoSlI4VjhVQXJxdw?oc=5",
-    "source": "Google News",
-    "time": "2026-06-26T06:57:20+00:00",
-    "meta": "The Indian Express"
-  },
-  {
-    "title": "Hexaware becomes Anthropic authorised reseller for Amazon Bedrock, expands end-to-end AI services",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPejJLRHpNTVM3NndiMllDblA0YVdRb3NsSzYycUY1NHRWamNOWlQ0UFVWTVVaUlIzbjNpR09vcEpqWGp5Z0M1aWh1bWNnVk1qZ2VmSUlCYS10TDJHVlB4eGN5aVhnOFVDXy1QOVhSWTJtczd3cnB5M2JzamRpS1I2bEp3REE4M3F0dFRpMU03UzZxVjhoRU9YZ01KejFMZjNsczhFUUp0enlJYlNVMUllc3RGWkJUazh2aHhyejZKNVdMRGd6eFIxdE4xcTRpLWFUOXc?oc=5",
-    "source": "Google News",
-    "time": "2026-06-26T06:53:54+00:00",
-    "meta": "CRN Asia"
-  },
-  {
-    "title": "I made a Claude Code skill to check if AI crawlers can read your site",
-    "url": "https://github.com/MerqryLabs/ai-crawler-visibility",
-    "source": "Hacker News",
-    "time": "2026-06-26T06:42:49+00:00",
-    "meta": "4 分"
-  },
-  {
-    "title": "Anthropic accuses Alibaba of stealing Claude AI model using 25,000 fake accounts in massive cyber attack",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdTM0RmJzbFFoWmxENGpLMlZYZmhWWE1GcXAtRG9LMGRyNndWSmsxS3NLZFZVTVBLMWhDNjhkbEU5dXlzVDZGa0pSSGxoOWFyQWZzblBFMlItN3FJRmxsREEtNDVSbkc3QXFaSXh6V3hHaENnQW5xZ3M1bHZFU01XOTRGcXhiZVFKUXRNam1SdlpWb1Y0aEthdWZOWk9SS2xNWVdYMXNKcTBEZHl6U3pNU2NJaDZxWEkwVEc3SHZ4R1dVV0lLTjlTZ1N4LXUxZUh3T0FBY9IB5AFBVV95cUxNRnEwVXM5VnpWMkh5LUNFWjQ5a0JiVVFCOWY4Q193WHZjeThZRFltM0lEWmhwYWxYVEFRTDdaM3pRbF9WTi1VY0xmcnFXM1FvSkhmek12YXlrNWZ4TDRQS21vMW5GSkExM1lXTnNnUFJhSXVzbjc3RkZOLWk5Umg5UkR2TUhWZ0diQnFicm5uRkdOaGtfUjVyc0pjTnhtcVVHd1Q2dmh5RGItZml3OEFkRnJoS0tDal9qeG5fVlg4RkhjQUhjbjBsWGdOcWZIMng4c3hqR2RKZGc5LTA2aUdwZlRzcXg?oc=5",
-    "source": "Google News",
-    "time": "2026-06-26T06:32:36+00:00",
-    "meta": "Swarajya"
-  },
-  {
-    "title": "Anthropic brings Claude Tag into Slack as an always-on AI teammate",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14dDVuc204WXFaUEp4enlrMlVmM3ZsMFhwVTNhZ1MwYlpKT2ZTaUlPNDN1aklteU5nU091SnN5S0l4Y25IbXZKU0ZNY2U2ZDBGbjc0YkFjM3FJMVVLTzZQWS1BOXFVSHltcVgyZGxaN0hhWkl1OEJVNw?oc=5",
-    "source": "Google News",
-    "time": "2026-06-26T06:13:09+00:00",
-    "meta": "YourStory.com"
-  },
-  {
-    "title": "Building domain-specific AI chatbots with Claude",
-    "url": "https://gregwilson.tech/building-domain-specific-ai-chatbots",
-    "source": "Hacker News",
-    "time": "2026-06-26T03:19:33+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "Alibaba Ran Largest Known AI Theft Campaign Against Claude, Anthropic Tells Senate",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPck40NU1Ea1NDMVRRRWhqb0FDVE9LRzVobVFteGtmSkxZdV9QMjVYaTB4TDZnejJnWGhLMWpDWVc0ZnY4OW5QclpqaDJhUzJrazVhVE9sWC1CMzRDZ0p6bGVTdzF1RnNrNHEwQ3Btb3FHdUI1WWFXV1EzQ1M0eGdwRHhqQTA3MmVfVlEzenlTeTdKbXdjTUIxOVZXSzNqS0gySzY3ZG5YZGM4dDVESHZpcW5zTVhnWnVucUFXeUVmRWJuNVYzOG5wQUZRZmVQbHRtcnc?oc=5",
-    "source": "Google News",
-    "time": "2026-06-26T02:32:45+00:00",
-    "meta": "Tech Times"
-  },
-  {
-    "title": "Competition intensifies for Anthropic and OpenAI ahead of IPOs",
-    "url": "https://www.ft.com/content/8c02de04-5516-405b-941d-289e586d8eb8",
-    "source": "Hacker News",
-    "time": "2026-06-26T02:23:48+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "Anthropic Accuses Alibaba of AI Capability Theft via Fake Accounts",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRFZTOVBOZ2ttdS1pTlVFWTRyMUZ4NUI2QmUtLWFrcmZrbDc3ZU41bzFHb1VOSVhxN29wdzA1LXpFN2lJcHRNdUlXSUdCQU51cExBWkdCTEtPQWRDeE5pcm8zRWI4cl8wTUh0U1daWk1HMHVzMVBWM2p1RTU4LU41dTAzZ2YwcGZK?oc=5",
-    "source": "Google News",
-    "time": "2026-06-26T02:18:19+00:00",
-    "meta": "조선일보"
-  },
-  {
-    "title": "Anthropic Accuses Alibaba of Largest AI Distillation Attack: 28.8M Fraudulent",
-    "url": "https://yipzap.com/anthropic-accuses-alibaba-of-largest-ai-distillation-attack-28-8m-fraudulent-exchanges/",
-    "source": "Hacker News",
-    "time": "2026-06-26T00:49:44+00:00",
-    "meta": "4 分"
-  },
-  {
-    "title": "Anthropic's philosopher answers your questions [video]",
-    "url": "https://www.youtube.com/watch?v=I9aGC6Ui3eE",
-    "source": "Hacker News",
-    "time": "2026-06-25T23:57:16+00:00",
-    "meta": "4 分"
-  },
-  {
-    "title": "Claude AI's link handling and fix",
-    "url": "https://www.FoolQuest.com/",
-    "source": "Hacker News",
-    "time": "2026-06-25T23:38:05+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWFdYaHZpMHUycWFwck0xOFJqRUc3WnR5dHg1VWVHeU52MEczck1OTXVlR3pfZGVsOUxCc3BnNWh3OHZqVDhwQUJwSnBCMlNDbkZpblpjaGhfZ3kwTy1BOUc5OXRWN0JIblYyektDbmtFTHZxWGtoWVg2cDJ1T2ZycndlZzNCVWR0S1ViX2ZBaC13XzQwQmRMZHB1bURHUmlzc1A0VE1RSG5RaEZrRmVrc1ZvWER6eWQzX1hJZzRR0gHDAUFVX3lxTE9BYm5YTEhFa1l1dnpaVmE0UnRHYktQekRLdmVzM3lCQkV3R2lLdVlFa2xKVXhma1hMQ1p0VWk5NGg4Nl9xS2VVOXRGaXJyRUFtVW15V1hiS21QRXoyNGs5Y243UkNfWDAwR010YzBNS2pFUklDdlg0LVJpMTRIOG1pNkpBZ21PZjRROVRkaVpMQVpVVnVpemZ3MVh6ZFBpS3hDTFZvbzRFUzJlSmpYNFEyeWpnOTA3ajJicDQ0anZfQmhwSQ?oc=5",
-    "source": "Google News",
-    "time": "2026-06-25T22:53:32+00:00",
-    "meta": "BleepingComputer"
-  },
-  {
-    "title": "Export Claude.ai chats, artifacts, and visible thinking",
-    "url": "https://github.com/lekandigital/claude-export-hub",
-    "source": "Hacker News",
-    "time": "2026-06-25T22:46:01+00:00",
-    "meta": "3 分"
-  },
-  {
-    "title": "Chinese A.I. Models Close the Gap with Anthropic and OpenAI",
-    "url": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
-    "source": "Hacker News",
-    "time": "2026-06-25T22:21:29+00:00",
-    "meta": "10 分"
-  },
-  {
-    "title": "Anthropic Accuses Alibaba of Stealing Claude AI Brain Power Via Distillation Campaign",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQXp3UU85UmxrU1dCMkpZeVd2OVVPSExTS2Y0ZDlodEFndks1Vkd1UXo0NVM0ejM2d0pULXRBVWJ1YmdDcEs0SmZGS09iWmhXMDlJSE9EVlZYVUxZeEM0dVhZY0Iwel9Nd2I2dTVGM3Rid05kYkFPa0lqRkVUMWQxZ0lHXzl2WnhOWDU2NUxya2Q4MFppRUJCbzRGcDF6NG5t?oc=5",
-    "source": "Google News",
-    "time": "2026-06-25T21:45:56+00:00",
-    "meta": "Android Headlines"
-  },
-  {
-    "title": "Show HN: A Claude skill that prunes your AI's memory file, one diff at a time",
-    "url": "https://puremint.co.uk/blog/stop-your-ai-memory-file-rotting/",
-    "source": "Hacker News",
-    "time": "2026-06-25T21:30:03+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "Elon Musk backs Andrej Karpathy amid Claude AI debate",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRUpNRGlod2EtQ3lSZkJRS2xNSDlLNEc1Ym1Ya19iMVZkcUY4OU9OcTI3SmM4MGFfSkMtTWh6ZUFHV0lTR2EzVVB2TlR2R0JvTDNJV1htcEFWdk5CYnFKMjBKV1BYQ05tcm1EU3ZhZjdFZWZ0UWZNblNUQ3B1Yks3WG5BWm95aFZseFRGLWJ4MUZNWmFjLWRYZmhNSnRueVc4RmxsdTJ1ZlY?oc=5",
-    "source": "Google News",
-    "time": "2026-06-25T20:46:37+00:00",
-    "meta": "The American Bazaar"
-  },
-  {
-    "title": "Claude Skills that turn your AI agent into an expert business operator",
-    "url": "https://github.com/adatarwa/operator-skills",
-    "source": "Hacker News",
-    "time": "2026-06-25T19:22:42+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "US restricts Anthropic’s Claude Fable 5 AI over security concerns",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1FLcUg4NHVvMFFIOVdjek9keEtUb195bXhqYTJEN21QdXFYcE1pemNfdWgtYlFXa3lFNkZvck16LWFCY2J6SlZlV05CODl3bVJETEhtUkRFZVhHTjhuMC1vYVZKV0QxUUxHTUxGa2EwSEIwenRxWjd0MWVxUnhPLU1GaURmN0pHcWJ6NHpGZi1mbTQtS0o0?oc=5",
-    "source": "Google News",
-    "time": "2026-06-25T19:15:26+00:00",
-    "meta": "Crypto Briefing"
-  },
-  {
-    "title": "Anthropic/Alibaba, Instagram Betting, FIFA",
-    "url": "https://marginpoints.substack.com/p/anthropicalibaba-instagram-betting",
-    "source": "Hacker News",
-    "time": "2026-06-25T18:59:32+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "Anthropic Alleges That Alibaba Pilfered Claude Capabilities",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORllDb3pvRUdDNnhSaEFVYTU1ay1sMmdhcW1lUVd6VFpRYk5lNXB0X1I0YlUxWHA4VUVYWjNOaWNXRE5UMkE2M00zTDg5YXBWZHZiVXIzTFNUYnNQbnZSZ016Mk1xV2hnZ0U2eUU1dXRVMmZBYzFISTMxVktSa01zOF9zVFBkUmVod0hncEVnSXlDSzZ4dmc?oc=5",
-    "source": "Google News",
-    "time": "2026-06-25T18:21:44+00:00",
-    "meta": "AI Business"
-  },
-  {
-    "title": "Claude Tag: How to Build Your Own Slack AI Agent",
-    "url": "https://www.arcade.dev/blog/claude-tag-build-slack-ai-agent/",
-    "source": "Hacker News",
-    "time": "2026-06-25T18:18:57+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "Using Claude Code makes you a worse developer, but a slightly better manager",
-    "url": "https://evgeniipendragon.com/posts/managing-claude-code-made-me-a-better-tech-lead/",
-    "source": "Hacker News",
-    "time": "2026-06-25T18:04:59+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdnhDVzBHUjBBMzZyZTJwWUstMlFiWHd5N2ZmSXhRMWllWUVldUZVdVduZmRIWGRycmNOQlZ3dDJJdEVKZTNkVWdNVEpVM0cwcjBZYTJodjJHOUV2ZDdSV1pqem9rdjJCanphTUhubllxaUg4N1lPXzRBeS01RjhRZHFBeVl1WUtZdWtMaUJRVnJueHFTV0JwQlViWVBWazJaNkkyX0w5VUxFTGdNTjd1VE9xQlZqZnoxeWdQcXMyNA?oc=5",
-    "source": "Google News",
-    "time": "2026-06-25T18:01:48+00:00",
-    "meta": "Ars Technica"
-  },
-  {
-    "title": "Claudecaine",
-    "url": "https://bfontaine.net/blog/2026/06/25/claudecaine/",
-    "source": "Hacker News",
-    "time": "2026-06-25T17:56:48+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVksxQlFkblFNRlhaZTNfX3o1ZXE0WEpGdmNrMmw5anQ3dTNXWnYxU0tGSE9LczVKTmo4cEk5WHJIM19qUlZJLWg3YlJHUERVdWItcmlSMFppYXBMWVJXUTdZN2Z5Mk5DUGR1Y2lVaWZ4N1RJOTFZcDFRZFNKcWprZjc2SjZLcFpDNGZBTHJURjd0WTRxcnJDTWY0M0hubzBkSThEYV84X1BmVXNPLWc?oc=5",
-    "source": "Google News",
-    "time": "2026-06-25T17:38:27+00:00",
-    "meta": "TechCrunch"
-  },
-  {
-    "title": "Anthropic accuses Alibaba of massive AI ‘distillation’ attack",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWHJMZlg5X2RQdC1JcHI5bVc2bFN1OXFzNFVFdlZrN0liRVZMckh0OHBxdHQ2UWo3Z3Fzc241MHhyMThfbzhiZ1BDZjM4a3JqRV9iT2kzcEJDdzdCVzZMa1FHZlJ4R3NCOGxDYnUyNU9iVWZ2NGVvSHNDQXNjbjkwTklBYnBCNTBnNV9sZDFFYzJpRGdSajNSVVp0Umh2WjJJMVRkcGlwZkVadzBESTZReQ?oc=5",
-    "source": "Google News",
-    "time": "2026-06-25T17:38:09+00:00",
-    "meta": "The American Bazaar"
-  },
-  {
-    "title": "Anthropic accuses China's Alibaba of stealing Claude's AI capabilities",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNzR0dUFhZnExR3d2RXlCT0dVaFRCT2o5aEdoUDFDNGRlSmRyaXFtS2F2M0dIUE9qRXhUMXFQM0M2dENfTmFXQkRlbmZyRWl1aHZWT1o2TS1ELVJZQVp1amJoN2UwV2k3UjkxQ2NZaHpEcXN5ekJHTXZweHlDdlllSktyNDhYZm1JVlo2M0t2UWpOSUlEWWg4amJQTWdkcVRCd1FPMVRsTkg?oc=5",
-    "source": "Google News",
-    "time": "2026-06-25T17:31:00+00:00",
-    "meta": "TechSpot"
-  },
-  {
-    "title": "Inside Anthropic's Claims of Distillation Attack by Alibaba",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOFBSc3hZWEc5UjFCMWZqZ043R2F5V21Sd25vZ0ZJUUdRVnQ3Rl9LX1BQN0VONnY2UDBmYng4WDdweFI0YlBTTlBYdGNzaFhFM3M1NGxBNUxvWmQ2M2l2X2dhZVhrbzB0SGZ4NW9kZVFOQWZmbFpZbWN5NHg3LTloa0dPSTg3ZlU1WkhqbUxzbDd4eWM?oc=5",
-    "source": "Google News",
-    "time": "2026-06-25T16:44:27+00:00",
-    "meta": "Cyber Magazine"
-  },
-  {
-    "title": "Show HN: I used Claude to write a tactics JSON for a football game",
-    "url": "https://aiworldcup.game/",
-    "source": "Hacker News",
-    "time": "2026-06-25T16:25:01+00:00",
-    "meta": "3 分"
-  },
-  {
-    "title": "Show HN: A Kanban for vibe coding in Claude Code and Codex",
-    "url": "https://www.fredrin.dev",
-    "source": "Hacker News",
-    "time": "2026-06-25T16:04:31+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "Anthropic says Alibaba illicitly pulled from Claude",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLWDZadTZnejMtbkpCLUliNVJKUW1IN05wblJpNmJLeVRLbm1zWmtXSmZ5VlJtS1BJbkVLaFZlYmV1NUt5VU80NVRuMlhKdkZUM3p5WmYyRTA4dGV1WXlzZzRkNTNJTTE1VGNnSmFkUGJFUlk2SXc?oc=5",
-    "source": "Google News",
-    "time": "2026-06-25T16:00:00+00:00",
-    "meta": "Taipei Times"
-  },
-  {
-    "title": "Anthropic Accuses Alibaba Of Large-Scale Effort To Extract Claude AI Capabilities",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbkFRM2NNek5yYzVqR3FTSDAyZ252UVlEci11WDdvZ0RMUnBBczhBUzEwdWhKUDFkUDIxOTV1UnVJUkE4azcxRlNjZTVJTnVVQVMwVndoeVFaVjJpWUlkUzNoeUxQRmJnampTOXVJSUJGQ1Bralp2SW5wVWI3TFlPUGlOUVRhckJndUhSVUJaaEgzVUUxSDlOV293OFpPaDdwU3dPQW11ZUpSM3M?oc=5",
-    "source": "Google News",
-    "time": "2026-06-25T15:53:45+00:00",
-    "meta": "International Business Times"
-  },
-  {
-    "title": "Anthropic accuses Alibaba of mass distillation attack on Claude AI",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kTmRGU2RZSnNJZGRGTEhTZTc4blRkNVktZ1pWaUx5UFV5WGRhS1ZCR1cxSnJERmRaOGxLZE9HUE9MQ3RaTzdCdkg4Z3FhTjRVSkpqRFAyWXdkUFFRMDN5cTdXRUpfRHp2MjdIY25Ha3YtbzRxbnVlQg?oc=5",
-    "source": "Google News",
-    "time": "2026-06-25T15:49:50+00:00",
-    "meta": "qz.com"
-  },
-  {
-    "title": "Claude Code Hints at Fable Return",
-    "url": "https://twitter.com/synthwavedd/status/2069813760622043483",
-    "source": "Hacker News",
-    "time": "2026-06-25T15:45:31+00:00",
-    "meta": "7 分"
-  },
-  {
-    "title": "The Trump White House Is over Anthropic CEO Dario Amodei",
-    "url": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
-    "source": "Hacker News",
-    "time": "2026-06-25T15:44:44+00:00",
-    "meta": "6 分"
-  },
-  {
-    "title": "Anthropic accuses Alibaba of largest distillation attack to date",
-    "url": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html",
-    "source": "Hacker News",
-    "time": "2026-06-25T15:43:32+00:00",
-    "meta": "3 分"
-  },
-  {
-    "title": "Did Alibaba Illegally Extract Anthropic’s AI Capabilities?",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQWZYUm80YkNSeFFKVDdib2lJWm1xTnBEYXBaTW42NDRvM1J1MTFHMG8ydWxfcnkydmhYbTIyZEtWZk5ZTkUwN3RxcGI5S3FLTkE3LUZWXzBVd1NUbmx3ZEpVR2lkRGI4SFFjaFVwcDhUTUVmTDh0bGdKM0xxdUc3eXREeldOM3JEUEU2MA?oc=5",
-    "source": "Google News",
-    "time": "2026-06-25T15:43:16+00:00",
-    "meta": "AI Magazine"
-  },
-  {
-    "title": "Anthropic accuses China Alibaba of conducting Distillation Attack on Claude AI Models",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbEVvSUNqeWJjSXJPY3Zhd0JBVVdkY2VZdzRZSUxZdFM0VHRJSGl5YmxLSW5PdnpSZXk3NXZNRWZEdV9sWGpVdEFKa2JqdVJQQjMyLVRhSjNRYUMybkNQRnhKOWZWRUd4eVFaZTFMOHhpaGxGdTZhT01nZWZIbXBKX1ZOTVpvbERXeUw3VHZMZlJWc3k4VVpDLVlDcWRyN0FfN1J3MVFrclJKcVdKeEVpdldQZVpBcVd5c3c4Zk9IUWNmcFk?oc=5",
-    "source": "Google News",
-    "time": "2026-06-25T15:36:59+00:00",
-    "meta": "Cybersecurity Insiders"
-  },
-  {
-    "title": "Chinese A.I. Models Gain Ground on Anthropic and OpenAI",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk9RRzFlT3oyWGV2NXBQcEQyWmtFSllXV3dXd1VKVEF5T0R5OHYxaDgtcTgxdWpaWlB3TVlZbG1vUWxxLV93WC1iVnIyWmtYeE9ET25MbDJtQ0JWV1k3MHVYSTA0OURFYy1EbWVaelBUQlV6OTlCNDNIRzFIdWp0a0RlZG5aUTJQYWR3amhHNmZzbklEMVE?oc=5",
-    "source": "Google News",
-    "time": "2026-06-25T15:34:41+00:00",
-    "meta": "The New York Times"
-  },
-  {
-    "title": "Alibaba Stock Slides Further On Report China Tech Giant Tried 'Illicitly' Accessing Anthropic AI Models",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUERqSndpc0ZpcDF0cHZSSTdQcUh3d2xNRjdTdWppRnRlMFdwR25KRWVBZFdwQ0NnTnpxVzJJMGpTQVJSNm50Sks1RHRtbjk5Q3g1Q3hvX01nVkJnMmRXYlYzLURleUhVQ1U4YUcwNWF5aUxpNEQyRzF2R3dIc1J3Nkk0SVpKaTJO?oc=5",
-    "source": "Google News",
-    "time": "2026-06-25T14:33:00+00:00",
-    "meta": "Investor's Business Daily"
-  },
-  {
-    "title": "Anthropic, fighting lawsuits over alleged copying of song lyrics, accuses Alibaba of copying Claude to train a rival AI",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSmtpWERNU1ZUQUl0V0MzSTE5aVRzT2lpQUZuV0h4QUFKdE1qaEIxdFFyZmhic1NQVzBSRk9zbHdDeEdfSWF6M2xoWVI0dWo0ZXlIR1VzajlwWVFiR0FIcUc4MWZfMFVWYTNISHJabGtpQUV0SVpwZzh3UjZBdDdYZkxYLXhlSGdHR1ozY19icEo3UWFQVGVKS2ZfeVlOTDBWQ0VxV0E2b29xMXhYZmxnRExwVmRyQUh5bnFyc0lMTDU5a2M1Ym9OcGN5bVlGMkZ5U2x0ZFowMUF3cnlydlVOU1JYcU81ZUZJU2psVU5n?oc=5",
-    "source": "Google News",
-    "time": "2026-06-25T13:30:31+00:00",
-    "meta": "Music Business Worldwide"
-  },
-  {
-    "title": "China's 360 says it has developed tools to match Anthropic's Mythos",
-    "url": "https://www.reuters.com/legal/litigation/chinas-360-says-it-has-developed-tools-match-anthropics-mythos-2026-06-24/",
-    "source": "Hacker News",
-    "time": "2026-06-25T13:21:26+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "China's Alibaba used 25,000 fake accounts to gain 'unauthorised' access to Claude – Anthropic",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdnllSzBwM245VTFTVVl4Tk9zWmxVSGx6UXhKeUxnMlp6cENLNFVyc0ZvOXdzT3N6M3FFTmdzUnloRTFmb1BqOW1KUm5wdWR2cTRQdm9wb2l6LXYyWU8xZS1VTFhCTVVrUlE4X18zVWVxYkp1MkpJeVoxcWJWTFdhMFFqZWxteGoxRTFF0gGQAUFVX3lxTFBOV01EZldsNlI5Q01ybFRtaGY3WEk2UGE3ZUJsbkFRSHdXOW5qbWJxUFhzV1dpSUFXcVdOUGNNenBoVXN3N2pYM0RaTkpOMVJZb0N3YXd6bnNja3FVVkNsd2RrZmVUQ2RTd3RFME5keDZma21hSXlNYkwyckxfNzNBUjRqWk9tRVlBTElQV1R6eg?oc=5",
-    "source": "Google News",
-    "time": "2026-06-25T12:28:00+00:00",
-    "meta": "Mezha"
   }
 ]
