@@ -1,10 +1,199 @@
 [
   {
+    "title": "Show HN: Use After Effects with Claude Code, Cursor and Antigravity",
+    "url": "https://github.com/Arman-Luthra/aftr",
+    "source": "Hacker News",
+    "time": "2026-07-13T01:35:35+00:00",
+    "meta": "6 分"
+  },
+  {
+    "title": "Anthropic lets Claude users see how they really use AI | ETIH EdTech News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM01pZnE2NUpSa0NGZF9Pbk9oNnc1Wm9keEU5aDlXNkhNM3BfeERrQk85dHk4S3huR3c0OFdCRXRORVBXVzZDUHVRYU5Ka1pURWpIbm1FZkNLT0NDMVByQzNJdUFuSVdzbzVNdWR5TmJfNW5nZVU5MWRjU012d3pvaFZUVFV4RFFTa1NnaFM3eGZKckt6LXFnYndHSnBlcExENWJiMXJoZ0c?oc=5",
+    "source": "Google News",
+    "time": "2026-07-13T00:15:14+00:00",
+    "meta": "EdTech Innovation Hub"
+  },
+  {
+    "title": "Claude Code Usage Global Leaderboard",
+    "url": "https://www.claudeusage.com",
+    "source": "Hacker News",
+    "time": "2026-07-13T00:13:10+00:00",
+    "meta": "2 分"
+  },
+  {
+    "title": "Australia Tops Claude Usage",
+    "url": "https://www.forbes.com.au/news/innovation/australia-is-the-worlds-biggest-claude-user-now-anthropic-wants-more/",
+    "source": "Hacker News",
+    "time": "2026-07-12T23:50:12+00:00",
+    "meta": "5 分"
+  },
+  {
+    "title": "Grok 4.5 and GPT5.6 beat Anthropic for finding security vulnerabilities in PRs",
+    "url": "https://docs.damsecure.ai/blog/pr-review-security-benchmark/",
+    "source": "Hacker News",
+    "time": "2026-07-12T22:57:23+00:00",
+    "meta": "9 分"
+  },
+  {
+    "title": "Anthropic extends Fable 5 access through July 19",
+    "url": "https://news.ycombinator.com/item?id=48884990",
+    "source": "Hacker News",
+    "time": "2026-07-12T21:27:24+00:00",
+    "meta": "3 分"
+  },
+  {
+    "title": "We're extending Claude Fable 5 access through July 19",
+    "url": "https://xcancel.com/claudeai/status/2076351399999557669",
+    "source": "Hacker News",
+    "time": "2026-07-12T21:17:11+00:00",
+    "meta": "3 分"
+  },
+  {
+    "title": "Theia, a fact-checker that flags sycophancy from ChatGPT/Claude/Gemini",
+    "url": "https://gettheia.org/",
+    "source": "Hacker News",
+    "time": "2026-07-12T19:52:53+00:00",
+    "meta": "2 分"
+  },
+  {
+    "title": "Abnormal Response to Anthropic Lawsuit",
+    "url": "https://abnormal.ai/blog/abnormal-response-to-anthropic-lawsuit",
+    "source": "Hacker News",
+    "time": "2026-07-12T19:49:20+00:00",
+    "meta": "2 分"
+  },
+  {
+    "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc0lsel93dHhiN0d2bXEwZmpDTk50SDZYTGtiX2tYMUUtUHo4TnZOVW9EaWJDMkVmcHdZT1g4V2w1ZDdKcDJjYTdUYUt2aXVJTHNJY3NDQmFCRWpaaVNqbFZUaEczRUFVMWFDUEFWNE5hUF9uYy03em1ETlpTRDc1MFpnVU1xNl9ORE81WTdXT3Q3STJjeTA5NGNtSU1YSmNCNXc4Skt1SUhaR0EtVVBBd1llLS0xRXNGRlFQT0NCdWdTNUc5UXljS1k4X2o0R3JxTTRKdi1pY21TUEx3bEHSAeMBQVVfeXFMTWJiT3RadlJ4blVGTWhPMUc4T01EV3RENWUxZUFvd3lsdW5MbUlHQmNDR1Jrd20tejB3enZoZllUVnZVWmlkUVhCU3VLWTNSTU04SjZrOGNGanJfbjdYSGd2SE44X1dFUHJGaTJ5LXI2OGRzd2NVajhxQzRIMFVOc0YtOVNNMFdJODdidHQwY3VUaFRiQTN0dVJOYkJ1QjNseF9qZFVsbzFsSUludWhBNHg0V2hmSVQ2TUE5cTZGcnF4SGUycmltQ2RIYlJ5azZrS2IwUExqX1cyMWE2WVJNZWVCa3c?oc=5",
+    "source": "Google News",
+    "time": "2026-07-12T19:39:12+00:00",
+    "meta": "BleepingComputer"
+  },
+  {
+    "title": "Anthropic introduces Claude Reflect to help you understand your AI usage better",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaGFYQldVX1psWW50MjNYcXg0SmZvb1RmXzEwNjFldzR3RUlOZEFFZTRhYjdWaGJGc2xoYURUVUNMZmtGN2hPVmppajQwVWRwXzU4NnFkaHhIcENUR1lydTkzRFl0OGdmazFxUkF6TmpVNF9HS3NwcGxqc3lpTWVSMGhxOG1JVGkwbnFiSDc0R1hNelNJWFF1UUVvOF9MSE1YMFlGTW90cEd4dFpKUFBMVDUwQ0cyUVlHWU15cXRTRkNUUdIBxwFBVV95cUxQR2FnWU9HaWg1bDdheUlRSXRtb0k1VzFCNW84ZGFIZldBWTR0Y0RUbG5wQ0hYcGNLdW14X2pPSUdPaEF2ZS1UQ1FBN3p2ZWJ6NnRuX05zUGhMMFR4NjRFVnNsbEJudVRvRkJDTUM1a25SdWlhb1ZkTFNLUnRCS1pmZl9CS0lMZHhVZnp3Qk1vOUUzWVBSaHJaZWpKdmU0NkxMeVg5eTFsNWpQdHFtU0lBTHRlSlJxUnFEMmRXZ2htRDhMY2hjdnhV?oc=5",
+    "source": "Google News",
+    "time": "2026-07-12T19:38:56+00:00",
+    "meta": "Firstpost"
+  },
+  {
+    "title": "Anthropic extends Claude Fable 5 access through July 19 for paid subscribers",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSlluc2FzQnlQYjY1T0JLdnJ3MXFBQVhncy1kWEtoMkNmUkxMb19GTy1vd2thMGJROHBGRXEzaU84cGpKdDB4czQyblFTcnRmOEdDTGotN0l5RndUOElVdTQ1LW9wT05MODFhbTZtb0ZMQkEwSl81UWNRTEdFZFM1dDQtQ1RURFVwMXcxT3VERG5HZXRzLVVteWtWd0l2Ni1UX0M5d1I0dGlzLWM3X0F6VnNpbGNQc215Q2YzRlVB0gHDAUFVX3lxTE5MYXF1ZmYwdnA1c0hQeU5pSHlDY0pUTEVQTU1UWVdWb2tUY0daVkZRV2lrd05ZbTN4dEJPejBKQmZJbzJlYllBUWFkUmU1YTVrY01aczVObnhkS0hKYzZybkNFVHdabElTLWlwbk9PRmN6U2VyUDdpUkpSMTR0TTNlSkNMckJOc3B5d0ZhbVlCbTJKWmxZaHdmdkd6UXZvWkR2Wi1SamxBSmdTWEtvZkpPSGJjV0JXRzg3eGpMODFKNG9GTQ?oc=5",
+    "source": "Google News",
+    "time": "2026-07-12T19:11:53+00:00",
+    "meta": "Firstpost"
+  },
+  {
+    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+    "source": "Hacker News",
+    "time": "2026-07-12T18:25:51+00:00",
+    "meta": "492 分"
+  },
+  {
+    "title": "Anthropic Adds Built-In Web Browser to Claude Code Desktop App",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQzRIc25NUVRFejgxWlp6bU94SVdMX2JMdVl2VXVheUE4TlZYNEdnYlh4YkpMMUhfWkljd1lVa0hsODhzV1RLOTc5QU5nUU84UkFaX0lpZlBHWWhKc2g3dkt5ZXBpdGtUZXdWaGhVY2h0dnRaNTVHX0VIZU8tVHRBNzVpQlNjMUJweTJF?oc=5",
+    "source": "Google News",
+    "time": "2026-07-12T18:19:43+00:00",
+    "meta": "MLQ.ai"
+  },
+  {
+    "title": "Claude Code May–July 2026 weekly limits promotion",
+    "url": "https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion",
+    "source": "Hacker News",
+    "time": "2026-07-12T18:01:29+00:00",
+    "meta": "42 分"
+  },
+  {
+    "title": "Claude Fable 5 access extended through July 19",
+    "url": "https://xcancel.com/claudeai/status/2076351399999557669#m",
+    "source": "Hacker News",
+    "time": "2026-07-12T17:36:42+00:00",
+    "meta": "9 分"
+  },
+  {
+    "title": "I connected my net worth tracker to Claude via MCP",
+    "url": "https://getvalyou.co/claude",
+    "source": "Hacker News",
+    "time": "2026-07-12T16:28:57+00:00",
+    "meta": "2 分"
+  },
+  {
+    "title": "Claude Reflect is here. It’s your usual yearly Wrapped, but with Anthropic’s AI",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaXdQREpwY0FVQTVhNmlOaExEV19FbWJyRmFMYjZWbVQ0NXJRb2tsTW0yY1EzR050eGNJdnZtYkFkVFF4SUtGSDZfT0hxa2JZR3BDLW1BTEJvOHdEQnFyVDFQMktUdzhqX2ZQUnBUWGlMSXk5alBzREd0cHhzYlFWaF9MU09qSFh5bWtzTWtCSmFHckZ4c3ZB?oc=5",
+    "source": "Google News",
+    "time": "2026-07-12T15:00:13+00:00",
+    "meta": "Yahoo Tech"
+  },
+  {
+    "title": "Autoresearch, Claude and Constrained Optimization",
+    "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
+    "source": "Hacker News",
+    "time": "2026-07-12T14:32:00+00:00",
+    "meta": "29 分"
+  },
+  {
+    "title": "Microsoft joins Google in backing Go for AI agents — OpenAI and Anthropic lag",
+    "url": "https://thenewstack.io/microsoft-agent-framework-go/",
+    "source": "Hacker News",
+    "time": "2026-07-12T13:39:33+00:00",
+    "meta": "5 分"
+  },
+  {
+    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+    "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+    "source": "Hacker News",
+    "time": "2026-07-12T12:13:29+00:00",
+    "meta": "14 分"
+  },
+  {
+    "title": "Claude Cowork's biggest use case is the mundane office work nobody wants to own, Anthropic says",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdl9XYWMwRTdUcUJDa3lXQlRqMVhxbU5QSFA2cmFvUVU4U0tEVHE1ODhHQVhrMlFncGdnd29UelZvdHU4YW1GQlRNcXFsUHVRWjY3MkVGT1gyTkFaaFp2MUYxVkNXNXpTSllmOVFnTm5Od2Rsc1JkMTFaVzJ1TTcteWw5QzlibWtfdmNONkd5clMzUWZtaXFRRFItRjFZWHI1WmdpOXl3eTFWZE9SaVg3TW8xMFNkWnp5b1E?oc=5",
+    "source": "Google News",
+    "time": "2026-07-12T09:37:40+00:00",
+    "meta": "the-decoder.com"
+  },
+  {
+    "title": "Show HN: DejaView – Terminal dashboard for all your Claude Code sessions",
+    "url": "https://github.com/dotbrt/dejaview",
+    "source": "Hacker News",
+    "time": "2026-07-12T08:52:40+00:00",
+    "meta": "2 分"
+  },
+  {
+    "title": "Claude AI Performance Decline: User Complaints of Dumber Responses Addressed by Anthropic – It’s Not the Model That’s Underperforming",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WWF91REpXLUNPVUZfOXNISU81c0JYQW1pdG1lZ2hnVEVZOUpSMHI1TXlTUFl3OG1ySlNXTDM3V1hTZXlYeUlUS093czZmRVk4N2xZ?oc=5",
+    "source": "Google News",
+    "time": "2026-07-12T06:02:44+00:00",
+    "meta": "36 Kr"
+  },
+  {
+    "title": "Built a tracker to estimate water wastage when talking to Claude",
+    "url": "https://github.com/piyushkhemka/sip",
+    "source": "Hacker News",
+    "time": "2026-07-12T05:01:34+00:00",
+    "meta": "1 分"
+  },
+  {
+    "title": "Show HN: Chameleon – shows Claude a real file from your repo before it edits",
+    "url": "https://github.com/crisnahine/chameleon",
+    "source": "Hacker News",
+    "time": "2026-07-12T04:04:19+00:00",
+    "meta": "1 分"
+  },
+  {
+    "title": "Run Claude and Codex in the Browser [video]",
+    "url": "https://www.youtube.com/watch?v=wgNbFRgQXwU",
+    "source": "Hacker News",
+    "time": "2026-07-12T03:39:10+00:00",
+    "meta": "5 分"
+  },
+  {
     "title": "Show HN: Confessor – replay what private info Claude Code accessed on your PC",
     "url": "https://github.com/ninjahawk/Confessor",
     "source": "Hacker News",
     "time": "2026-07-12T02:09:58+00:00",
-    "meta": "4 分"
+    "meta": "10 分"
   },
   {
     "title": "Secret Claude tracker surprises users after Anthropic's anti-surveillance stance",
@@ -32,7 +221,7 @@
     "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/",
     "source": "Hacker News",
     "time": "2026-07-11T20:21:25+00:00",
-    "meta": "44 分"
+    "meta": "48 分"
   },
   {
     "title": "Show HN: Use GPT-5.6 and other models in Claude Code",
@@ -77,20 +266,6 @@
     "meta": "4 分"
   },
   {
-    "title": "Meta Plans to Build AI Computing Platform, Reportedly Set to Directly Operate Anthropic's Claude Model",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PUUpLTVhoVU9vR19USk83UThrdnF3b2Y1b0dsVlp2Qms2S2FIeWRtU1c1V0FMc0d3RDdQYkFzejZtMmtDVFY0dWI1b0otNFpEcktBVlhuRU9xc3liNmZfSzdaU3BIbGRCN2s3OXExamVhS0hlMWc?oc=5",
-    "source": "Google News",
-    "time": "2026-07-11T18:05:00+00:00",
-    "meta": "finance.biggo.com"
-  },
-  {
-    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-    "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-    "source": "Hacker News",
-    "time": "2026-07-11T17:29:39+00:00",
-    "meta": "3 分"
-  },
-  {
     "title": "Anthropic Tried to Charge a Korean user $16.6M",
     "url": "https://www.internationalcyberdigest.com/anthropic-tried-to-phantom-charge-16-6m/",
     "source": "Hacker News",
@@ -98,32 +273,11 @@
     "meta": "4 分"
   },
   {
-    "title": "Show HN: Aether – Run Claude Code, Codex, or OpenCode in devboxes you can watch",
-    "url": "https://www.runaether.dev/",
-    "source": "Hacker News",
-    "time": "2026-07-11T15:25:00+00:00",
-    "meta": "3 分"
-  },
-  {
-    "title": "Show HN: A meditative waiting room for Claude/Codex",
-    "url": "https://waitingfor.ai/",
-    "source": "Hacker News",
-    "time": "2026-07-11T15:17:14+00:00",
-    "meta": "1 分"
-  },
-  {
-    "title": "Show HN: I used Claude to make some free fun pet-themed browser arcade games",
-    "url": "https://whatpetshouldiget.com/play.html",
-    "source": "Hacker News",
-    "time": "2026-07-11T14:18:22+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "Google CEO Sundar Pichai on the one AI race Google is ‘losing’ to Anthropic and OpenAI, says: We maybe di",
-    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPb1A1cE9JeXA0UUE3TnoyOGVkN0ZKRmVkT1ZMcGgwd2JKTGE3em9MbjdVcVlObmRaNVZERUdGbEEyblplSk5JWmxTUVlpRFZMZm9vOG5IVVYyNEFHelVsWlIxNElEbzBrMVF1YVhPcTVST2wzNHJtZ2NQMjFzczJOdTdwSjV3ZFZLVXJ3QkRvMzVpN2tuQ0h3R1VtSGwwMHpoeUVJTU1Hc2Z5X0thWmRXN0RZdFRaeEhBcU9WanhxZ3VkN1YycVFGXzRhZXF1cTJ2S0FyWTRjMzhHVUpSb1Z5T2VsUEtVNEFST2xDMnl1YWZGd0hxOG5ONUc2RC1acU9sMFp4MHRFTVpsMUdiRGtHcjdzM2JQV1ZqY2Z2eGF4bmd5VzExcHhpTDh4VdIBsAJBVV95cUxNeGNQX2JHSGRyN3AtdlJyY2NubTlVZ3RkZzI4S0RGTXAtZUU1ZkJaQ1NsWTFBblZVYTV4X3JsQzVuaTBNd3JSenNxTERsRjlLRUduRXhHdnZ2cDJoRUZOMHpVRjkxb19QT0FDWUJJQjRHNFVMOVdzQ1ZLbzBPejk1UWktVHFuODlScWZJa2RySFZvS0RsTTUzWjRHN2xWQWE3dWpFdzRGd2phd1dGdGc0Vmd2N2dSTzZua3BKaWRkdHUtV2FxOU9nZTNkVHh2OWhSUXpUaXQxRHJFbWR3bHJKWGptSVd5Z3FEVUhOLXpIaE91aHJCUXJWRlZOaDR1LXpKaWpWRzhCZngtd3E1QUZNeUJWd2xyNnNxS3NpdTFsc1ZCZU84UHc2Mnk4Um9hWmly?oc=5",
+    "title": "Elon Musk Admits He Was 'Clearly Wrong' About Anthropic— and Promises Not to Weaponize SpaceXAI's Compute Access Against the Claude Maker: 'Not My Style'",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSzdjaWhlRlIxazNzdWppcUVBbjNnLTkzd1ItS1plN2h6QTYwUE9kRWRxbEl3eW9VcENST2pxdGhlRjlNd1BqQnU1UHFvVFUwVW9wb0NNdUNHTEdwNC04YmdIN2RiRkJfRFNkWU5YLU0zNWJreW5Rd2JxV3dvWmREVnRaMl8yTDFLdFV2eGtKbHFmRV9hYS10WHZ3?oc=5",
     "source": "Google News",
-    "time": "2026-07-11T13:41:00+00:00",
-    "meta": "The Times of India"
+    "time": "2026-07-11T15:02:23+00:00",
+    "meta": "Yahoo Finance"
   },
   {
     "title": "Is Claude becoming more human? Anthropic uncovers a hidden thinking space",
@@ -131,27 +285,6 @@
     "source": "Google News",
     "time": "2026-07-11T13:17:40+00:00",
     "meta": "The Indian Panorama"
-  },
-  {
-    "title": "Claude Code weekly limits will be lower from Jul 13th",
-    "url": "https://old.reddit.com/r/ClaudeAI/comments/1tc9oa0/claude_code_weekly_limits_are_increasing_50_now/",
-    "source": "Hacker News",
-    "time": "2026-07-11T11:07:59+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "Show HN: Code Airlock: Run Claude Code and Codex in Disposable MicroVMs",
-    "url": "https://github.com/Trivo25/code-airlock",
-    "source": "Hacker News",
-    "time": "2026-07-11T10:16:50+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "GPT 5.6 Ultra better in Claude Code than in Codex?",
-    "url": "https://twitter.com/theo/status/2075776733626892542",
-    "source": "Hacker News",
-    "time": "2026-07-11T07:22:11+00:00",
-    "meta": "2 分"
   },
   {
     "title": "Beyond Claude Code: the Chinese AI tools poised to benefit after back-door alert",
@@ -168,13 +301,6 @@
     "meta": "Ubergizmo"
   },
   {
-    "title": "Hasharot – Control a Claude Code agent on your machine from Telegram",
-    "url": "https://github.com/Mamasodikov/hasharot",
-    "source": "Hacker News",
-    "time": "2026-07-11T05:41:01+00:00",
-    "meta": "1 分"
-  },
-  {
     "title": "Anthropic Claude Sonnet 5 Powers Up Dev Tools",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbDZrcG5WTElhYnNEUm1xaEpjSERZZGxoOFkza2dfQWZWMjhiZ0EyRF9jcGc0emwxamRpTTJSellXYlhrOHRvaVhjZ1RJM2s3cHFObTdtckhTc3BMSm84RXBpYURfa0tNZzdKYUl0OUtCTGc5aV9rS05NRm9jTTlQZjhwOF9URFRzejh1SE1Ic3dVaWhrNXI5RXJqVQ?oc=5",
     "source": "Google News",
@@ -189,39 +315,11 @@
     "meta": "3 分"
   },
   {
-    "title": "Show HN: Persistent Claude Code sessions you drive as a terminal or a chat",
-    "url": "https://github.com/thrinz/agentpeek",
-    "source": "Hacker News",
-    "time": "2026-07-11T02:07:42+00:00",
-    "meta": "1 分"
-  },
-  {
-    "title": "Show HN: I made Claude explain like I'm 5, and AI fatigue disappeared",
-    "url": "https://github.com/amebahead/explain-like-iam-five-rules",
-    "source": "Hacker News",
-    "time": "2026-07-11T01:51:48+00:00",
-    "meta": "1 分"
-  },
-  {
     "title": "Gilbert Strang Joins Anthropic",
     "url": "https://twitter.com/GilStrangMIT/status/2075666580990464489",
     "source": "Hacker News",
     "time": "2026-07-11T01:43:53+00:00",
     "meta": "3 分"
-  },
-  {
-    "title": "Claude Savings with context caching awareness",
-    "url": "https://github.com/regolo-ai/brick-SR1",
-    "source": "Hacker News",
-    "time": "2026-07-10T21:55:43+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-    "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-    "source": "Hacker News",
-    "time": "2026-07-10T20:52:28+00:00",
-    "meta": "153 分"
   },
   {
     "title": "UST Partners with Anthropic to Bring Claude to Engineering and Enterprise Operations",
@@ -273,24 +371,10 @@
     "meta": "All-Source Intelligence | Jack Poulson"
   },
   {
-    "title": "I just made $25K USD with my capybara game built with Claude Code",
-    "url": "https://old.reddit.com/r/ClaudeAI/comments/1urzr1q/i_just_made_25k_usd_with_my_capybara_game_built/",
-    "source": "Hacker News",
-    "time": "2026-07-10T14:49:52+00:00",
-    "meta": "1 分"
-  },
-  {
     "title": "Mythos 5 offered outside the US by Anthropic",
     "url": "https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860",
     "source": "Hacker News",
     "time": "2026-07-10T14:26:20+00:00",
-    "meta": "1 分"
-  },
-  {
-    "title": "Record before and after clips for pull request using Claude Code",
-    "url": "https://www.pr-preview.com",
-    "source": "Hacker News",
-    "time": "2026-07-10T14:21:46+00:00",
     "meta": "1 分"
   },
   {
@@ -299,13 +383,6 @@
     "source": "Google News",
     "time": "2026-07-10T14:19:09+00:00",
     "meta": "The New Stack"
-  },
-  {
-    "title": "Sol 5.6 on $20 Codex did 2.2x more average tasks than Fable 5 on $20 ClaudeCode",
-    "url": "https://devforth.io/agents-for-code/",
-    "source": "Hacker News",
-    "time": "2026-07-10T14:17:31+00:00",
-    "meta": "3 分"
   },
   {
     "title": "OpenAI, Anthropic Employees Could Buy ~1/3 of All Homes in SF with IPO Earnings",
@@ -341,82 +418,5 @@
     "source": "Hacker News",
     "time": "2026-07-10T02:39:07+00:00",
     "meta": "80 分"
-  },
-  {
-    "title": "Anthropic Resets Claude Code Usage Limits Again After a Rough Week of Outages",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2h1NmxkaEpnNlpkemhuNl9BMkQ1eThoekRBdnhGendRRkRjRTRrcTUxSmF5M3RkRlhnNzI5WmttRE9HVlp3clhHWmV0alpxX0NVaHRNcHVjcFVsWU53NTZCLVRDT0w2dzQwYm1UU3o1OFQyNWpxUGQ3Wkc0anRhR081eTZBQ3V6a19BTnJTT254S1luRjhQZ3pjLWtGMS1aSGRlTlpmajg?oc=5",
-    "source": "Google News",
-    "time": "2026-07-10T01:01:19+00:00",
-    "meta": "Startup Fortune"
-  },
-  {
-    "title": "UST is bringing Claude to physical AI",
-    "url": "https://www.anthropic.com/news/ust-claude",
-    "source": "Hacker News",
-    "time": "2026-07-10T00:45:06+00:00",
-    "meta": "3 分"
-  },
-  {
-    "title": "China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdVFrbTBnNUdXbUt2UjNfMmtOSFJfR3RSSmVud2ZNTzVlNDhpQkpaZlpuU0FTRTUtU09VYV9PLTZ4S1VDekphaUR6TDJMdUNTb3JmUjdhMjVKSE5RZXM2aG1UZ3lSdHh2bDhqY0ZuNExLR1MzQjJvWTQ5ZGJzVEZDZXZoa1VyQko3R3hR?oc=5",
-    "source": "Google News",
-    "time": "2026-07-10T00:31:00+00:00",
-    "meta": "Technology Org"
-  },
-  {
-    "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWg4QlB6VW5lZ282SHlQRWphdjRWSnVLUkhXNWUyYlN6dnhPYjVST2t6UmVXWmRMX3NDZFk0dzdtdVhaZV9DTUxnTkt2R2VuMlhRYnJwY3VBNlk5bXFTZEFzTGxLRlM3aG1aYmVLSU84UVFyRE1IOWkxR2NiRnVyT1AyOXFiLTFuTW5KekFqLUZTTHJxbFFXS0tmOEg5d0Jw?oc=5",
-    "source": "Google News",
-    "time": "2026-07-09T21:57:42+00:00",
-    "meta": "TechCrunch"
-  },
-  {
-    "title": "Elon Musk says he was wrong about Anthropic, now calls the AI rival the 'leader'",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRjhMU0szcDZGZEJyYzFqMnlxMVV5Z25mbVNyMi1qQnBUYWp1U3pQZnA0dnBpQll4dzZHMkdlc09heTBJYjY3UG9GX25sd1VKMEFSczR6UmFfMVNtTndFYnlGVDJ4TXI1U3JnWGNtUHlId2E3a09KUUE2ZDVkV1lqSWhEbzd1SndpZzFNUm55QWwyMEc4?oc=5",
-    "source": "Google News",
-    "time": "2026-07-09T21:53:00+00:00",
-    "meta": "Business Insider"
-  },
-  {
-    "title": "Path to Hope – Anthropic",
-    "url": "https://www.anthropic.com/path-to-hope",
-    "source": "Hacker News",
-    "time": "2026-07-09T21:06:44+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "OpenAI's GPT-5.6 and ChatGPT Work aim to beat Anthropic on price, speed, and productivity",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWW9WLWdnWjd4U0pldDNWQVlxZDRvVXdsS2xna0w0alc3aWlJMW1zMGp5M0hnNndadG11WjhhSHU3eXUxR21WQmVKVlNmd3JBQm9CYWE2NGUyNDY3MDU2RU5JazRjYXV4STAySEd4UVRrYVRsNnNVODc0dWFHWjNfdjFUWTRpWDFURWc2STk2d1FjNWJUNS1pRk45WERjSzZzdFdPVWZOemNkUQ?oc=5",
-    "source": "Google News",
-    "time": "2026-07-09T20:26:00+00:00",
-    "meta": "ZDNET"
-  },
-  {
-    "title": "Anthropic invites the hard questions about AI in latest Claude campaign",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMGFKel9mdWRQREl4YmU0OU8tOGJTYlpQcmxUZWxHQzdOanJDWjRzMWNBdVdkWkNNczlPNElMVWRkYXlKeU1ISUVLdVJiZFhKd0V0ZVl4U09PWWZsWnNHdHdZVDdlc2ppWFAtd2w0OGxKbjlrZWM1N3pRVnR1ZmNmR1pNSQ?oc=5",
-    "source": "Google News",
-    "time": "2026-07-09T20:00:00+00:00",
-    "meta": "Ad Age"
-  },
-  {
-    "title": "Anthropic’s Claude Code Just Set Off Alarms in China",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU2JfeU01Q1p5QnRsYXAwcWNLQmNVbjFnV2lSWnVFWFowUTc3dlJQOHZ3OEd0Z2JkLS1sOVp5SDV3Y1J0eGlfRkMtWExjV09ZVVdUS0xWaGhUV0l2c3dMYlQ4Zi1fMkw4dzNMRF9Ga0ZIamxrUHc1NGVmd2EtWDRvb0FKXzQ2Szlra0lmclhRNVBKdnN5UHJDbE9pWUI3T3RWRjBJc0VtQWFwWHppMUVXSVl6cENuZw?oc=5",
-    "source": "Google News",
-    "time": "2026-07-09T19:37:02+00:00",
-    "meta": "Benzinga"
-  },
-  {
-    "title": "A view from inside Anthropic’s Claude Partner Network",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaDJTUlJ3NXhhQjJoNUYwZy1Ka2RKcTlYU21PWUw0Y1hhWjAyZmg0cXFZbEhoLU41bTg2ZGZLYkJjRElPSG94Q1hfNzhvd2FyUno0WTc2bDFLb3hlOGdpcWVjSzE5cjdsZjZnaDRZVEgxa0k0a3dlSXN4YlJIX1I4RmlfemVRMkxUZnc1Mm9tX29Jdw?oc=5",
-    "source": "Google News",
-    "time": "2026-07-09T19:05:44+00:00",
-    "meta": "Channel Dive"
-  },
-  {
-    "title": "China warns of 'security backdoor' in Anthropic AI coding tool",
-    "url": "https://www.channelnewsasia.com/east-asia/china-anthropic-claude-code-ai-backdoor-security-alert-6240476",
-    "source": "Hacker News",
-    "time": "2026-07-09T19:02:09+00:00",
-    "meta": "4 分"
   }
 ]
