@@ -135,35 +135,36 @@ def fetch_github():
     return items
 
 
-def fetch_arxiv():
-    """arXiv 近期提到 Claude/Anthropic 的论文(Atom XML,标准库解析,失败不影响其他源)。"""
-    url = ("http://export.arxiv.org/api/query?"
-           "search_query=all:%22claude%22+AND+all:%22anthropic%22"
-           "&sortBy=submittedDate&sortOrder=descending&max_results=20")
+def fetch_blog():
+    """Simon Willison 博客 Atom(Claude 生态高频一手报道;失败不影响其他源)。
+    注:曾试 arXiv API,本地与 GitHub Actions IP 均被 429 限流,判渠道不适配换本源(2026-07-27)。"""
+    url = "https://simonwillison.net/atom/everything/"
     items = []
     try:
         import xml.etree.ElementTree as ET
         root = ET.fromstring(_get(url))
     except Exception as e:
-        print("  [arXiv] 失败: %s" % e)
+        print("  [Blog] 失败: %s" % e)
         return items
     ns = {"a": "http://www.w3.org/2005/Atom"}
     for entry in root.findall("a:entry", ns):
         title = (entry.findtext("a:title", "", ns) or "").strip().replace("\n", " ")
-        link = entry.findtext("a:id", "", ns)
+        link = ""
+        for l in entry.findall("a:link", ns):
+            if l.get("rel") in (None, "alternate"):
+                link = l.get("href") or ""
+                break
         if not title or not link:
             continue
         when = None
-        published = entry.findtext("a:published", "", ns)
+        published = entry.findtext("a:published", "", ns) or entry.findtext("a:updated", "", ns)
         if published:
             try:
                 when = datetime.fromisoformat(published.replace("Z", "+00:00"))
             except Exception:
                 pass
-        authors = [e.findtext("a:name", "", ns) for e in entry.findall("a:author", ns)]
-        meta = "%s 等" % authors[0] if authors else "论文"
-        items.append({"title": title, "url": link, "source": "arXiv",
-                      "time": when, "meta": meta})
+        items.append({"title": title, "url": link, "source": "simonwillison.net",
+                      "time": when, "meta": "博客"})
     return items
 
 
@@ -189,7 +190,7 @@ def collect():
                      ("Google News", fetch_google_news),
                      ("Reddit", fetch_reddit),
                      ("GitHub", fetch_github),
-                     ("arXiv", fetch_arxiv)):
+                     ("Blog", fetch_blog)):
         print("抓取 %s ..." % name)
         got = fn()
         print("  得到 %d 条" % len(got))
