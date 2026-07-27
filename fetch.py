@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """抓取 Claude / Anthropic 相关新闻,聚合生成静态网页 index.html。
-数据源全部免费、无需 API key:Hacker News、Google News、Reddit。
+数据源全部免费、无需 API key:Hacker News、Google News、Reddit、GitHub。
 纯标准库,无第三方依赖,python3 fetch.py 直接跑。"""
 
 import os
@@ -107,6 +107,66 @@ def fetch_reddit():
     return items
 
 
+def fetch_github():
+    """GitHub 仓库搜索,近期更新的 Claude/Anthropic 相关开源项目(未认证,10次/分钟够用)。"""
+    url = ("https://api.github.com/search/repositories?"
+           "q=claude+anthropic+in:name,description&sort=updated&order=desc&per_page=30")
+    items = []
+    try:
+        data = json.loads(_get(url))
+    except Exception as e:
+        print("  [GitHub] 失败: %s" % e)
+        return items
+    for r in data.get("items", []):
+        desc = r.get("description") or ""
+        title = "%s — %s" % (r.get("full_name"), desc) if desc else r.get("full_name")
+        link = r.get("html_url")
+        if not title or not link:
+            continue
+        when = None
+        updated = r.get("updated_at")
+        if updated:
+            try:
+                when = datetime.fromisoformat(updated.replace("Z", "+00:00"))
+            except Exception:
+                pass
+        items.append({"title": title, "url": link, "source": "GitHub",
+                      "time": when, "meta": "%s ⭐" % (r.get("stargazers_count") or 0)})
+    return items
+
+
+def fetch_arxiv():
+    """arXiv 近期提到 Claude/Anthropic 的论文(Atom XML,标准库解析,失败不影响其他源)。"""
+    url = ("http://export.arxiv.org/api/query?"
+           "search_query=all:%22claude%22+AND+all:%22anthropic%22"
+           "&sortBy=submittedDate&sortOrder=descending&max_results=20")
+    items = []
+    try:
+        import xml.etree.ElementTree as ET
+        root = ET.fromstring(_get(url))
+    except Exception as e:
+        print("  [arXiv] 失败: %s" % e)
+        return items
+    ns = {"a": "http://www.w3.org/2005/Atom"}
+    for entry in root.findall("a:entry", ns):
+        title = (entry.findtext("a:title", "", ns) or "").strip().replace("\n", " ")
+        link = entry.findtext("a:id", "", ns)
+        if not title or not link:
+            continue
+        when = None
+        published = entry.findtext("a:published", "", ns)
+        if published:
+            try:
+                when = datetime.fromisoformat(published.replace("Z", "+00:00"))
+            except Exception:
+                pass
+        authors = [e.findtext("a:name", "", ns) for e in entry.findall("a:author", ns)]
+        meta = "%s 等" % authors[0] if authors else "论文"
+        items.append({"title": title, "url": link, "source": "arXiv",
+                      "time": when, "meta": meta})
+    return items
+
+
 def relevant(item):
     t = item["title"].lower()
     return any(k in t for k in KEYWORDS)
@@ -127,7 +187,9 @@ def collect():
     all_items = []
     for name, fn in (("Hacker News", fetch_hn),
                      ("Google News", fetch_google_news),
-                     ("Reddit", fetch_reddit)):
+                     ("Reddit", fetch_reddit),
+                     ("GitHub", fetch_github),
+                     ("arXiv", fetch_arxiv)):
         print("抓取 %s ..." % name)
         got = fn()
         print("  得到 %d 条" % len(got))
@@ -156,7 +218,7 @@ def human_time(dt):
 
 
 SOURCE_COLOR = {"Hacker News": "#ff6600", "Google News": "#4285f4",
-                "Reddit": "#ff4500"}
+                "Reddit": "#ff4500", "GitHub": "#8957e5"}
 
 
 def render(items):
@@ -213,7 +275,7 @@ footer a{color:#58a6ff;text-decoration:none}
 {{CARDS}}
 </div>
 <footer>
-由 GitHub Actions 每天自动抓取生成 · 数据来自 Hacker News / Google News / Reddit<br>
+由 GitHub Actions 每天自动抓取生成 · 数据来自 Hacker News / Google News / Reddit / GitHub<br>
 开源项目 · 欢迎 star 与 PR
 </footer>
 </div>
