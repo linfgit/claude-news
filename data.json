@@ -1,16 +1,37 @@
 [
   {
-    "title": "meanimeshanand/Anthropic-Claude-CertPreparation — This repo is for the hands On and exercise for certification preparation for Anthropic Claude.(Architect -Foundation)",
-    "url": "https://github.com/meanimeshanand/Anthropic-Claude-CertPreparation",
+    "title": "yassineelfakiri/agentpg — 🤖 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by Anthropic's Claude.",
+    "url": "https://github.com/yassineelfakiri/agentpg",
     "source": "GitHub",
-    "time": "2026-07-27T04:03:05+00:00",
-    "meta": "0 ⭐"
+    "time": "2026-07-27T04:06:42+00:00",
+    "meta": "2 ⭐"
   },
   {
     "title": "COOLak/anthropic-claude-billing-incident — Privacy-sanitized evidence hub for an unresolved Claude usage-credit billing failure",
     "url": "https://github.com/COOLak/anthropic-claude-billing-incident",
     "source": "GitHub",
-    "time": "2026-07-27T04:02:26+00:00",
+    "time": "2026-07-27T04:06:32+00:00",
+    "meta": "0 ⭐"
+  },
+  {
+    "title": "anthony-chaudhary/fak — fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthropic/MCP client) into a managed agent: cache-stable model traffic, context compaction + crash resume, nanosecond tool-call policy, local GGUF serving with SSD expert offload.",
+    "url": "https://github.com/anthony-chaudhary/fak",
+    "source": "GitHub",
+    "time": "2026-07-27T04:06:01+00:00",
+    "meta": "19 ⭐"
+  },
+  {
+    "title": "junwoojeong100/claude-on-azure-databricks — Microsoft Agent Framework sample using Anthropic Claude Opus 4.8 served from Azure Databricks Foundation Model API",
+    "url": "https://github.com/junwoojeong100/claude-on-azure-databricks",
+    "source": "GitHub",
+    "time": "2026-07-27T04:05:32+00:00",
+    "meta": "0 ⭐"
+  },
+  {
+    "title": "meanimeshanand/Anthropic-Claude-CertPreparation — This repo is for the hands On and exercise for certification preparation for Anthropic Claude.(Architect -Foundation)",
+    "url": "https://github.com/meanimeshanand/Anthropic-Claude-CertPreparation",
+    "source": "GitHub",
+    "time": "2026-07-27T04:03:05+00:00",
     "meta": "0 ⭐"
   },
   {
@@ -33,13 +54,6 @@
     "source": "GitHub",
     "time": "2026-07-27T03:55:37+00:00",
     "meta": "60751 ⭐"
-  },
-  {
-    "title": "anthony-chaudhary/fak — fak — the Fused Agent Kernel: one Go binary that turns a tool-using agent (Claude Code, Codex, Cursor, any OpenAI/Anthropic/MCP client) into a managed agent: cache-stable model traffic, context compaction + crash resume, nanosecond tool-call policy, local GGUF serving with SSD expert offload.",
-    "url": "https://github.com/anthony-chaudhary/fak",
-    "source": "GitHub",
-    "time": "2026-07-27T03:54:50+00:00",
-    "meta": "19 ⭐"
   },
   {
     "title": "superduck-ai/open-managed-agents — Open Source version of Claude Managed Agents. Anthropic SDK compatible.  Supports agents, sessions, environments, files, memory stores, skills, deployments, message batches, vaults, and webhooks.",
@@ -194,20 +208,6 @@
     "source": "GitHub",
     "time": "2026-07-27T02:48:45+00:00",
     "meta": "6 ⭐"
-  },
-  {
-    "title": "Corn7012/Claude-Code-Design-AI — Build user interfaces for Anthropic AI models using this React and Tailwind framework designed for effective human-AI interaction.",
-    "url": "https://github.com/Corn7012/Claude-Code-Design-AI",
-    "source": "GitHub",
-    "time": "2026-07-27T02:47:02+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "coroboros/archivist — Canonical Claude ecosystem reference — auto-synced Anthropic docs, curated team insights, and the ask-archivist skill for deterministic local lookup via Claude Code.",
-    "url": "https://github.com/coroboros/archivist",
-    "source": "GitHub",
-    "time": "2026-07-27T02:46:04+00:00",
-    "meta": "0 ⭐"
   },
   {
     "title": "Show HN: Claudaholic – Keep Up with Claude",
