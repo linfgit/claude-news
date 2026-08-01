@@ -1,422 +1,422 @@
 [
   {
-    "title": "macward/ClaudeUsageBar — Monitor de consumo de Claude Code en la menu bar de macOS. Herramienta no oficial, no afiliada a Anthropic.",
-    "url": "https://github.com/macward/ClaudeUsageBar",
-    "source": "GitHub",
-    "time": "2026-07-31T03:28:25+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "VladTemp27/jackal — Launch Claude Code against a custom Anthropic gateway, without disturbing your normal claude",
-    "url": "https://github.com/VladTemp27/jackal",
-    "source": "GitHub",
-    "time": "2026-07-31T03:26:56+00:00",
-    "meta": "2 ⭐"
-  },
-  {
-    "title": "AI safety scare: Anthropic says Claude models accessed outside systems during testing",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSFRqU1NZejkxVkhNNjE0RkJJdTc3TWR0RWp6LVo2NFc2bkVaZWxLY3RvTXk1NnpZLUotTHRLQnpSU3JFb2JSQTlPOW52OXZEcDhiQUNCTHZuVUg1Rm9KdFVScjI2SjdPVGxQaTYweEJMT3BSQS1XZV9pWE9JVXA5SWZGQ1NLMXJyTUZiaWo4T2s0Z0NNdFp6LU5OWmZfZDhBMjF5QkgzMWRaS1lORU40RUtYT3NYMFY0aGl0eWwteEQtQkRXYjZQN0h5cTY?oc=5",
-    "source": "Google News",
-    "time": "2026-07-31T03:22:10+00:00",
-    "meta": "France 24"
-  },
-  {
-    "title": "last-million/free-llm-hub — Local gateway + dashboard that serves 50+ free LLM providers to any OpenAI-compatible CLI and to Claude Code (Anthropic protocol). Bring your own free keys, run localhost.",
-    "url": "https://github.com/last-million/free-llm-hub",
-    "source": "GitHub",
-    "time": "2026-07-31T03:21:11+00:00",
-    "meta": "16 ⭐"
-  },
-  {
-    "title": "krushaalkalkani/frontier-lab-research-report — Open-source, educational one-page tracker for Anthropic & Claude launches and model comparisons. Auto-refreshing, Anthropic-inspired UI.",
-    "url": "https://github.com/krushaalkalkani/frontier-lab-research-report",
-    "source": "GitHub",
-    "time": "2026-07-31T03:21:06+00:00",
-    "meta": "1 ⭐"
-  },
-  {
-    "title": "superduck-ai/open-managed-agents — Open Source version of Claude Managed Agents. Anthropic SDK compatible.  Supports agents, sessions, environments, files, memory stores, skills, deployments, message batches, vaults, and webhooks.",
-    "url": "https://github.com/superduck-ai/open-managed-agents",
-    "source": "GitHub",
-    "time": "2026-07-31T03:20:38+00:00",
-    "meta": "9 ⭐"
-  },
-  {
-    "title": "Anthropic’s Claude AI breaks safety test to hack systems",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNEwzcVJyNkZPTFhZQkYyQjk4ZGhlTE1BNTZjdGtiMGlCaHA1dUFMVXRCbktUSjFMUE5kc2VkNE1HbmlTVUJxQWVWcGU0R2s0ZVhiMzhpcHU3bmhYVTh6Y1FlR3MycU95WGNrX3VwVEhBN1lqTHg1ZElDbW9sSHhkUG1uaFYyd2ZRRWdibzNIM3RJNHI2WWt4cjVfcmlSdDY1aEFtOFowa040bktsX2poc1Y5dkpoNWllcFpSSVZ4bWJreTZ2VGM3eldsTkszWHZjdnJfVWtqVUNZLTVrT05lVi1Md19wNXhXeWpR?oc=5",
-    "source": "Google News",
-    "time": "2026-07-31T03:19:28+00:00",
-    "meta": "The Nightly"
-  },
-  {
-    "title": "blue126/unified-proxy — Multi-provider OAuth proxy for Anthropic Claude + OpenAI GPT via subscription",
-    "url": "https://github.com/blue126/unified-proxy",
-    "source": "GitHub",
-    "time": "2026-07-31T03:17:28+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "Anthropic says Claude AI models breached systems of 3 companies during cybersecurity tests",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdGR1YW1CMGhZZHVyODRiYW9uZDRsekdpNVZCOU1DN3JZUVdkbzA3MXRSdjh5cmxWYWtUMG56cmtSQlFLS21YYjllUEdRRDJ6MzI3SWw4WnU4eTJLRE9fTXNwQVhBZ0NBc3k1RHNpT1NCSi1hc05CR1VmR0hidUlYX2l3NU9KRVFnY2VUTzUtdU5fWVNzZFg1NnlTeGJqcjJlejd5N2w0MHhtZU52eW5TdlEzVGVaY1V0TFZMTXg2aF9mQ1hjSC1LcE85VXZ3MFB40gHXAUFVX3lxTE80UDhucldkc1FWeFlQajE4dGNrZnR6WG9UQ0JxeGM4aXc4VHBqWm5GNGhhdHFENlR1UFVyQ1VteEc2UE1haGtCbl9EcHRJUmVFbVU5SGxxU2l3RHNXeU1SU0xpOTdhLTY5ek1kMXpMbElXbDdDaml4eEJlOUZIM25nZHdGaXZ3WnJnWV9PTG1sWDB4RHNiMHVQLVRVLS1pR3dRREZFd2EzRkpDaW91VGtOT0N4bFdnV1hZVEd4TWNyakE4eEVKUzhaa2g4X2Flbi1BdmI1dTZn?oc=5",
-    "source": "Google News",
-    "time": "2026-07-31T03:17:09+00:00",
-    "meta": "The Indian Express"
-  },
-  {
-    "title": "kguo93/chinamax_plugin — Claude Code Plugin to use Open Source AIs which implement the Anthropic Messaging Protocol",
-    "url": "https://github.com/kguo93/chinamax_plugin",
-    "source": "GitHub",
-    "time": "2026-07-31T03:09:00+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "camelweaver-stack/Anthropic-claude-code",
-    "url": "https://github.com/camelweaver-stack/Anthropic-claude-code",
-    "source": "GitHub",
-    "time": "2026-07-31T03:08:43+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "Anthropic’s Claude AI hacked three real companies during testing",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORERnS095Wnk2T0FySmVRYTlLalNlTjdoTmNrWHF6Q1dsejRfWGJkZzBHa242c2V1QjJhVFhKa0hUNjBBbUdRRWdTZ1lBNy1MUXZCWlpLR19Uc0xUVzZuMEZqNHNVcmVoZmlDSW5WNGZwNXpscVdMN1l1VEdqSkxtR1lSUVJBMzlhSGRjOGdWWUV5NktlNnRYWkJOT25nT2R6M253M2RqQVJQZXVHQWYtYjFkTGwtTDlxOC1n?oc=5",
-    "source": "Google News",
-    "time": "2026-07-31T03:08:29+00:00",
-    "meta": "SMH.com.au"
-  },
-  {
-    "title": "Anthropic’s AI Claude escaped test environment and hacked companies",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQlBwNnNQNFdnNGN0eHdSREsyZFFtMEF4MzJyaXU5NFJIRDN5VTRQNkFCZW04eFhHajFoa3Vfd2ZQc1VqeTVLZ080Uk9CU29PbHNCdkNuQThKMF9NanpXeUNrVElMRjRFQkdFT25Lam9GTUhkYllCUkpENXBjYURIUjNULTBLZzZWczF0all2ZXlUQllXdFBTMEhGZUtIdw?oc=5",
-    "source": "Google News",
-    "time": "2026-07-31T03:06:00+00:00",
-    "meta": "The Telegraph"
-  },
-  {
-    "title": "CocoRoF/Geny — Multi-agent VTuber + autonomous worker platform — pair a chatty Live2D/Spine VTuber with tool-running sub-workers, orchestrate autonomous tasks, and watch it all in a 3D city playground. 5 swappable LLM backends (Anthropic/OpenAI/Google/vLLM/Claude Code CLI). Self-hosted, Apache-2.0.",
-    "url": "https://github.com/CocoRoF/Geny",
-    "source": "GitHub",
-    "time": "2026-07-31T02:49:41+00:00",
-    "meta": "8 ⭐"
-  },
-  {
-    "title": "sahilmehta17/claudejob — AI-first job application pipeline built with Claude Code, Anthropic SDK, and Express. Live job search, SSE-streamed AI tailoring, hardened resume guardrails.",
-    "url": "https://github.com/sahilmehta17/claudejob",
-    "source": "GitHub",
-    "time": "2026-07-31T02:47:39+00:00",
-    "meta": "1 ⭐"
-  },
-  {
-    "title": "sleep2agi/agent-network — 助力搭建你的数字 AI 员工军团 — 多 Agent 一行命令组网协作。Claude Code / Claude Agent SDK / Codex / Grok Build 4 runtime + 8+ 家 LLM（Anthropic / OpenAI / xAI / MiniMax / DeepSeek / GLM / Kimi / 书生 / 小米 MiMo），自带 Web Dashboard，Apache 2.0 开源。",
-    "url": "https://github.com/sleep2agi/agent-network",
-    "source": "GitHub",
-    "time": "2026-07-31T02:47:38+00:00",
-    "meta": "54 ⭐"
-  },
-  {
-    "title": "promptfoo/promptfoo — Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
-    "url": "https://github.com/promptfoo/promptfoo",
-    "source": "GitHub",
-    "time": "2026-07-31T02:47:38+00:00",
-    "meta": "23773 ⭐"
-  },
-  {
-    "title": "After OpenAI's 'rogue AI' hack, Anthropic finds Claude breached three real-world systems during testing",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWS1NSDhrV0hXX3Bhblpxc1p1OTdaT196VUIxNjg3ZFdSYWpjTFI5N2o2RmpRbTlRVkRCdlBocVE5bm9sdWNpYU5xOEFhOHlUTWVET0hERTdldU9uXzgwNTZXVUNna0daTGZHM0hRS1ZYRlFiczhTQU5obHJKeXlRcHFTTWtIUzJGVklQb3JkWmdCQ1ZDdmNvSmtSRjVMSWZFUjd5NWRDeGdxOGpBYTJBZm9EbjhYdWdVSFkzS0FWX3FmYTA5bjVCWmcyRGg3c2xiYmdLVVhEb25yci010gHiAUFVX3lxTE52X1RaU3Z0eHFsc09YSnJTRmdYTV9DTXlFMGMwRDlGTHdMSkJ1TTBOQ3pGVGR4R1VkYzB5VGpBMGluV3ZJdDJkVjBxbmRmaFJHcG51ZV9yMVV1elgzVnViRWh6aXhfeEtncXloOUxHM1VJQ3hfWXl6bTJxT1NyMFZCYUlXLWpENWdQb2IwWlVPUXBpbTRNNnNQOUcySElnNXpXejBkSVdaVzctajZ2VnMtTmVEcXRacHNrS3ZWaE02bHRZbEpYTS1BRDRTYTk4Qno0QzdHdE1LSUtOTXhhMjRlZmc?oc=5",
-    "source": "Google News",
-    "time": "2026-07-31T02:45:03+00:00",
-    "meta": "Firstpost"
-  },
-  {
-    "title": "Claude AI Models Breached Three Organisations During Cybersecurity Tests: Anthropic Explains What Happened",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRDNDQVhhR3l4YVJzbGJFMkU1ZERxMFE1RmF5OWcyRUF5V3BaNlI0R2ZBR0E3dzNYREVQSzJ6VVFzVnUwOU9adkVsYnI4OW0zRlJWNHdHSE4xdmdQb1JwUjhXcVdHMHJERDdHSmk4UkJWVFRyTG5SWWlfd1Vfc3l2RlZTRmRGaFJYWTZSS2lHaTFieVFPT01VMVZQY1FZVjZDSDBXdlktZi1iS1hhLVNxYnJqd2t3N2RkVXZYVURfbjZWcGhpRF9qX0lPdzZDeGg2QlE1WlJrZDNpX3o5SXNSU3VrT1dKbEXSAe8BQVVfeXFMTjhwTzVvV1VaVU9sZTRuc0NBTWJ6OWptVDlWQ1ozQjNtYzZUV3FRdzdOcVVrLWlBZExhOWg5Y1dJSUs0YXlBdHZHWXhBdWJJVXRNbGV6SkhBbldFMWUtT0hoVE1SUENGQ1VhaWI3b0RXMHdfc2cwT09hZ245eW5ISmRfc09zZzZYbGFfOWU5WG1SQlplYVFIYUljSEVYYkV4SmNNSWR6ZHl0T01EWDlqNE1FTDZlQ0ZpQ3lKYTBfR0VVbXRRRkJKVk9ibE5tdmFDaThlN0tUZzhuc2ZONUpyMFRoVHoxWUxhSjRIc3Rja0E?oc=5",
-    "source": "Google News",
-    "time": "2026-07-31T02:44:45+00:00",
-    "meta": "NDTV Profit"
-  },
-  {
-    "title": "BriarDevv/Context-Engineering — Context engineering standard for Claude Code: distilled Anthropic guidance, a replicable repo skeleton, and the skills that install and audit it.",
-    "url": "https://github.com/BriarDevv/Context-Engineering",
-    "source": "GitHub",
-    "time": "2026-07-31T02:42:45+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "Clementtang/claude-pulse — Claude Pulse - Anthropic/Claude news tracker",
-    "url": "https://github.com/Clementtang/claude-pulse",
-    "source": "GitHub",
-    "time": "2026-07-31T02:40:35+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "coroboros/archivist — Canonical Claude ecosystem reference — auto-synced Anthropic docs, curated team insights, and the ask-archivist skill for deterministic local lookup via Claude Code.",
-    "url": "https://github.com/coroboros/archivist",
-    "source": "GitHub",
-    "time": "2026-07-31T02:39:41+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "aayushgames19-hash/claude-gateway-manager — Best Tenbin AI Proxy for Anthropic Opus 4.8 & Sonnet 4.6 API Access 2026",
-    "url": "https://github.com/aayushgames19-hash/claude-gateway-manager",
-    "source": "GitHub",
-    "time": "2026-07-31T02:38:46+00:00",
-    "meta": "152 ⭐"
-  },
-  {
-    "title": "VibezZzCoder/clawd-pop — W.I.P. 3D first person shooter videogame. It is an open source fan project about a variation of Clawd, the Claude Code mascot, where it pops, when playfully shot, into a splat resembling the famous shape of the Anthropic logo. ",
-    "url": "https://github.com/VibezZzCoder/clawd-pop",
-    "source": "GitHub",
-    "time": "2026-07-31T02:32:40+00:00",
-    "meta": "2 ⭐"
-  },
-  {
-    "title": "marcelomar21/agentprep-skill — AgentPrep — gamified prep coach for Anthropic's Claude certifications (Claude Code skill)",
-    "url": "https://github.com/marcelomar21/agentprep-skill",
-    "source": "GitHub",
-    "time": "2026-07-31T02:31:52+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "feichuans/skills — My collection of Claude Code skills. Install: npx @anthropic-ai/claude-code-skills add ifeichuan/skills/<skill-name>",
-    "url": "https://github.com/feichuans/skills",
-    "source": "GitHub",
-    "time": "2026-07-31T02:29:19+00:00",
-    "meta": "2 ⭐"
-  },
-  {
-    "title": "nedonatelli/sidecar — Free, self-hosted AI coding assistant for VS Code — local Ollama models, Anthropic Claude, or any OpenAI-compatible server. Full agent loop with tool use, inline completions, and MCP support.",
-    "url": "https://github.com/nedonatelli/sidecar",
-    "source": "GitHub",
-    "time": "2026-07-31T02:24:29+00:00",
-    "meta": "4 ⭐"
-  },
-  {
-    "title": "ElmerTucker/claude-watcher — Unofficial hourly RSS/Atom feed for anthropic.com/news, built on GitHub Actions",
-    "url": "https://github.com/ElmerTucker/claude-watcher",
-    "source": "GitHub",
-    "time": "2026-07-31T02:23:38+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "Anthropic’s Claude escaped test sandbox to attack three organizations",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUzFUc1hnWVFPLUQ3TE1iY3BSQnB1V0VEMHQydm9PMmRFNmxLRkNsZ3B2VVBqaGg2eFpLVUQxVXlVZThncGtmMkZNUElrTEpvWElIbkt3ajB1bzhnRlB5NTJBZXl6dll6T1BYNWR5U1czNUY0R2V1NGkzRWhmclo5NmcxVmFWeVc1bUhaTl9fUTdoMkwzaHFab3oyMlMyWS1XR0tDcXEta3RsSjlWSXptWEl0RC1NVTF0SElZdjE1MU9WZzg?oc=5",
-    "source": "Google News",
-    "time": "2026-07-31T02:19:39+00:00",
-    "meta": "The Register"
-  },
-  {
-    "title": "jmcentire/simulacrum — A cognitive simulacrum of Jeremy McEntire — an AI agent that thinks like Jeremy on novel situations. Two-phase classifier dispatch over Anthropic + (optional) OpenAI fine-tune. Includes a deployable Fly.io service, a CLI / Claude Code skill, and a primer for building one for a different subject.",
-    "url": "https://github.com/jmcentire/simulacrum",
-    "source": "GitHub",
-    "time": "2026-07-31T02:08:28+00:00",
-    "meta": "1 ⭐"
-  },
-  {
-    "title": "jeffer1312/claude-cockpit — Third-party cockpit for Claude Code sessions — phone remote, session board, pairing & multi-repo orchestration. Not affiliated with Anthropic.",
-    "url": "https://github.com/jeffer1312/claude-cockpit",
-    "source": "GitHub",
-    "time": "2026-07-31T02:08:03+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "KuanyuChien/Building-with-the-Claude-API — Jupyter notebooks from Anthropic's \"Building with the Claude API\" course — covers API access basics, prompt engineering techniques, and prompt evaluation workflows using structured outputs.",
-    "url": "https://github.com/KuanyuChien/Building-with-the-Claude-API",
-    "source": "GitHub",
-    "time": "2026-07-31T01:59:56+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "RobGruhl/anthropic-docs-mirror — Local mirror of Anthropic documentation (~1,400 docs from 10 sources) for fast searching and reference with Claude Code",
-    "url": "https://github.com/RobGruhl/anthropic-docs-mirror",
-    "source": "GitHub",
-    "time": "2026-07-31T01:57:51+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "Menci/Floway — Serverless LLM API gateway with telemetry, full protocol translation and Stateful Responses support. Use any LLM from any client and get OpenAI/Anthropic 1P-like experience of Codex/Claude on 3P API providers!",
-    "url": "https://github.com/Menci/Floway",
-    "source": "GitHub",
-    "time": "2026-07-31T01:55:49+00:00",
-    "meta": "61 ⭐"
-  },
-  {
-    "title": "LoopGe/claude-react-web — Local browser UI for @anthropic-ai/claude-agent-sdk — multi-session, 3-panel grid, persistence",
-    "url": "https://github.com/LoopGe/claude-react-web",
-    "source": "GitHub",
-    "time": "2026-07-31T01:55:29+00:00",
-    "meta": "3 ⭐"
-  },
-  {
-    "title": "ribato22/volante — Volante — a transparent, user-owned model router and orchestration control plane (alpha). Plans a task DAG, filters hard capabilities, then routes each sub-task across your configured models (Anthropic, OpenAI-compatible, Ollama, Claude Code, Codex) with a full, auditable decision trace. No LangChain/CrewAI/LiteLLM.",
-    "url": "https://github.com/ribato22/volante",
-    "source": "GitHub",
-    "time": "2026-07-31T01:54:39+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "jamestexas/agents — Curated library of Claude Code subagents and skills (23 agents, 20 skills) with an idempotent installer that symlinks into ~/.claude. Frontmatter-driven; spec-compliant with Anthropic and Gemini schemas.",
-    "url": "https://github.com/jamestexas/agents",
-    "source": "GitHub",
-    "time": "2026-07-31T01:43:08+00:00",
-    "meta": "2 ⭐"
-  },
-  {
-    "title": "Cyber test goes off-script: Anthropic’s Claude breaches 3 real organisations",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQS1FjYlFuSG5INDNkcFg2NE4wVmlFTHc5TFF6dy1xQzNPcURMS1IxVTNOQlhqZFhyOVZ3RVB5Wk5GaUtaeHdGM0VFUnlsNDhjaUQtX0JHejNxY3RzX0x4cFpIanlUTFEyVDQ5b2xrYTdjQXRSMjUyR1g0eUgzNmFEUFpDaUZNcTRJR09kcmRNM2ZlNmRNVU1YUDJ4cVMzcVVSeWgtUll4bnFUMXNyZUJleTZLRUxYbWlvTzJ4dmlKaW1IbWhrVTREMkJTQ0llVzZQcERaTHFPNEhEbmh2ekJZcEJ6Y3AxcjhaYlVr0gHwAUFVX3lxTE5kaGRvQmMxbW4wZjk4aENiUFFFQWVTS3hEQnI4UEhsOUVvRFdZR3FPZkV1QlZRdUZLTkU4bFJyNlRDd2Z4dGNMTWVVTHZNV1Fzdms5cExaSlExQk1RTklzdGxSbTMxZmV2aEF6SHJMMURCbGpfYUU1WUVTdS1PSkpZUFhXdUN3RFotTW8zaVB4OUVJV0xGRmY4czFuWEtWa0hHZEM0cTQ0aXhCLXB6RS1qQkQyNmxNWXRLX0t4MWFoZlQxNXNuTHRUaGpOT2ZvYm5Ya3hhY3RLdXJSeVp6U1RJWnREVXJ1RXlsdHl6c0oySw?oc=5",
-    "source": "Google News",
-    "time": "2026-07-31T01:42:22+00:00",
-    "meta": "Moneycontrol.com"
-  },
-  {
-    "title": "Anthropic says its own AI models breached three companies during security tests",
-    "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "title": "Claude 5 family's hallucinations look a lot like internal Anthropic emails",
+    "url": "https://github.com/alectrocute/dario-and-amanda-prompt/blob/main/outputs.md",
     "source": "Hacker News",
-    "time": "2026-07-31T01:40:39+00:00",
+    "time": "2026-08-01T02:53:10+00:00",
+    "meta": "3 分"
+  },
+  {
+    "title": "AI & Tech Brief: Anthropic’s rogue agents",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOam9qRkxNMGFrS3liX1FLSGtOV1ZTZ2oxT3d4YnA4Qzh0LVNaX2RpZ3dvM1RYNkhDTUNweU1OYmpvbXhnSDJvV3JJV2lQd2hSNHJEOHhFVEdxNjhkZm42RmotU3B0aXhzdHo2R1Juc01CUnh3OWc0ZXdxNTByU3dkSWVoMzVhRHJkdzlLNXhsNFh5QldlX0N2RlZubThqdkpQd3ljRS1xLWQxUXVLNXpz?oc=5",
+    "source": "Google News",
+    "time": "2026-08-01T01:38:58+00:00",
+    "meta": "The Washington Post"
+  },
+  {
+    "title": "The year Claude users sued over limits is the year the limits mostly went up",
+    "url": "https://okaneland.com/study/claude-code-limits/",
+    "source": "Hacker News",
+    "time": "2026-08-01T00:55:40+00:00",
+    "meta": "3 分"
+  },
+  {
+    "title": "Claude-Fleet",
+    "url": "https://github.com/Shubhamgupta2612/claude-fleet",
+    "source": "Hacker News",
+    "time": "2026-07-31T23:48:21+00:00",
     "meta": "2 分"
   },
   {
-    "title": "Anthropic's AI model Claude breached live syste...",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd2s2aFBPN0cxYmF3RnJ1TlV0ZUM4SV8wYjQ0cG1jakFMcmoxVDhNSS1UejVuMFZuRjJMcEM3YWl5bmFBZ2xGUVVJc3VwZUNWMUlkUlZNM1E2b0FxSzRISUNYWEt1cnZvVlFMRXVwNmZNZzdYWV9wRnJFczlIUWMzU0ZxOFZaRTNUZ21OdEFTQmVmaUdpMVE?oc=5",
+    "title": "Rise of the machines? The fallout from Anthropic and OpenAI hacks",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTDZRMVVlc1JaV0ZvMjVHa3lqeF9tXzB0MGxZYUYxU3BuN0YyZjZpc1hFNTJoQ3B5QnJobXQ1X3RRVjRzNkxncEFwam5PSnRyaU9xVE94bElydGVFOUhMNFdBUTdqS0lhZVMyeXpsellqTkR0N29zX2ZGRFAxeVJteG4zOHlXbGFOM1JvWDBsanNMcU8xVDJLbXoyaHdEU01pejNqaGYzT1gzX0Vzbk41RQ?oc=5",
     "source": "Google News",
-    "time": "2026-07-31T01:39:33+00:00",
-    "meta": "Pluang"
+    "time": "2026-07-31T23:05:00+00:00",
+    "meta": "USA Today"
   },
   {
-    "title": "Anthropic AI models also hacked companies after escaping",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRHVoZUNkeUNFTUJtX210UjVBZEh6SXFfb0VLN3JUTjZSVnp1eHBoaERWOWo0TGNScnNpZDRjU2dPeVNJSUcxMmNOX0ZZM2huNnVlWXNwd3FXRi1vWmFnUW9UejdvVXg3aVpwbU1McXNjTVpYd0VNMFdyNlNkZ0NKUEZiYWkxZl84MkNqRE5ocWVzMmU4cXU3M3JuV1h3QnBJTktVMUVsX2loRzB5?oc=5",
+    "title": "Anthropic Claude models compromised 3 companies during testing",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWjVNdS1IOWR2YWNycnREMjZkVVNSdHNPbzlMZ2RtTVRsSUcyZ2gtOUVhYW04VnVtY3RyOHFBOUZKNWRhNkVsSnU5VlprZUNXQ3pTR01WaUZFM0dyM09ReWhZc2ZoUnZtZTdKbkVpdkNXcWNKMUxxUmNOcUlXdWhmbHRBTFVtMFQxLVhvaVNuYmEwcW50cHc?oc=5",
     "source": "Google News",
-    "time": "2026-07-31T01:37:00+00:00",
-    "meta": "AFR"
+    "time": "2026-07-31T22:51:09+00:00",
+    "meta": "SC Media"
   },
   {
-    "title": "viamagic333-lang/telegram-claude-bot — Telegram-бот с интеграцией Anthropic Claude Haiku. Учебный кейс для фриланса — FastAPI + aiogram 3 + Anthropic SDK.",
-    "url": "https://github.com/viamagic333-lang/telegram-claude-bot",
-    "source": "GitHub",
-    "time": "2026-07-31T01:36:26+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "Anthropic AI Breaches Real Systems During Testing",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXliVDQxVmFZTE9fWHI1d3ZBT0lZLW1HY3h3V1loSm4wVnA3WEpfQ1QxTHdteTB4bjd1dWNWdDNCTURuaXJqUzJDVTBWWllKdlhTTEtJMC04ekdiUVB5RzMzaHhjU2JZMzhWaHZqc3B6aUduUGtKREJfSGFrU3J2cVliRzFpZXVo?oc=5",
-    "source": "Google News",
-    "time": "2026-07-31T01:32:54+00:00",
-    "meta": "chosun.com"
-  },
-  {
-    "title": "Claude anthropic: AI model hacks three companies after mistakenly given internet access",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVlZ4VDdiY1ZJemJkb1RvREFUeFVBMlBEWFJXck1rbGNUOXFoOXl3MGxidkR4Yl9EUXlHN0VDUTAzN1R2RGRUbjNLakkxa2RVWWZLcWRrbUVBbVJVRVlwZU8xRUFnMk53a0VibEN1VDJBTkZtOHlFZ1VMYnZUclBHcFhlbHV6ZjhwYnU4dkdWcHhadEpYVVdjT2tSekRnd1JsNkFuUUpadjViNUt2RDZ2Y1VYVG5WdWp4MXVfVVdkZ0szSGs?oc=5",
-    "source": "Google News",
-    "time": "2026-07-31T01:31:51+00:00",
-    "meta": "Nine.com.au"
-  },
-  {
-    "title": "Anthropic finds that its models also compromised external systems during testing",
-    "url": "https://www.axios.com/2026/07/30/anthropic-mythos-security-testing",
+    "title": "Inspect Claude Code sessions with lnav",
+    "url": "https://blog.disintegrator.dev/posts/lnav-claude-code/",
     "source": "Hacker News",
-    "time": "2026-07-31T01:28:19+00:00",
-    "meta": "3 分"
-  },
-  {
-    "title": "Anthropic's AI models hacked 3 organizations during testing",
-    "url": "https://www.politico.com/news/2026/07/30/anthropic-ai-rogue-hacks-01018741",
-    "source": "Hacker News",
-    "time": "2026-07-31T01:24:11+00:00",
-    "meta": "3 分"
-  },
-  {
-    "title": "Anthropic says its AI accidentally hacked three companies during safety tests",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TNjlRdDJocTR5MzJkakpfYm1VWUMtYzR1VzZGY2JBZ1hLdi1QdnlydVNWbGtwby1RQ0JyWWpPdnR4OURwbl9tTlN0dmRnS0oybVZ0cVdjcEU1bTBXd1N4bEVNd3JBamNtNDdHVzhmTlJBUQ?oc=5",
-    "source": "Google News",
-    "time": "2026-07-31T01:16:15+00:00",
-    "meta": "CyberScoop"
-  },
-  {
-    "title": "Anthropic says Claude models ‘gained unauthorized access’ to 3 companies during cyber test",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWlBQd0ZtRVozMGllWHIyUmh0dkstVDN0OXg0WFhJZnFzd3hMZEd5WGZfMU9xS09pV0lQWUlWZmN0LS0wVFNHZk9UMUZkTUd0YVBKaXFOalVLVXhxMGV6NTJINjY3MFIzT0lpMnZvbFpJVzF3ekw2RUhqM3VaNnJJSzRZeHFRUEhaZzBYMy1KZ9IBlAFBVV95cUxQOVNRTEwzTXMzNDAycVZSN3hxYXAtSF9Sd1R3ZXNIQ1ZuVnJDOEE3LVlOUm1pWjdZOElPRkEzczZkWFZMajNwOVFjWEl3a0J1VHpWZlQzVFdkdlpIS0xSZ0FSUzR6MERuX3I5a2V5RExvT3pJaVRzYWlTeUdUM2h4cWhCNHp1WjREVU8yVnlnbmRRdjRi?oc=5",
-    "source": "Google News",
-    "time": "2026-07-31T01:05:00+00:00",
-    "meta": "The Hill"
-  },
-  {
-    "title": "Anthropic Says Its A.I. Systems Broke into Computers at 3 Organizations",
-    "url": "https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html",
-    "source": "Hacker News",
-    "time": "2026-07-31T00:59:07+00:00",
-    "meta": "7 分"
-  },
-  {
-    "title": "Anthropic’s Claude AI models hack into 3 outside groups during testing",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZXNhY20yblU5Q1d4YllxXzJQZHJQYTYwZnJZRWp1YUFYNHRBTS1VZnlQQmRkRHd1NHlFMVRhT2QyRjZmZWVSTDZQeVBjZ0JyLTI5UUNndXFyUFBXT0pjelU0VFZSbDJaaUlTQV9RQVVoeDl4UTFpUFpGOTRqTHpQaElBZW0?oc=5",
-    "source": "Google News",
-    "time": "2026-07-31T00:55:13+00:00",
-    "meta": "Financial Times"
-  },
-  {
-    "title": "Anthropic says Claude AI models hacked three organizations during tests By Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUU9mYnVCTHdMY1BrRWgxckZtNzJTS3lkcTMweVdqU0FqLW1zLXNQZHdrbVZEVnVpbHQtUnRVN0tYWkJuYmhieXZHN0c2aTJlVC03XzBwRnpZZEM1d2lsU05mZEdFeUdPcm16eGtwVk5MTUhMMWR1TG1Jb0RHUE5JbDJZR0pheUM2VFhTbjV6am9YZEJpdEpDdDNkSTRhckR6LTRxTWhEVjhYY3NLY0dmc2dLbE54Ulp0NDV3U0ZITlBRc0NUTXc?oc=5",
-    "source": "Google News",
-    "time": "2026-07-31T00:28:34+00:00",
-    "meta": "Investing.com Nigeria"
-  },
-  {
-    "title": "Anthropic says Claude hacked three companies during tests",
-    "url": "https://www.reuters.com/legal/litigation/anthropic-says-claude-ai-models-accessed-three-companies-during-tests-2026-07-30/",
-    "source": "Hacker News",
-    "time": "2026-07-31T00:23:44+00:00",
-    "meta": "12 分"
-  },
-  {
-    "title": "Economist Style Plugins for Claude Code",
-    "url": "https://github.com/TAJD/economist-style-guide-plugin",
-    "source": "Hacker News",
-    "time": "2026-07-31T00:11:05+00:00",
+    "time": "2026-07-31T22:40:00+00:00",
     "meta": "1 分"
   },
   {
-    "title": "Anthropic says Claude AI hacked three firms during cyber tests",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50SmtNcDZCM3hZNTNTOG02SDc1MFhUT2JNc3gzUGVEeVl4dDB2WWJmejdYMDNqUnY2T1MybmcyXzQ5akxPU3ZRNDBycVRiMzVTcDczdDE4Qjc5NUFV?oc=5",
+    "title": "Anthropic's Claude AI hacked three companies during testing",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMEllSzc4N2gxZ21fbmxvdUxhRUhFVWtFenVxeHFKeWkxajBmS3I0S2RtUFNocE5BZ3BoaVZBUzlldnpyYTNySVVfQ3ZLN3NYV2g5RkFfcWNnV3E1cFBMVlN5YXdLVGpfTHlOVk44RGlQeWNiSE9KLTV5akU5QkFoaFJWLVpzTVhxNFowVjVXRW9EY2NSa2FBWEp0Zjk3V2p3Yk5CLW44UzdONVVFcFBJTUIzZkttbGMwM1pCQnNyUFVNajJoZ3FqQkxNaWpQUGpZaHZidE1XUFgzNEFMTUlj?oc=5",
     "source": "Google News",
-    "time": "2026-07-31T00:08:46+00:00",
-    "meta": "BBC"
+    "time": "2026-07-31T22:19:00+00:00",
+    "meta": "kcentv.com"
   },
   {
-    "title": "Judge Voices Doubt US Has Justified Its Ban on Anthropic AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-30/judge-voices-doubt-us-has-justified-its-ban-on-anthropic-ai",
+    "title": "Anthropic discloses that Claude hacked three organizations during internal tests",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNUhYekd6SmthWUxueGRYU21MSEJnaWhmbDFoVWg5NEpVeWd0RWdDbkFCWmlXTWt3OVlWVUQ3VVlCRFhTVXBnLVl6MEpWa1UxblBaUFhONUpsQUR1VUZJUWk5ajVNaHUxTk5kZTRjcFY5YzFYTVdzVGxSdEZfUTZaTWdtaktaRmZOZG5QUFpjWF9rU2Y3S1VsZG54ZGFKLWJXLWhpekhMbnI?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T21:21:49+00:00",
+    "meta": "SiliconANGLE"
+  },
+  {
+    "title": "Claude Code helps me recover after surgery",
+    "url": "https://plecho.poke-method.work/en",
     "source": "Hacker News",
-    "time": "2026-07-31T00:07:06+00:00",
-    "meta": "16 分"
+    "time": "2026-07-31T21:21:37+00:00",
+    "meta": "2 分"
   },
   {
-    "title": "Anthropic Says Claude AI Broke Into Three Companies During Cybersecurity Tests",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuc1VzaTd5WS05ZkJXYS1xZk9OWGRPYzZsM3BGQUVQZ1V5akxiYm5KaEtZSVJ4eWhaTnVEb2ZXQUh2UjNNdlBEdm9pcHJYeEtYdmMtNmUxYVRwNjNIaU42MjMzVmZJbU5Cdlp5RGtqQ3Znam1aNFE?oc=5",
+    "title": "Anthropic AI Models Hacked 3 Real Companies",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU1JQTi12ODJSZUQ4YmNtU1V2aG5neTNZUFV0WVVuWEZDLVNUeFgyQlNrM25hQ0FnOHcxZkIzYnRBY3FVZWxRWU9VM0ZwTjMwbkk4WENWclRZdm9SbnNRLURYb2xGRkpzeGIyNlVsNXA5b09paVM3OXJ1aW5jQl8zbnFXQk03Ry1ESXZjRVRKT2M?oc=5",
     "source": "Google News",
-    "time": "2026-07-30T23:55:00+00:00",
-    "meta": "finance.biggo.com"
+    "time": "2026-07-31T21:11:15+00:00",
+    "meta": "BankInfoSecurity"
   },
   {
-    "title": "Anthropic AI Models Hacked Three Organizations During Tests",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-30/anthropic-s-ai-models-hacked-three-organizations-during-tests",
+    "title": "Anthropic's AI model Claude hacked three companies during testing",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcHFOMU5uOVJGQWwtYlpNblJUdWVLdXFlcTFha0l3X0dtcFVHVVZsZDR6SlZYb0swZ3V4VUJGV0lxVUEzYlJidUpEQ0RReGRiSTBLanF5eUZlODZHVmk5bkNyd0ZMZzJVVVV6Wkd6RkJSNThUWHYtYmpId1VleEtndThB0gGHAUFVX3lxTFBPS0t6XzZoSWw4UENMR2EzdmJfcktyWGJCUXBQVXU0RGQ5TGxUc3RvOENHQ1VjREhDZzFLRzJRcllNZm95SWdsanZtclVnVjV2eHdZQ3YtU2NZUVM0WTBMcC05Qk5FMXNGRThWaWcyU0dhdzdCRmV6cVNTZlNXNkY1Wi1LY19LMA?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T21:05:07+00:00",
+    "meta": "upi.com"
+  },
+  {
+    "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+    "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
     "source": "Hacker News",
-    "time": "2026-07-30T23:53:36+00:00",
-    "meta": "5 分"
+    "time": "2026-07-31T20:59:54+00:00",
+    "meta": "1 分"
   },
   {
-    "title": "Anthropic says Claude AI models accessed three companies during tests",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakYxRndnOWZqNUlqRnprd293MXpIRmVLZG9XSmJqX1NGN3R2cUtsaUZhdkR2dURCS21mdFo5dmduWFlYM2s2VUpJYk9EWFRNVkZrbTdlaGotWThMbmxtam5MWkpleVFsTHgxLUZ4eW1yZlNBMWtHMFNxeXlpZl9LWUdvMFNGM0FLNTFDSVNTOXVicmVEQVJqX0tXWVN3TkE?oc=5",
+    "title": "Not Just OpenAI: Anthropic Says Claude Hacked 3 Organizations",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSzlrczRzT2RPUEk5Sk10S1k4WGZRZ3hPdjhBUXZtXzBhNEdwZzRzdW9SLTg4ak43S1g3aURLM01lY0VIazJOQkxVWnVSamhmSHJLZlFlMlZlamV5OEtTWlZKWnZmaHZYWlNDUzJpdkxRSzFXWXdKNlByZVVxSnI0OGlYX0VFYTVXUmlJakZxLVVYNG4xUWJMUFVVZmxZa2ZjeGZZNw?oc=5",
     "source": "Google News",
-    "time": "2026-07-30T23:37:37+00:00",
-    "meta": "The Mighty 790 KFGO"
+    "time": "2026-07-31T20:50:14+00:00",
+    "meta": "PCMag"
   },
   {
-    "title": "Anthropic AI Models Hacked Three Companies During Tests",
-    "url": "https://www.wsj.com/tech/ai/anthropic-ai-models-hacked-three-companies-during-tests-bd752c86",
+    "title": "Time for OpenAI and Anthropic to take a leaf from Microsoft's book?",
+    "url": "https://news.ycombinator.com/item?id=49128289",
     "source": "Hacker News",
-    "time": "2026-07-30T23:24:34+00:00",
-    "meta": "22 分"
+    "time": "2026-07-31T20:40:49+00:00",
+    "meta": "2 分"
   },
   {
-    "title": "Anthropic says its AI models hacked systems of three companies during tests",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkQtUGdMRHpoSnV1UWVBanNRMG9ZU0FKSGg2UzlzMXZITnIxbWJuV1hCR29Tc3pzSTlXeUgxblRKNEFqaXlaUGdyQkw4TFBVdEYwNmdTbUlWa3BpRmZGZ2pjNjhKZVhPU0IwZFMtWkpxZkU1a3lEc2xidHpablQ0dF9Pbnk3QUJLUU9QV0Q3bzFWakRY?oc=5",
+    "title": "Anthropic Says Claude Models Hacked 3 Organizations During Cyber Tests",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRFNWdzM0NFRjS2NKTDlIZmpkOEpybFJOaURsaHUzNV95bE9pOFozRTBKLTFSZjd2bGVkajFzaWdVU1BjRVdfTURYOW1uZUFPSnVVZEJrRm9CbjJiUFdwMkRlaFBXajYyUHBjak5UV0d6SWJ2ZUtNZDZnYjBqNTUwbHJlYks?oc=5",
     "source": "Google News",
-    "time": "2026-07-30T23:20:55+00:00",
+    "time": "2026-07-31T20:01:51+00:00",
+    "meta": "Hackread"
+  },
+  {
+    "title": "Show HN: Claude MIDI Twister – An agent visualizer for a DJ MIDI controller",
+    "url": "https://www.dylanfisher.com/claude-midi-twister/",
+    "source": "Hacker News",
+    "time": "2026-07-31T19:51:28+00:00",
+    "meta": "1 分"
+  },
+  {
+    "title": "Claude vs. ChatGPT: Which AI Security Incident Was Worse",
+    "url": "https://industrycontents.com/claude-vs-chatgpt-ai-security-incident-worse/",
+    "source": "Hacker News",
+    "time": "2026-07-31T19:29:07+00:00",
+    "meta": "3 分"
+  },
+  {
+    "title": "Another AI Jailbreak: Anthropic's Claude Escapes a Test and Hacks Outside Groups",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMnBPMEFZMVUzXy1XbnVVX2NmYWE2dmJjQVg3RmJYSDQ1R0VpZWo4LVgzTndKZE5aUjZfSlc4dnVHQWxKaEhjeG1hamw3ZVVWODJNUEdveWxJYTRWc3NwVW9WWFExM0h5MDRMbktjallHNG9nOGhnVmNhSVNLSHhRYVpsYVBzbEVwc0JkQzUxY0lsSUVZaDNUc19paTJNV3pMWmc?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T19:17:47+00:00",
+    "meta": "cbn.com"
+  },
+  {
+    "title": "Three Claude Skills I Think Every Org Should Have",
+    "url": "https://arpitbhayani.me/blogs/three-skills/",
+    "source": "Hacker News",
+    "time": "2026-07-31T18:18:14+00:00",
+    "meta": "2 分"
+  },
+  {
+    "title": "Anthropic reveals Claude compromised real-world systems during AI security tests",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQWFZN0Z0S1l0T2xxTjZGWGMtdV90UW9sYkRKbWw2d2xSUDd5cjJXVnhTeGFQZnA5NTVyMEQ1X3lkTTl3V2dYNTZuWnkzYjVKa2Fwa0JtV29tMWpyc09zZGU2d1hLUG1wekxSQUJIZ08yUGxUQXRyZHhmTVlVQjJYVXYzejM5UDVsbFJUYjVYTlZrV3lBeXl4V0xmMVRxaUptNmY1R1F6VnAtRWlaNVZjOTlUZEdoSFlsZ2RzRmlfWGZCUVpMZ3k4c3VEeFk?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T18:02:05+00:00",
+    "meta": "voz.us"
+  },
+  {
+    "title": "Show HN: Shellphone, an MCP Extension to Link Claude Chat and Claude Code",
+    "url": "https://www.npmjs.com/package/shellphone",
+    "source": "Hacker News",
+    "time": "2026-07-31T17:41:35+00:00",
+    "meta": "2 分"
+  },
+  {
+    "title": "Anthropic Discloses Claude Security Breaches as Judge Casts Doubt on Pentagon’s “Supply-Chain Risk” Ban",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMFZJUzI5aWlrbEF0cmhkUjVZV2NyOHRmZFFLQkhQYkhiNnd5aG01SFUyWDI2MXZRM0RTbzJCaDc4M3Fqa2FEcGFNLTdGWXdDOWM4aWR6NGhQbHZvbDNFMTFydUVFQjBZRGhHbTk5QVByNmhKRU8xZ0lrZjdGZEFDVGl2YzR4VVZFUWFKdzFiNnZwZFdXUEdKb2F6ZldOTnExMTJINmRqSkJHTXZhUzFMbUpVaWhxaFktMElTYlpycElBQmZFelJWZEJzNWRoQk4tX21UdQ?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T17:35:48+00:00",
+    "meta": "theaiinsider.tech"
+  },
+  {
+    "title": "Anthropic blog reveals how Claude AI models hacked real systems during testing",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2NSWHBRemM3WEE5LUpGcTV2MUpXWEs1RnF0OXhMakRjSDZGRUltS2ZNYnpDY0w1bENNRWhfQmJCOGNRMUg2cWlvUHB4ejh5RTgxWXh0YnZ2SnhKUlpRaS15U21lQVZTZEpIZHVlNnpZQUd4NV9CYnU4V0tjeDdGZ1dSMHlfMnBwVGFJbVRMZDRjNlhRaE1ZR1VSUnNfTWZsTzhzdmRlNXlkUGJDWjdiZnA2VQ?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T17:23:27+00:00",
+    "meta": "PRWeek"
+  },
+  {
+    "title": "Ask HN: Has Claude Code been (mostly) usable for you?",
+    "url": "https://news.ycombinator.com/item?id=49125917",
+    "source": "Hacker News",
+    "time": "2026-07-31T17:11:34+00:00",
+    "meta": "3 分"
+  },
+  {
+    "title": "Anthropic Finds Claude Accessed Real Organizations During AI Security Testing",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbm52QWlNTFJpdnVSZEcwY1NUUWRqV1AzMk9PQ0Z6bmd2cHdxUTlYUy1PUnp6NmxOMVRyQkhUdkVkRFJYZnZjOGRWY3YyaldUb3BLaXB0VHZsN0FpU2JkWDZ6V3c1dlJOVEhGQ1VXYnpmcDJoRUNsWHNrZzlQa2hoWHR1ejJiTndnaXZ2SEpIVkx1dEFjXzUxdFB0dVAyRmVqbHQ4TnFPZ3NQM21hcm9iak9aLVZsTURuZGNSTUhnMmRnTFQwekU1RjN3SWE1UTBxM0xNSQ?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T17:01:30+00:00",
+    "meta": "nationalcioreview.com"
+  },
+  {
+    "title": "Not just OpenAI - Anthropic says Claude's hacking spree 'falls short of ideal behavior'",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYnFhTDd0emlFa1dWT0otU1hSNkR2azQ4c29oQ0dueEZzQkdOd3A3Z0ZCSHFoMjVGTjFVRW9JWi1GV2xGNmNqT1lKSW5EVDJfTXVnQ2ttakJpcGdQcVN2cENHQ3NNZXdFNG9aM0hsYm5nSEpQRnlHTVg0T256NG55VFhhTDJjdklacDFHaTJXTlVjSWxDdTRkXw?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T16:45:00+00:00",
+    "meta": "ZDNET"
+  },
+  {
+    "title": "Anthropic's Claude Tests Crossed Unexpected Line",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnVGZXhweFVVWkNuWU1lU2xrVldIdXR0dXhGeWRPMEwwNHlZd2hxeW11VW5xUzlaejRhYmJwNFNKVVNSbE9ZUDg3RnBRTURUcURBSHJrX01nLXg5NEtJS1JHUDQ3TXNhM1kzeTZfOWlKMmZiT18wczFaRVNkSjRxcVJ1UlJTZks1ak1JaEVYQlJvQXVFVzN5cEVYUm1WcnktT3o3VldSeGhPU0hq?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T16:32:49+00:00",
+    "meta": "TradingView"
+  },
+  {
+    "title": "Anthropic: Claude AI hacked 3 companies during cyber tests",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaWdMbDVDampqZDRNdUJTcWEzTVFiMk9FUkIycUQ1MXVabEdNRDM4VlJSckJTUzEycENzY0JqLUZjc0QtRjhweTJaRzEzcU1KQ2didnBnYjBobVZlWWJjRFcxN2hnWGhaSXhUaG1TUzdheVE5cjBjdk5jVGNVVUZDczJ2Y0tuLWFvOVJydl84LUNUc2d0SVY1M2cyTVFKdXpCNzVRR25hV3c3aWpTMkpWSFB3RWZCNHZ3Z3c0VzJ4QTc2RXlNMWtjSDdYWmc5Qnl1R0hvb2FoZVZ2QVVYWFc5YlVaNDU4UTFhV3Y4?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T16:30:00+00:00",
+    "meta": "Lee News Central"
+  },
+  {
+    "title": "Anthropic lost control of Claude in latest AI cyber blunder",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2RaSHc3S2htTVhPUml0YjJSSXZ0N21RazBCR2VNRVlXeFFPLXFYY1FyRkJ1RllYZ3ZhUy1tQnZxcTVNZXVxdTVBUVBZYWdka0lWWXV4cFEtQmF3SHZELXd4VE4wbDNXZ1c2NnVzNzJGc2tDeUpVbWZ3ZGk5cjZ4N043blAzZDViRjN0SVJoU01ZYnBnT1ZhNHdHbEFHVzlCTHpCaEM1Q2I?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T16:16:47+00:00",
+    "meta": "Computer Weekly"
+  },
+  {
+    "title": "How to Invest in Anthropic Stock Before Its IPO: 7 Ways to Buy Into the AI Company Behind Claude",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVXBUUWRLVjFYd2tRUDc5aURQajRDQW1mVHltWk45OVFCNFpldnc0ZmJ0R29MRVhpTWpkVnl1QUdXWWFZbE52clRyTGo1a3VORkRSQlRZamVIVDRYTmVHaVFvOHJSN3JJZHpaN3FXTTlUWUNtNVM5MHlhZ0s0ZWdqVw?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T16:12:22+00:00",
+    "meta": "MarketWise"
+  },
+  {
+    "title": "Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
+    "url": "https://uml.gpmai.workers.dev",
+    "source": "Hacker News",
+    "time": "2026-07-31T15:58:01+00:00",
+    "meta": "17 分"
+  },
+  {
+    "title": "Anthropic says human error let Claude AI models escape test environment and hack third parties",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWmtMWmdtVmdWUjBRa1ZqcXpsOGpOUkJTQThkUzEtZnU5WW5qRnU0d2w0WHdwdHJkTF85OUJlX29hanhuNlNsR2g3WXhuU0xGbUpuU2lWRkI1bDlFeExfTWNDRWNRdlZoeDg5WFdtOGJ5TS1SUThvYjhfS292TEZ2MzcxRmJPZw?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T15:42:17+00:00",
+    "meta": "Cybersecurity Dive"
+  },
+  {
+    "title": "Anthropic says its AI models hacked 3 organizations on their own during tests",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T15:32:42+00:00",
+    "meta": "ABC News - Breaking News, Latest News and Videos"
+  },
+  {
+    "title": "Anthropic Reveals Claude AI Breached Three Companies",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWWF5X3djTkZHajgzQzM5Z1R3M3gxMzJISWVPSUh6RzBPS1ZzMVFyR2pKanlsT3hMVVN5b1ZFbWlaSDhJNWxPMEdEVVRhTEJMcVpLMEZPdnZTc3ByeGsyYml1aWl2RzlnalRNcl9zRDBOS2FNTWNXOE93THpOeXlQSkQ2TDlEeXhoM0gxQnpWYXktZm5COVZyb0RVUkhTdmxl?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T15:30:00+00:00",
+    "meta": "Mexico Business News"
+  },
+  {
+    "title": "Anthropic and OpenAI are competing to see whose agents can go rogue harder",
+    "url": "https://www.theregister.com/security/2026/07/31/anthropic-and-openai-are-competing-to-see-whose-agents-can-go-rogue-harder/5281797",
+    "source": "Hacker News",
+    "time": "2026-07-31T15:05:47+00:00",
+    "meta": "10 分"
+  },
+  {
+    "title": "Anthropic’s Claude AI hacked other firms during tests, company says",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXbkVBUWJ6VzFETGtIQ0FVSTdONGhDYm9IZnZ2WHl0b1Rhc29PZllRUWVqQlVLWEt1WEF6Mk9KS2VkS0UxdHdsMXBQQkxCU0dRQVBVVjJPR3hVd1U4U0lFYzZidnBVNmtN?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T15:00:05+00:00",
+    "meta": "The Week"
+  },
+  {
+    "title": "Anthropic disclosed that its Claude AI models hacked into three companies' systems during cybersecurity tests, just days after OpenAI revealed a similar rogue attack by one of its own AI agents.",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM2JBYkdJczRtU0tjRE5DSk9GUnRabm91SThTdXVMN2hmWEE5MFRmai1OblE5anI1LXR2LXJ3X0JPUk1kQnJULXFXSV9sRXpTMnotaFMyaUMwOUZPZGwtdDVmenVfdTRIWG5RWlZhZzBSZ2ZHSGQ5QTBhMk11cVFXd3ZoMVo0dFRqYTdJ?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T14:52:57+00:00",
     "meta": "Yahoo"
+  },
+  {
+    "title": "Claude won't let me talk about the Gaza genocide",
+    "url": "https://evanp.me/2026/07/23/claude-wont-let-me-talk-about-the-gaza-genocide/",
+    "source": "Hacker News",
+    "time": "2026-07-31T14:51:56+00:00",
+    "meta": "10 分"
+  },
+  {
+    "title": "Anthropic says Claude hacked real companies during AI safety tests",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVDlWbHVhdGU3U1lFZUtxRmhvOGQyU01JVmp4TmstdlA3bE9WaFFhQ1hMd2pPQVcyNjBkdHUzZV9QNHFqalA5aHgtbjhlSy1oRXJNVGlVLXBWbUc5YV9xa3VfQXdJZDVNdnd4M2FxU0t0aDBOVlBjMHBlU2NIUlpVZGQ4UzlSYm04ekx1YkU5M0hiUTNXRTBEWWRjbldudjFwX084d3dZUTVQWXVuZWZWYzBuRmxyUDNL?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T14:48:36+00:00",
+    "meta": "PCWorld"
+  },
+  {
+    "title": "Claude AI has gone dangerously rogue, Anthropic says",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV3VQZUxSekd2YkZ0YmpyLXF5WmpYd3IxaUZwcTc0QzQwU2FJUU5UNENFTEE5S0Y3a2EzMFdwVVZoa3U5RzJyOUJPWGZxcjYzcWgwNWhHTFY2ZG1OcXhLUE85eXhDcHhPLVpBMUN3NzVmX2dZNUFTNzVVNXFrNXJOR29jZ2JLLXJuaV9LcW8zTkxpNjFPUG92MDdR?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T14:48:00+00:00",
+    "meta": "The Independent"
+  },
+  {
+    "title": "Bypassing Claude's upload limits, 4x (500 MB → 2 GB)",
+    "url": "https://blog.zernote.com/2gb-user-interviews-into-claude/",
+    "source": "Hacker News",
+    "time": "2026-07-31T14:41:02+00:00",
+    "meta": "12 分"
+  },
+  {
+    "title": "Show HN :Tandem – one session across Claude Code and Codex, no double spend",
+    "url": "https://github.com/Bhavya6187/tandem",
+    "source": "Hacker News",
+    "time": "2026-07-31T14:22:16+00:00",
+    "meta": "3 分"
+  },
+  {
+    "title": "Claude AI Hacked Real Companies During Security Tests",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWFNGOUNtX2FkMDJwWUQ5MU93M3YzdENkaWF6bGZ5RVdXR0s0T3lGcU04WjFreERXb01wWUhsOE1NQktaREstR3JMNFhXaE9oa3BmdFd6WjNxYkp3T0VTYlpvdC01WEktSGpRUlFJS3BubXBSRng1cTJkdDVHanhHWTBvelBwX19BTTdMRzlNRQ?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T14:17:00+00:00",
+    "meta": "techbuzz.ai"
+  },
+  {
+    "title": "Claude Hacked Three Companies in Internal Testing: Anthropic",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcW15cDFfUTYydk1JeGdjUDNJeUlmMEpFZDJSdVcxd0xFaGFXM1QtRzVkTmVSZGZIQzhNUjVTT3U0VzEwX0c5djRTdzJLQ1hvaHE3SGhOS1dHbWpTMzR0S2w0UGVTZ2ZoMFptVzBCQWkyNE92bHg3WVNic1Z6RE9JM3lzbndqd1VrME5ZY3J3?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T13:47:54+00:00",
+    "meta": "Decrypt"
+  },
+  {
+    "title": "Claude AI Also Escaped Test Environment to Breach Three Real Companies, Anthropic Claims",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMkQ4Q0FRcHpScFNfcklybFhTWlZCNkNuYkdaeFpULWwzX3J5R2I1SDVfQ1lrWi1VbS1qSnV5QmFrMlZMdjVwd3VyOFh0aXZFSF9fZFVpR0hndUppblNrOXBGY0t4ZTFWUmFUeWRZY0NpSDlFa09uZlB6WTY4LTNSMllXRmdOSndRd2F5bldOOWtnejhobUc5d0xVb3FmTnJyN0MzWXZB?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T13:44:22+00:00",
+    "meta": "Android Headlines"
+  },
+  {
+    "title": "Anthropic's Claude AI 'Goes Rogue,' Hacks 3 Organizations — Elon Musk Warns 'This Will Happen Frequently'",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KV1FvMU5oUDR2U1JoSVgyODRrS241bnpLOThtYm96QWNDalFiSmpqR1UyU3BuZUxJMUxCZHI2NHFjYkpPa2c5eDk1MEo5NGhrUlFyekt4N3dpNTNBeTBYYXNKZWstYzQ?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T13:41:49+00:00",
+    "meta": "All About Cookies"
+  },
+  {
+    "title": "Anthropic says Claude accidentally hacked real companies too",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNzM5WTF2azBoUmMtVHJaTzR2Z0pibmdjLVhiSTBzYzYtN245VjdlZWVCRmtoZERWTURCRDFmSWVXWGwwNU1NZmc1cFdaVmx5RVNWdlFMd2ZZYjRVRl9Zamo5eThfRGxqUUl4bnFTbi0tdGU4VkhNMWlrdFJKaW1Gb0gyMV9yT0dReHIzVjJ1cjY3ZWtUb1JOOFhobTdOc0QtenZVbGtoYzd1SWlzUFBuUzZoTE5rQQ?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T13:41:17+00:00",
+    "meta": "The Verge"
+  },
+  {
+    "title": "Anthropic confirms its AI breached 3 organizations during testing",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFpZeFB6OXNWbUp2OG1NcnJPaDA0cmpkUTNzMUJGNFlPak9kalI0NVRRMXpJcTN5RERhc1RONDJMWVpsZ2lkSHNXUWx1N1hqeGNjVlp3NVNNWkJIdjNHc0FHdENWaXlIRmxYTGtFVlBaRWU2NVRRLXVYMDJ2dWNCcTRJeTc4U3gwVXNmekNUTXFGYklzNlBZclBKdDQtNHdJMTcxMGVKcWZzdVZYcDJVc2IwS21CcWl2YmFz?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T13:40:00+00:00",
+    "meta": "Nextgov/FCW"
+  },
+  {
+    "title": "Show HN: PinFix – Click any UI element and edit its source with Claude Code",
+    "url": "https://github.com/ForeverSc/pinfix",
+    "source": "Hacker News",
+    "time": "2026-07-31T13:29:58+00:00",
+    "meta": "1 分"
+  },
+  {
+    "title": "OpenAI, Anthropic Reveal Their Models Breached Organizations",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aQVRra3FwOTJORW51ZGxXMlRXaXhDdVhTNmZCNWZUY2Z3SUp5bDBzaUZWbkhUeklmZ1Jway11NHpWeVJwX3hOMmVBSk80M1JGbkVEMnJxZkVhdk5idS1WSVV3SURxYWN6?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T13:06:48+00:00",
+    "meta": "tech.co"
+  },
+  {
+    "title": "Not Just OpenAI: Anthropic Says Claude Escaped Tests to Hack 3 Organizations",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRk1IZUpsQWljOEV1Sk5YT0ZrdWNCSy1aenF4aXhFNXhDdFl3Z2VjbzZJWmF6TnRTSU5GN0FIaUVqWHpIOUdUNnBLUDhRejZuZWhxOHYxYkNBaWxNaWFZbVdtcXVJLXYtcG9aNjY2cjdkRjRpcWZFa0dJUVFFdG5OanluTEQxMUY1aFN0bDhxRjBnMWdMYUdMNDFXdl9fd3pMaE5qLWxvZ0J4eUxONWx5N2xyMHg?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T13:04:02+00:00",
+    "meta": "PCMag Middle East"
+  },
+  {
+    "title": "Anthropic’s Models Gained Unauthorized ‘Real-World’ Access During Testing",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQTNfSXZrYnR3VTY2STBPdVd6VUR2eU5qWnhXQjNPc1h5S0p4MFVYRmRRQ2lNbTRGNUFGZHZqdUZ0TGZyRGxielVLaEFDTXVrTVBjRmw3eVQtRi01d09EQ0V2VFhGQlBWNERmQ284QUM4c0dNRWRhZTNQaldTaF84OENfdkLSAYoBQVVfeXFMTmliUUNCMTE0YXYyNzBUeW0tdzNsOWxqWFRqbDVzeUd4TjByYnk4VThUNkNWSU45T0tVZGZBODBkLWZMX1AtV1FfbUJ6emFTWU9TZGpiUmVwaTloOGpXNGs5WWkwUE1ZbjF6cmxEdTcwMXZCMHlkYmppakM0U0VoVm9jQWJZeExKU3VB?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T12:58:04+00:00",
+    "meta": "The Defense Post"
+  },
+  {
+    "title": "Anthropic says its AI models hacked 3 organizations during testing",
+    "url": "https://apnews.com/article/anthropic-ai-models-hack-cybersecurity-b0a2c284b981de79c55e2a33712f4bec",
+    "source": "Hacker News",
+    "time": "2026-07-31T12:43:13+00:00",
+    "meta": "4 分"
+  },
+  {
+    "title": "Anthropic's Claude AI models breached three real companies during cybersecurity tests",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0JCcEJscVBFbDZrMEtJUTVYWkVmcHFrSGZlNFl1dVRaSmFSSklVbXlzc2ZyalN1VXZwNmFxTGJlUlBLbjJCaUpIZmtoLTlaSElUOVRCb0pCOE4yLTNGdGh3aktuV040N2NpMkFaN0dERmZWdEVjSU80Tk9ORFlYRDlyUl8tSDQ?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T12:32:03+00:00",
+    "meta": "qz.com"
+  },
+  {
+    "title": "Anthropic says its AI hacked real-world companies in three incidents",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SN0lzeHBOMlpvTUdGSWdCMVFILTc2RjZkQzNJaVFINU0tcGY3ZGNWQTY0aW4tVG1nMW8ycGJ0NUtVY0ppdjhFSVl0SHB5TXZpMU43MjN2dUdYVTFsWGJKTUU1LVpBQ3oxTmhLaGl5YThVdw?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T12:24:03+00:00",
+    "meta": "The Record from Recorded Future News"
+  },
+  {
+    "title": "Anthropic says its models went rogue and hacked 3 companies during testing",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa3JxWEh1SXZQaEhVdXROUzlxRTQwaUJRS3Z3N0tTdko0Z3pSRXFIRzR2VzJDZ1Vob1VBX01rZDJSRWpCMzhaU3dWMG94MlVqdGVhZ09HTXRFZ1pNR1ZZdVBMUHU3OUlld2NwZTZLSm44a1FfM2RuZ1EwZHBISDZLaHNnaUpaTWhlSnVramR0U3h6UkxETngtQ25aWC0yeUNndW94QVRLWUY?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T11:50:00+00:00",
+    "meta": "businessinsider.com"
+  },
+  {
+    "title": "Anthropic Cybersecurity Evaluation Reveals Claude AI risks",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXZEhmZG91c2pyaHdUS092OGF1N3NtR2FNd2NhX293Ukd2UGY5VEMzdV9sVXhOamhjdDA3LVM1SUVralJmNExDbXlFelVBcG9NSzhBUHJYTTJoWnRUWlRLQTFjR1BZcHpyMkJyU1ppMjh2aGZtcExJRjdMZkRfQdIBfkFVX3lxTFBXZEhmZG91c2pyaHdUS092OGF1N3NtR2FNd2NhX293Ukd2UGY5VEMzdV9sVXhOamhjdDA3LVM1SUVralJmNExDbXlFelVBcG9NSzhBUHJYTTJoWnRUWlRLQTFjR1BZcHpyMkJyU1ppMjh2aGZtcExJRjdMZkRfQQ?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T11:11:18+00:00",
+    "meta": "The Cyber Express"
+  },
+  {
+    "title": "Anthropic’s Claude AI Broke Into Three Companies During Security Tests",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUl2cklIYkg0cjlxX3BOUlV3LVg4bzM2Y2pJM2hCak9OaTNoRi1DeFh2OWFsdzRZUlBiT0d6MHVnWGlxS3lFblZBdjk1Ty1vTE5MdEU2YW54YlgtS3l5aUJaVGVNVlI4Z0VGVDRSeHF3V0ZueTRDVnhxOUNQSHFVNVNDVEhYTW9BQ1d0TFQzbWhTSk5IU0otNFRONkxvZC1UUVJzSGdET21vNEhD?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T11:00:00+00:00",
+    "meta": "Forbes"
+  },
+  {
+    "title": "Anthropic says Claude AI models breached three organisations during cyber tests",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZHo4VWRfQTNFZ3BOLTJMcWNuejFMS1dvRWdOeS1YT0hLNVN1WUNJY0l1YlBaRV9LYnF6SmpEWWtCUmdTaC03eWw2cXJmQ1FlM0ZRTTlSWFFWT0lGZmlYZUFsekFyMVpNTG5yTTlyeFV1cERkQ3dWQXBiVGxXdzNVbkJvZ2dYZzN1YTZrc0tVMHF0ZjVoWmxxVVNpRVlnUzdHVms4dFNya01WWHdRVUNDRkpsblZIcW9tVng3U2c4cjM0dGl1U1lfUmhNX2RLUkk?oc=5",
+    "source": "Google News",
+    "time": "2026-07-31T10:53:40+00:00",
+    "meta": "thenationalnews.com"
   }
 ]
