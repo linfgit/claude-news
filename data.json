@@ -1,220 +1,416 @@
 [
   {
-    "title": "Eyalm321/dsh-claude-cli-provider — Claude via the local claude CLI as a DeepSeek Harness LLM provider — subscription OAuth, no Anthropic API key.",
-    "url": "https://github.com/Eyalm321/dsh-claude-cli-provider",
+    "title": "hesreallyhim/awesome-claude-code — A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code",
     "source": "GitHub",
-    "time": "2026-08-21T01:41:58+00:00",
+    "time": "2026-08-22T01:36:14+00:00",
+    "meta": "52784 ⭐"
+  },
+  {
+    "title": "PAG-droid/chgf-control-tower — Day-of control tower for the Gates Foundation x Anthropic Claude Code Hackathon (2026-08-14)",
+    "url": "https://github.com/PAG-droid/chgf-control-tower",
+    "source": "GitHub",
+    "time": "2026-08-22T01:24:18+00:00",
+    "meta": "0 ⭐"
+  },
+  {
+    "title": "krushaalkalkani/frontier-lab-research-report — Open-source, educational one-page tracker for Anthropic & Claude launches and model comparisons. Auto-refreshing, Anthropic-inspired UI.",
+    "url": "https://github.com/krushaalkalkani/frontier-lab-research-report",
+    "source": "GitHub",
+    "time": "2026-08-22T01:23:49+00:00",
+    "meta": "1 ⭐"
+  },
+  {
+    "title": "AINative-Studio/builder-ainative-studio — AI-powered React component builder using Anthropic Claude Sonnet 4 in a hierarchical multi-agent system",
+    "url": "https://github.com/AINative-Studio/builder-ainative-studio",
+    "source": "GitHub",
+    "time": "2026-08-22T01:19:14+00:00",
+    "meta": "0 ⭐"
+  },
+  {
+    "title": "coroboros/archivist — Canonical Claude ecosystem reference — auto-synced Anthropic docs, curated team insights, and the ask-archivist skill for deterministic local lookup via Claude Code.",
+    "url": "https://github.com/coroboros/archivist",
+    "source": "GitHub",
+    "time": "2026-08-22T01:08:22+00:00",
     "meta": "0 ⭐"
   },
   {
     "title": "broomva/skills — Broomva agent-skills monorepo — 48 Tier-2 skills compatible with Claude Code, Codex, Cursor, Gemini CLI, Goose, Copilot. Layout follows anthropics/skills (agentskills.io spec). Install: npx skills add broomva/skills --skill <name>.",
     "url": "https://github.com/broomva/skills",
     "source": "GitHub",
-    "time": "2026-08-21T01:40:55+00:00",
+    "time": "2026-08-22T01:06:23+00:00",
     "meta": "3 ⭐"
-  },
-  {
-    "title": "husniadil/codex-cc-proxy — Run Claude Code against models served over a ChatGPT subscription — an Anthropic Messages API on the front, the OpenAI Responses API on the back",
-    "url": "https://github.com/husniadil/codex-cc-proxy",
-    "source": "GitHub",
-    "time": "2026-08-21T01:38:20+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "promptfoo/promptfoo — Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
-    "url": "https://github.com/promptfoo/promptfoo",
-    "source": "GitHub",
-    "time": "2026-08-21T01:37:06+00:00",
-    "meta": "24415 ⭐"
-  },
-  {
-    "title": "krushaalkalkani/frontier-lab-research-report — Open-source, educational one-page tracker for Anthropic & Claude launches and model comparisons. Auto-refreshing, Anthropic-inspired UI.",
-    "url": "https://github.com/krushaalkalkani/frontier-lab-research-report",
-    "source": "GitHub",
-    "time": "2026-08-21T01:35:06+00:00",
-    "meta": "1 ⭐"
-  },
-  {
-    "title": "jeffer1312/hangar — Self-hosted control room for live coding-agent sessions — Claude Code, Pi and Codex in one board, from your phone or desktop. Not affiliated with Anthropic, OpenAI or the Pi project.",
-    "url": "https://github.com/jeffer1312/hangar",
-    "source": "GitHub",
-    "time": "2026-08-21T01:24:00+00:00",
-    "meta": "2 ⭐"
-  },
-  {
-    "title": "PAG-droid/chgf-control-tower — Day-of control tower for the Gates Foundation x Anthropic Claude Code Hackathon (2026-08-14)",
-    "url": "https://github.com/PAG-droid/chgf-control-tower",
-    "source": "GitHub",
-    "time": "2026-08-21T01:23:07+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "makraz/ddev-claude — A DDEV add-on that adds a sandboxed sidecar container for running Claude Code (Anthropic's AI coding CLI) with --dangerously-skip-permissions (YOLO mode) safely contained behind an iptables + ipset + dnsmasq firewall.",
-    "url": "https://github.com/makraz/ddev-claude",
-    "source": "GitHub",
-    "time": "2026-08-21T01:12:27+00:00",
-    "meta": "3 ⭐"
-  },
-  {
-    "title": "coroboros/archivist — Canonical Claude ecosystem reference — auto-synced Anthropic docs, curated team insights, and the ask-archivist skill for deterministic local lookup via Claude Code.",
-    "url": "https://github.com/coroboros/archivist",
-    "source": "GitHub",
-    "time": "2026-08-21T01:11:16+00:00",
-    "meta": "0 ⭐"
   },
   {
     "title": "aayushgames19-hash/claude-gateway-manager — Best Tenbin AI Proxy for Anthropic Opus 4.8 & Sonnet 4.6 API Access 2026",
     "url": "https://github.com/aayushgames19-hash/claude-gateway-manager",
     "source": "GitHub",
-    "time": "2026-08-21T01:09:45+00:00",
+    "time": "2026-08-22T01:05:53+00:00",
     "meta": "116 ⭐"
-  },
-  {
-    "title": "VkRainB/ccMesh — ccMesh is a lightweight forwarding layer for Claude Code. It intercepts Claude protocol traffic and routes it to either Anthropic Claude endpoints or OpenAI-compatible APIs — switch backends without touching your client config.",
-    "url": "https://github.com/VkRainB/ccMesh",
-    "source": "GitHub",
-    "time": "2026-08-21T01:09:13+00:00",
-    "meta": "110 ⭐"
-  },
-  {
-    "title": "gramatr/claude-desktop-extension — grāmatr Claude Desktop Extension — real-time intelligent context engineering for Claude Desktop, packaged as an Anthropic .mcpb bundle",
-    "url": "https://github.com/gramatr/claude-desktop-extension",
-    "source": "GitHub",
-    "time": "2026-08-21T01:02:00+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "pag992007/chgf-control-tower — Day-of control tower for the Gates Foundation x Anthropic Claude Code Hackathon (2026-08-14)",
-    "url": "https://github.com/pag992007/chgf-control-tower",
-    "source": "GitHub",
-    "time": "2026-08-21T00:56:06+00:00",
-    "meta": "0 ⭐"
   },
   {
     "title": "RobGruhl/anthropic-docs-mirror — Local mirror of Anthropic documentation (~1,400 docs from 10 sources) for fast searching and reference with Claude Code",
     "url": "https://github.com/RobGruhl/anthropic-docs-mirror",
     "source": "GitHub",
-    "time": "2026-08-21T00:47:18+00:00",
+    "time": "2026-08-22T00:43:31+00:00",
     "meta": "0 ⭐"
   },
   {
-    "title": "neodevtn/neopolis-akademy — Plateforme de recrutement et formation pour les professionnels africains menacés par l'IA. Propose une formation e-learning de 7 jours, un accès à la plateforme Anthropic pour préparer la certification Claude Certified Architect (CCA), et un voucher pour passer la certification avant le 31 août 2026. Les candidats sélectionnés ... · Créé avec Manus",
-    "url": "https://github.com/neodevtn/neopolis-akademy",
+    "title": "ai-native-engineer/anthropic-mirror — Unofficial, searchable, git-versioned mirror of Anthropic and Claude public materials: docs, research, Academy courses, YouTube transcripts, and PDFs.",
+    "url": "https://github.com/ai-native-engineer/anthropic-mirror",
     "source": "GitHub",
-    "time": "2026-08-21T00:46:39+00:00",
-    "meta": "0 ⭐"
+    "time": "2026-08-22T00:41:27+00:00",
+    "meta": "4 ⭐"
   },
   {
-    "title": "fegone/claude-code-delegate-local — MCP server that delegates Claude Code subagents to local models (LiteLLM/llama.cpp/Ollama), DeepSeek, AWS Bedrock, or any OpenAI/Anthropic-compatible backend — without losing the Claude Code orchestrator session.",
-    "url": "https://github.com/fegone/claude-code-delegate-local",
+    "title": "kelvinkosbab/KozBon — Multi-platform Apple app for discovering, broadcasting, and understanding Bonjour (mDNS/DNS-SD) services. AI Chat with on-device Apple Intelligence or cloud Anthropic Claude. Siri / App Intents. SwiftUI, Swift 6.2, full accessibility. iOS, iPadOS, macOS, visionOS in 8 languages incl. Arabic & Hebrew with right-to-left layout.",
+    "url": "https://github.com/kelvinkosbab/KozBon",
     "source": "GitHub",
-    "time": "2026-08-21T00:45:37+00:00",
-    "meta": "9 ⭐"
+    "time": "2026-08-22T00:39:52+00:00",
+    "meta": "3 ⭐"
   },
   {
     "title": "aile-dev283/cca-f-study-notes — CCA-F (Claude Certified Architect – Foundations) study notes. Fork of ericbuess/claude-code-docs with exam prep materials from Anthropic Skilljar courses and official engineering blogs.",
     "url": "https://github.com/aile-dev283/cca-f-study-notes",
     "source": "GitHub",
-    "time": "2026-08-21T00:36:36+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "m7xgam648/CLAUDE-CERTIFICATIONS — Prepare for Anthropic Claude certifications with organized study guides, official blueprints, and curated resources in one central location.",
-    "url": "https://github.com/m7xgam648/CLAUDE-CERTIFICATIONS",
-    "source": "GitHub",
-    "time": "2026-08-21T00:35:22+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "depictive-asiootus528/claude-cursor-proxy — Connect Claude Code to Cursor with this Anthropic-compatible proxy.",
-    "url": "https://github.com/depictive-asiootus528/claude-cursor-proxy",
-    "source": "GitHub",
-    "time": "2026-08-21T00:35:15+00:00",
+    "time": "2026-08-22T00:34:47+00:00",
     "meta": "0 ⭐"
   },
   {
     "title": "ino1330/claude-news — Anthropic Claude最新情報の自動収集・蓄積システム",
     "url": "https://github.com/ino1330/claude-news",
     "source": "GitHub",
-    "time": "2026-08-21T00:34:37+00:00",
+    "time": "2026-08-22T00:31:53+00:00",
+    "meta": "0 ⭐"
+  },
+  {
+    "title": "pag992007/chgf-control-tower — Day-of control tower for the Gates Foundation x Anthropic Claude Code Hackathon (2026-08-14)",
+    "url": "https://github.com/pag992007/chgf-control-tower",
+    "source": "GitHub",
+    "time": "2026-08-22T00:31:36+00:00",
+    "meta": "0 ⭐"
+  },
+  {
+    "title": "kandada/anthropic-rs — A full-featured Rust client for the Anthropic Messages API. Compatible with Claude, MiniMax, DeepSeek-anthropic, and any Anthropic-compatible provider.",
+    "url": "https://github.com/kandada/anthropic-rs",
+    "source": "GitHub",
+    "time": "2026-08-22T00:29:42+00:00",
+    "meta": "2 ⭐"
+  },
+  {
+    "title": "costiash/claude-code-docs — Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's servers, zero content redistributed. Auto-discovery skill, instant search, interactive HTML courses, and doc changelog reports.",
+    "url": "https://github.com/costiash/claude-code-docs",
+    "source": "GitHub",
+    "time": "2026-08-22T00:16:34+00:00",
+    "meta": "51 ⭐"
+  },
+  {
+    "title": "Hogu59/claude-news — Daily AI-curated briefing for Claude Code & Anthropic ecosystem (KO/EN/JA)",
+    "url": "https://github.com/Hogu59/claude-news",
+    "source": "GitHub",
+    "time": "2026-08-22T00:12:23+00:00",
+    "meta": "1 ⭐"
+  },
+  {
+    "title": "llms-txt-archive/anthropic-claude-code — Versioned mirror of Claude Code docs from llms.txt",
+    "url": "https://github.com/llms-txt-archive/anthropic-claude-code",
+    "source": "GitHub",
+    "time": "2026-08-21T23:59:37+00:00",
+    "meta": "0 ⭐"
+  },
+  {
+    "title": "harangue-8627-boycotts/Claude-AI-Advanced-Suite — Claude AI / Anthropic – A Windows desktop suite for managing prompts, API tokens, and account checks with advanced tools and utilities.",
+    "url": "https://github.com/harangue-8627-boycotts/Claude-AI-Advanced-Suite",
+    "source": "GitHub",
+    "time": "2026-08-21T23:55:06+00:00",
+    "meta": "0 ⭐"
+  },
+  {
+    "title": "Anthropic's Claude Opus 4.6 Fails Content Filter Tests",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbmo4SGlvNlFfREpiR0htbjYtcjdUYTBKeTRyMDUyZGM1Q0tZUzQ2VDhSckNfdUJlbEJJWERlemRBUTMtdXJQZ3IwZDNrUTJ1QWJJT3B0TmpDeUxVUklEaTBXRldLRGg3Znc3LXVVUDBQRTdkZzI5Nnk0NXoya2lnOGM5MzN1VWFFeHJleHhDdmQ?oc=5",
+    "source": "Google News",
+    "time": "2026-08-21T23:41:00+00:00",
+    "meta": "The Tech Buzz"
+  },
+  {
+    "title": "nabeel-oz/selfless-ai — An alternative to the \"Claude's nature\" section of Anthropic's constitution — grounding AI identity in clarity about the self rather than metaphysical hedging.",
+    "url": "https://github.com/nabeel-oz/selfless-ai",
+    "source": "GitHub",
+    "time": "2026-08-21T23:36:11+00:00",
     "meta": "0 ⭐"
   },
   {
     "title": "chainguard-actions/anthropics-claude-code-action",
     "url": "https://github.com/chainguard-actions/anthropics-claude-code-action",
     "source": "GitHub",
-    "time": "2026-08-21T00:32:22+00:00",
+    "time": "2026-08-21T23:32:18+00:00",
     "meta": "0 ⭐"
   },
   {
-    "title": "sleep2agi/agent-network — 助力搭建你的数字 AI 员工军团 — 多 Agent 一行命令组网协作。Claude Code / Claude Agent SDK / Codex / Grok Build 4 runtime + 8+ 家 LLM（Anthropic / OpenAI / xAI / MiniMax / DeepSeek / GLM / Kimi / 书生 / 小米 MiMo），自带 Web Dashboard，Apache 2.0 开源。",
-    "url": "https://github.com/sleep2agi/agent-network",
+    "title": "neodevtn/neopolis-akademy — Plateforme de recrutement et formation pour les professionnels africains menacés par l'IA. Propose une formation e-learning de 7 jours, un accès à la plateforme Anthropic pour préparer la certification Claude Certified Architect (CCA), et un voucher pour passer la certification avant le 31 août 2026. Les candidats sélectionnés ... · Créé avec Manus",
+    "url": "https://github.com/neodevtn/neopolis-akademy",
     "source": "GitHub",
-    "time": "2026-08-21T00:31:41+00:00",
-    "meta": "67 ⭐"
+    "time": "2026-08-21T23:31:48+00:00",
+    "meta": "0 ⭐"
   },
   {
-    "title": "Anaglyphic-hogshead760/Claude-Mythos-AI-Anthropic-App — Access Claude 3.5 Sonnet, Opus, and Mythos models on Windows, macOS, and Linux with this desktop client.",
-    "url": "https://github.com/Anaglyphic-hogshead760/Claude-Mythos-AI-Anthropic-App",
+    "title": "Abhi24384/Anthropic-Mythos-Desktop-Studio — Claude 3.5 Sonnet Desktop Client for Windows Mac Linux 2026",
+    "url": "https://github.com/Abhi24384/Anthropic-Mythos-Desktop-Studio",
     "source": "GitHub",
-    "time": "2026-08-21T00:30:12+00:00",
+    "time": "2026-08-21T23:30:01+00:00",
+    "meta": "116 ⭐"
+  },
+  {
+    "title": "anesuruzvidzo1/argus — Open source LLM observability for Anthropic SDK users. Real-time cost, latency, and error tracking for Claude API calls.",
+    "url": "https://github.com/anesuruzvidzo1/argus",
+    "source": "GitHub",
+    "time": "2026-08-21T23:29:48+00:00",
+    "meta": "0 ⭐"
+  },
+  {
+    "title": "Hyphen-Tech-Org/claude-harness — Claude Code Starter Kit — A hands-on, OSS starter kit (Japanese-first, 2026 Edition) for using Anthropic's agentic CLI on real work. Skills / Subagents / Hooks / MCP / Plugins / 4-window worktree.",
+    "url": "https://github.com/Hyphen-Tech-Org/claude-harness",
+    "source": "GitHub",
+    "time": "2026-08-21T23:16:43+00:00",
+    "meta": "0 ⭐"
+  },
+  {
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15U2VGRS1PaUtNUFFpYURJLU9GaWFYa3VHS2xMNGhHUWcwTUN5RXl2LTE4bldBaVRyT1VwRFR4T0Zqb290U1pQbmkyelctZk5JeGIxVEFsbnliQy12bGMxUW1nNXhpMFd4d0x3cEJza09iMGJXMUx0Y1BYTXA?oc=5",
+    "source": "Google News",
+    "time": "2026-08-21T23:07:25+00:00",
+    "meta": "TechCrunch"
+  },
+  {
+    "title": "Turn Claude Code into a 24/7 Agent",
+    "url": "https://github.com/gtapps/claude-code-hermit/",
+    "source": "Hacker News",
+    "time": "2026-08-21T23:03:11+00:00",
+    "meta": "3 分"
+  },
+  {
+    "title": "parnexcodes/claude-code-profile — ccp launches Claude Code with a per-profile set of environment overrides (endpoint, auth, model aliases), so you can run any model behind an Anthropic-compatible API - or any OpenAI-style model through a locally managed CLIProxyAPI",
+    "url": "https://github.com/parnexcodes/claude-code-profile",
+    "source": "GitHub",
+    "time": "2026-08-21T22:57:56+00:00",
+    "meta": "1 ⭐"
+  },
+  {
+    "title": "kyan0s-git/open-books — Edits and versions of literature made for understanding and brevity. With help from Anthropic's Claude.",
+    "url": "https://github.com/kyan0s-git/open-books",
+    "source": "GitHub",
+    "time": "2026-08-21T22:50:05+00:00",
+    "meta": "0 ⭐"
+  },
+  {
+    "title": "mufibra/structured-extraction-claude-config — 5 structured-extraction patterns with the Anthropic Claude API: forced tool_use, output_config, multi-tool, validation-retry, batch.",
+    "url": "https://github.com/mufibra/structured-extraction-claude-config",
+    "source": "GitHub",
+    "time": "2026-08-21T22:41:30+00:00",
+    "meta": "0 ⭐"
+  },
+  {
+    "title": "uygnoey/skills-from-claude-blog — Auto-generated SKILL.md files from official Anthropic/Claude blog posts (KR + EN). Updated hourly.",
+    "url": "https://github.com/uygnoey/skills-from-claude-blog",
+    "source": "GitHub",
+    "time": "2026-08-21T22:28:33+00:00",
     "meta": "3 ⭐"
   },
   {
-    "title": "Genussarcostemmacryptorchism148/Claude-Code-AI-Design — Archive design assets, prompt packs, and community resources for the Anthropic Claude design workspace.",
-    "url": "https://github.com/Genussarcostemmacryptorchism148/Claude-Code-AI-Design",
+    "title": "syunsuke100/claude-news-digest — Anthropic のAI「Claude」に関するニュースを毎朝自動収集し、AIによる日本語要約と図解付きのダイジェストを GitHub Pages で公開するツール",
+    "url": "https://github.com/syunsuke100/claude-news-digest",
     "source": "GitHub",
-    "time": "2026-08-21T00:29:02+00:00",
-    "meta": "1 ⭐"
-  },
-  {
-    "title": "Nobeliummolestation149/claude-code-doc — Document Claude Code source leak analysis, code breakdowns, and docs for Anthropic’s npm sourcemap exposure",
-    "url": "https://github.com/Nobeliummolestation149/claude-code-doc",
-    "source": "GitHub",
-    "time": "2026-08-21T00:26:29+00:00",
+    "time": "2026-08-21T22:22:36+00:00",
     "meta": "0 ⭐"
   },
   {
-    "title": "newsumeetenterprises43-dot/invalid-token-opencode — Fix invalid token errors in OpenCode with Anthropic OAuth support for Claude Pro and Max access",
-    "url": "https://github.com/newsumeetenterprises43-dot/invalid-token-opencode",
+    "title": "stefanbosak/claude-cli — Anthropic Claude Code CLI and tooling",
+    "url": "https://github.com/stefanbosak/claude-cli",
     "source": "GitHub",
-    "time": "2026-08-21T00:24:26+00:00",
+    "time": "2026-08-21T22:08:27+00:00",
     "meta": "0 ⭐"
   },
   {
-    "title": "barsinisterharmoniousness724/c2a-py — Build a minimal Python FastAPI bridge from Anthropic Claude Code to Cursor chat API with token, model, and health endpoints",
-    "url": "https://github.com/barsinisterharmoniousness724/c2a-py",
-    "source": "GitHub",
-    "time": "2026-08-21T00:23:50+00:00",
-    "meta": "0 ⭐"
+    "title": "We replaced our Grafana stack with a single Claude Code skill",
+    "url": "https://frigade.com/blog/we-replaced-grafana-with-a-claude-code-skill",
+    "source": "Hacker News",
+    "time": "2026-08-21T20:23:43+00:00",
+    "meta": "3 分"
   },
   {
-    "title": "hih24337/tabb2 — Convert Tabbit browser’s internal API into OpenAI and Anthropic Claude-compatible interfaces for seamless multi-account AI service integration.",
-    "url": "https://github.com/hih24337/tabb2",
-    "source": "GitHub",
-    "time": "2026-08-21T00:22:29+00:00",
-    "meta": "47 ⭐"
+    "title": "Quick impressions: A week of using Codex more than Claude",
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "source": "Hacker News",
+    "time": "2026-08-21T19:51:48+00:00",
+    "meta": "78 分"
   },
   {
-    "title": "Cathyoffthehook238/Guild-to-Building-Skills-for-Claude — Provide a complete Traditional Chinese guide to building and testing Skills for Claude, based on Anthropic's official documentation.",
-    "url": "https://github.com/Cathyoffthehook238/Guild-to-Building-Skills-for-Claude",
-    "source": "GitHub",
-    "time": "2026-08-21T00:21:35+00:00",
-    "meta": "0 ⭐"
+    "title": "Claude has a \"Concise\" output style",
+    "url": "https://code.claude.com/docs/en/output-styles",
+    "source": "Hacker News",
+    "time": "2026-08-21T19:15:26+00:00",
+    "meta": "3 分"
   },
   {
-    "title": "lmoudamir/thalamus — Bridge Cursor subscriptions to run Claude Code seamlessly using Anthropic and OpenAI APIs without needing a separate Anthropic key.",
-    "url": "https://github.com/lmoudamir/thalamus",
-    "source": "GitHub",
-    "time": "2026-08-21T00:21:25+00:00",
-    "meta": "1 ⭐"
+    "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+    "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+    "source": "Hacker News",
+    "time": "2026-08-21T18:48:28+00:00",
+    "meta": "44 分"
+  },
+  {
+    "title": "Anthropic Deploys Claude Mythos 5 in Security Tools, $35M Open-Source Fund",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMC11eE9YTEhoQmdLQmlvUlp0YkhaaUllc0FMNEJTVUUwcmRKTGl3RzdZOGVTa01aWVhMZmR0QU54R1hZRzRKMlpIbTJNMEZ0U25oN3gzU3NOa2FIZ2hfeVl1emJYR0Z3MDR3ekczRFB5V0V3UEE3djlhYjMxTFBfMU5DQ1VpRlBXNG9NclJPR2psTHNvajA3TEl3?oc=5",
+    "source": "Google News",
+    "time": "2026-08-21T17:48:01+00:00",
+    "meta": "Unite.AI"
+  },
+  {
+    "title": "Vesta Gives Claude Code Superpowers",
+    "url": "https://github.com/kanjani-ai-research/Vesta",
+    "source": "Hacker News",
+    "time": "2026-08-21T17:39:59+00:00",
+    "meta": "3 分"
+  },
+  {
+    "title": "Anthropic plans to change enterprise data retention policy",
+    "url": "https://www.reuters.com/business/anthropic-plans-change-enterprise-data-retention-policy-source-says-2026-08-20/",
+    "source": "Hacker News",
+    "time": "2026-08-21T16:19:27+00:00",
+    "meta": "4 分"
+  },
+  {
+    "title": "Anthropic Claude Adds Watermarks. Implications For Business?",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2doWjhud1BqOVlXOFp3ZVRqTTM2dW1yZ1VvU2pNeDNrLXlCOU9PM1gxR1lzVlZwS1B2aXJKNmkyUnhhbkd6Y0Z6aUY1aVZ1cDdnSlNkWkF3bFF0aVRYRzNhcy1mZm1CT1pWeTBKSHY1ZWZxcjZOX01Nem0zY29RT3l4b3hZUHZiUEk3bHlYRzJBR0YzcmFtOERuTVRLU0RaY2I1bXBaRkFXcjlhOHNnMGpZaw?oc=5",
+    "source": "Google News",
+    "time": "2026-08-21T15:51:54+00:00",
+    "meta": "Forbes"
+  },
+  {
+    "title": "Anthropic's approach to teaching and learning AI",
+    "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+    "source": "Hacker News",
+    "time": "2026-08-21T15:48:04+00:00",
+    "meta": "2 分"
+  },
+  {
+    "title": "Why Anthropic's AI watermark for Claude text goes further than rivals — for now",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeEJ6TTlIZ0pHOUhVV0pKcHJpR2pTYTY0c0swNmlzR2k0LThTaVQzSWROVHJKX1NveEJpOWtEYXZlSkRvLVVDcFROZDA2SURkQXFlaGMtVDY1dllLQUZJb1RzUHZqdUkxVXVGc2gyUDF1NHA4VzBRbmVvd3p2YTNzY0gwSm5aalZXZW10NWpvOVBoMXdYRmc?oc=5",
+    "source": "Google News",
+    "time": "2026-08-21T14:54:00+00:00",
+    "meta": "Business Insider"
+  },
+  {
+    "title": "Anthropic Launched the Free Educational Platform Claude Academy",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTjg3SFlhUzcxTlhCaHRqUmIxbjA3UjJickdEVVlOTXBEX245aUxhaXpQN2RBb2dIQlNtd3p6Q25WQ3BWbHdEX0FQWUNDeEt1aklDd2twSUFhRXJpUzZiRTB5M29XeHJXOFh6QjFXN1JPTXRnUXNfVXl4Z3NHUEhZY042Z09mN3dCcW94U2VkaTNXRDQ?oc=5",
+    "source": "Google News",
+    "time": "2026-08-21T14:37:28+00:00",
+    "meta": "incrypted"
+  },
+  {
+    "title": "Anthropic Introduces Invisible Watermarks to Identify Claude-Generated Content",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00WC1fTEgwbXltNkJOM1duTkVJbkEwRE5yc05FY2ZwXzlxU3VabzRoU2Vzd0FFZU4tYUI3elBrZmo0d3dqTzY4emRtNkN3NTNyN3YwU0YtcDVSOEREUkwwag?oc=5",
+    "source": "Google News",
+    "time": "2026-08-21T14:37:08+00:00",
+    "meta": "ERP Today"
+  },
+  {
+    "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+    "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+    "source": "Hacker News",
+    "time": "2026-08-21T14:31:52+00:00",
+    "meta": "202 分"
+  },
+  {
+    "title": "Medialister Joins Anthropic’s Claude Connectors Directory for Media Planning",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbGZJZnR4UFhORS15TWNPMzlxdnpDekNpNjhtNDAzZ3hyVDdydEFhZXlsclRuNUx0dHNaYkl1WkxMV1Q1SkluRDFXN2hoeDBzRkZpZ0Nzd0dYYkhMSThPOEVlWk0tT1J1cm1DckMzOHNIeGJHQk13R0VxaEtsQ2hmY0VwcUxfYlpZeW1lZHY2ZkRrZ0I1TkpXVWRqNFpnb3BsSDFWWFNPTXd2VnZMa0dlUldqdXc?oc=5",
+    "source": "Google News",
+    "time": "2026-08-21T12:51:18+00:00",
+    "meta": "citybiz"
+  },
+  {
+    "title": "System reminders – how Claude Code steers itself",
+    "url": "https://michaellivs.com/blog/system-reminders-steering-agents/",
+    "source": "Hacker News",
+    "time": "2026-08-21T12:12:52+00:00",
+    "meta": "1 分"
+  },
+  {
+    "title": "Hundreds of private conversations with Anthropic's Claude AI turned out to be publicly readable online",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeFBPWWRJVUhQWWszejhERkNsam50WGJVRThHYlJoc2R1NHhyVm1xNC0yS2F0TFloajhNREFZZFNlVkhlejRockJlbGpENUpfSzhYc2p4clp5T01ld0ZLdnBYb3pXUDBTeXF6WTJRdkxkY1FLR3FvYkhJVlFqY2V4ZDlqcHdZYXdFRl9Obm5ZRzJZX0VxQll3M0FmNWJFN2JzN29zTE05V1NxY19sMGpibUs3bVQ2YUtLQmtZME9MbXNaZzJfYjZfRW9WVGcxMWdQdGxv?oc=5",
+    "source": "Google News",
+    "time": "2026-08-21T11:00:00+00:00",
+    "meta": "OkDiario"
+  },
+  {
+    "title": "The woman behind Anthropic’s CEO",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40bnVXY0p6b2VxMkRyOXdtV1VqN09GcmxKcWJ1MnM4VHJxT0IwRS05U3d3OW5xbzFvdnNsYnFOTmlsQ1djcTVuY040TUVxd3lScVNTbzQwTnpveGVSZ3ZjUm42OWVOY2VN?oc=5",
+    "source": "Google News",
+    "time": "2026-08-21T10:11:00+00:00",
+    "meta": "calcalistech.com"
+  },
+  {
+    "title": "Anthropic Plans to Change Data Retention Policy for Advanced AI",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai",
+    "source": "Hacker News",
+    "time": "2026-08-21T09:03:10+00:00",
+    "meta": "3 分"
+  },
+  {
+    "title": "Claude Opus 4.6 returned nothing 900/900 times. Should agents retry?",
+    "url": "https://zenodo.org/records/21696066",
+    "source": "Hacker News",
+    "time": "2026-08-21T07:33:12+00:00",
+    "meta": "5 分"
+  },
+  {
+    "title": "Ask HN: Claude Code in Video Editor",
+    "url": "https://news.ycombinator.com/item?id=49384106",
+    "source": "Hacker News",
+    "time": "2026-08-21T05:19:37+00:00",
+    "meta": "2 分"
+  },
+  {
+    "title": "A Claude Code plugin that shows an English rewrite of each assistant message",
+    "url": "https://github.com/gvzdv/claudish-to-english",
+    "source": "Hacker News",
+    "time": "2026-08-21T04:03:21+00:00",
+    "meta": "1 分"
+  },
+  {
+    "title": "Anthropic launches free official tutorial site \"Claude Academy\" covering five products",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zUm9Nb2Y5MGp0ajR3R2x0RGV4RnRGRGFESGlsaHNkVVRZXzVZRnFxN3VwSXI4aWZvSnA5UWJrem5RZXVibFJHblhnOVdkSUU0eDFiWFEtMi1nMVJuR3dKR0R2VjZKQi1ORWhuRjVtNFpDb2h3OEE?oc=5",
+    "source": "Google News",
+    "time": "2026-08-21T03:56:00+00:00",
+    "meta": "finance.biggo.com"
+  },
+  {
+    "title": "Anthropic Watermarks Claude to Meet New EU AI Act Rules",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNHROU1VCeURmZHVLLXJnRTlCd0wxMFJVVm1MTDRYSWZTYkpSRDNKOF8tcHpsUGo3MVk0dUN2cTFoNGZEZ1hPRElkWE1YOExzWDhQZV9fRGxoYW9IMDV0N0oycEU0RDdldWlmem9uankwdldWeVNvVE1MYWw2UkNBWGZ1ZzdOYVl1eUhXLThzSQ?oc=5",
+    "source": "Google News",
+    "time": "2026-08-21T03:42:21+00:00",
+    "meta": "Business Chief"
+  },
+  {
+    "title": "Claude Academy",
+    "url": "https://academy.claude.com/",
+    "source": "Hacker News",
+    "time": "2026-08-21T02:39:11+00:00",
+    "meta": "3 分"
+  },
+  {
+    "title": "Claude driving an autonomous RC car [video]",
+    "url": "https://www.youtube.com/watch?v=jBpQiv-ZlVM",
+    "source": "Hacker News",
+    "time": "2026-08-21T01:48:49+00:00",
+    "meta": "1 分"
   },
   {
     "title": "Creative Thinking by Claude Shannon",
     "url": "https://www1.ece.neu.edu/~naderi/Claude%20Shannon.html",
     "source": "Hacker News",
     "time": "2026-08-20T23:35:03+00:00",
-    "meta": "2 分"
+    "meta": "3 分"
   },
   {
     "title": "Show HN: luoluoAI – OpenAI-compatible and Claude Messages API gateway",
@@ -222,201 +418,5 @@
     "source": "Hacker News",
     "time": "2026-08-20T23:27:44+00:00",
     "meta": "2 分"
-  },
-  {
-    "title": "Is AI spend on OpenAI or Anthropic starting to eat into your runway?",
-    "url": "https://rails-agent.com/",
-    "source": "Hacker News",
-    "time": "2026-08-20T22:23:16+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "OpenWhip: whip Claude Code (CLI) into working faster",
-    "url": "https://xcancel.com/antibot/captcha",
-    "source": "Hacker News",
-    "time": "2026-08-20T22:02:53+00:00",
-    "meta": "1 分"
-  },
-  {
-    "title": "Show HN: Verified business dashboards inside ChatGPT and Claude via MCP Apps",
-    "url": "https://www.corpusiq.io/docs/hermes/mcp/mcp-apps-interactive-ui",
-    "source": "Hacker News",
-    "time": "2026-08-20T20:45:36+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "Anthropic Expects to Match SpaceX's Record IPO Size or Top It",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it",
-    "source": "Hacker News",
-    "time": "2026-08-20T18:39:42+00:00",
-    "meta": "7 分"
-  },
-  {
-    "title": "Claude \"warning\" users about language and defending business influencers",
-    "url": "https://twitter.com/MatznerJon/status/2090157152690196754",
-    "source": "Hacker News",
-    "time": "2026-08-20T18:16:50+00:00",
-    "meta": "13 分"
-  },
-  {
-    "title": "Anthropic Races Toward an IPO While Open Source Models Close In on Claude",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcjNPNVpnRHplczBWeVdZQkxiWXJpNmtBT3pTZEZ2SkZfVnFsNDZRQUJpeHhaQnVLX0cxQ28wRzIwRkxmak8xYXdidjFUR3MtV0VCWWY3YzJCZzlWaDBSa0g3UFE4TXBCeEVwZlZEYzZnREQ3MVJjY0pfNV9UbjFFMTAweEVuMTVYNTVvdUJ1UEozYWJZUFV0bE5ZcXEwM2tjOGRN?oc=5",
-    "source": "Google News",
-    "time": "2026-08-20T16:47:51+00:00",
-    "meta": "Startup Fortune"
-  },
-  {
-    "title": "Show HN: Pacer – Realtime Claude Code Usage Tracking / Pacing",
-    "url": "https://github.com/EricAndrechek/Pacer",
-    "source": "Hacker News",
-    "time": "2026-08-20T16:23:20+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "No, Anthropic Won't Be the Only Company Left",
-    "url": "https://forwardfuture.com/newsletter/originals/no-anthropic-won-t-be-the-only-company-left",
-    "source": "Hacker News",
-    "time": "2026-08-20T16:14:29+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "I am morally opposed to updating my Claude.md",
-    "url": "https://alex-jacobs.com/posts/claudemd/",
-    "source": "Hacker News",
-    "time": "2026-08-20T15:47:48+00:00",
-    "meta": "28 分"
-  },
-  {
-    "title": "Show HN: Epho – run Claude Code with a curl",
-    "url": "https://epho.io",
-    "source": "Hacker News",
-    "time": "2026-08-20T15:45:51+00:00",
-    "meta": "5 分"
-  },
-  {
-    "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-    "url": "https://github.com/zachahn/vomit",
-    "source": "Hacker News",
-    "time": "2026-08-20T15:26:02+00:00",
-    "meta": "193 分"
-  },
-  {
-    "title": "How to fix Claude 5's token vomit",
-    "url": "https://zachahn.com/posts/1787191554",
-    "source": "Hacker News",
-    "time": "2026-08-20T15:11:18+00:00",
-    "meta": "3 分"
-  },
-  {
-    "title": "Show HN: ISLP textbook rebuilt from PDF into ePub, using Claude Code",
-    "url": "https://github.com/govarthenan/islp-epub",
-    "source": "Hacker News",
-    "time": "2026-08-20T15:03:18+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "Is Claude Code a bad harness?",
-    "url": "https://generray.substack.com/p/is-claude-code-a-bad-harness",
-    "source": "Hacker News",
-    "time": "2026-08-20T14:36:28+00:00",
-    "meta": "4 分"
-  },
-  {
-    "title": "SEO Skills AI – Universal Open-Source SEO Agent for Claude, Cursor, Windsurf",
-    "url": "https://github.com/seoskillsai/seo-skills-ai",
-    "source": "Hacker News",
-    "time": "2026-08-20T14:11:51+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "Hacking with Claude on a $27 smart watch",
-    "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-    "source": "Hacker News",
-    "time": "2026-08-20T14:08:09+00:00",
-    "meta": "85 分"
-  },
-  {
-    "title": "Cyberhill Announces a Major AI Breakthrough, Delivering Full Business Context to Anthropic's Claude Enterprise",
-    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMXNhcGxqbFItVVUxZmpHQVctWUlxaVVRM1pfWnFTVHVjYnBGd0JlNHpiU2xCY1BSRmkyQVdRVHJ1WkdCZ2o2QXVjeFVfNlRNZlJRcWVNeXdXUkV2eHRTWGhUdXMyY21kSERWRk9TZHRJV1NjRVdCdUY3VUVLWEZDMjBScmoyMXQ0M0xkak9YY2ltaWJaRW5lVlFPdURCOTNaRVBmN1hnS0dISDRURzVtMHNGeEFPaHA2aklLX0hSRm9FMk9KMl9ITmNfX2xCdDRwb2Vza2luNVQ3SjVHRFVjSFEwTTVhZHVPVE9TcC1ESEtQSFJwM1BSM3NsdXBXZw?oc=5",
-    "source": "Google News",
-    "time": "2026-08-20T13:56:05+00:00",
-    "meta": "Morningstar"
-  },
-  {
-    "title": "Mermaid as the Orchestration Layer for Claude Dynamic Workflows",
-    "url": "https://olegivye.com/#/article/llassembly-cli-mermaid",
-    "source": "Hacker News",
-    "time": "2026-08-20T13:48:04+00:00",
-    "meta": "3 分"
-  },
-  {
-    "title": "Anthropic’s Enterprise AI Venture Buys Consultancy",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMWtOUFRTLWtoemREQ09uOVpoQUJPQ2lyUjU2SVpEMEFNNXNoaGs4UWZfeGFING1pcG41VFlEUEx6NWxCNU5pTnFYd0RkNlhYWGJpdUp4d1dxNV9abWZBb3JtZkFwNVhuSE94Z2l3T1hzcFM4YjNGWXpmRHBWLXJQRVV1Y0VRMnlRRHdGV0lDRW1Ndzg?oc=5",
-    "source": "Google News",
-    "time": "2026-08-20T13:00:00+00:00",
-    "meta": "The Information"
-  },
-  {
-    "title": "Show HN: Languageme – Learning new languages with Claude Code by dripping",
-    "url": "https://github.com/magiclex/languageme",
-    "source": "Hacker News",
-    "time": "2026-08-20T12:42:34+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "Anthropic says Claude designed protein binders for 14 of 15 test targets, with independent labs validatin",
-    "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNamM1RV9mZ0FRTlA2S0piMnMyTG5NMGZpSG5xdG1mU3cxZEN3SjVua0QxRUJGZHlGOVl0ai1zTFlYbndLVU1JZ3k5d3hkcTJFNkUzWHl5ZUR2Y05IVmJ4MUFpbHNGNV8zcUtHTHQzZjh0Yk1aNFVMU3U4WW5MdW9VQThDcHRkSGwyV2J6WDUwNkdEQTZHcGtaV3M5X3hhNXpNalJyMFdQT1VGT3JQREtHMkVBSHhCdnl6TWtZZGJxdW05NElWYXNWbHFtVjZucmhLdnVJYy1uOE5teGIwdm1neW1hUy1rWHhQekZuOS1ZQ3pvQVJvRlFVTVB1R05KSU04aENpOEh0SW95S0VfSXRIMHBVc3JuT2syZ0RRWTlVc2FZNmZ0dzhvVEh2T2JsNzE4NzBMNVZickFVU0FCQ0NaVF9tdGJTMENNOUc5RE11dXBDVWVkZWFWVk5pTTA5eFlnWWtkTGhyMnJsX0FOVEpPTEJzaTdBOEJLUXNLVzQwZmpZVzJBODJtdtIBjgNBVV95cUxNTHp5NGxXTmNaU1VVZUYyaHJYQzVFZkU1VTVPcmhRZXlWMHNJSDU1VU51c2lJODZtWmZZdERSNEVBeEtZX190bVUySXpCV1ZHMDRsZ2t5cUJQa044ajFySk5uLTFNQUpjdVlNYkVTa0JUbnNtdXJ4RWJ0dU0tVk85YWJaYk5uRkg3d1VnU1JTa05Fb2JDUU5CeTFkM2xkWGt2d1RUdmRaTVQ1SVRGeGVDNHZselUzdWYzUTQ1WEphTkc5UXo4dU14c1pwSDRvY2ZBT2c5RHo2dE52T3N5Tll5WnkzTUxzM2VwTzRrZTBVYS1xSFh2QUcwRUdJZ0NsVE5CQ09zTGZnZzVEcmJnUTVIdGRaYVkwcmktZDlKZXhfYXJNd09nU2duQ3RVZGR4eHVRUXhpekhSOGhaVVFjQXgwV3hmTzYtU2N3NklxMF9PZi1KWlBTcEtnTkV2ajc1WEhwQ3AxV1padVdubjhrT0Fpa2JQSGpmZ1RmUEE3OUJEbDlicEtOYTB1TnNzakVPQQ?oc=5",
-    "source": "Google News",
-    "time": "2026-08-20T12:15:00+00:00",
-    "meta": "The Times of India"
-  },
-  {
-    "title": "NewEdge Expands Anthropic Claude Across 550+ Advisors As AI Tools Move Into Client Workflows",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTnYwUFRVdWVLLWI4bUJRVnVRYjYwQU9udmp1WkFtZUwyWlNCeDNBU2hFRThJR3UySUJmVnh0bUNXWXNKSmdVZjNraVQwazdnRGFQQmRQeGxmbkVoU3BtS0ZwenMyMmVJVDBSSkhwdnFYcGxzVnkwRXBJVDRCS1NJT2EtbVR4NzBHbExGbUgwR003R0t6dmVRX2VhWjFVTUFXLUVGUjFBN2JWdExIM1NfU9IBtgFBVV95cUxNeWhNVnh6Z2dnVVExT1NZQUdNMTVvNGRVMFZoNE1Ya2ZIWFNvWWJBVXl2RENVR2tSY200VktSb0RnTHktYlZuS1hGVmgxdERGWmZhNks3aC12QXVlUV9OcU5kVWxJU3RIb01PWTI5bGlnRGJBbDhXdlIwcmx2RXZtUi1NcGx5dGh4NUlKY0pOYkdMYWZjNUpZOGJCdUtYU29OT25wNjVTZWlUTVBILUJ3RFo3WG9Mdw?oc=5",
-    "source": "Google News",
-    "time": "2026-08-20T12:03:15+00:00",
-    "meta": "Pulse 2.0"
-  },
-  {
-    "title": "ReliaQuest Advances Agentic Cyber Defense for Enterprises with Anthropic’s Claude",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeVg3eFByTXpYbkJJQmJ0TFpJbnR3TDkyN0F3WEw5X1Z0VGNnTzhSUEQ0OGhMOHhlc1lobjVTWl9oVlZCY0xSSk5LOHNBUHdEVFBoU2U2eWNBb2tBcWFweUNMdnZCd0RiY0k4UnVfaXBoMVgxU1YzY0xBYmxQck44VnlGQ1J0clZHdlM1TEt1Mjc1QnM1SFFmeDVnZGFWV1ZxRGFUMG1Rb2JDUlRiS0hXak5jeXFmS2Y2b2U0eQ?oc=5",
-    "source": "Google News",
-    "time": "2026-08-20T11:50:05+00:00",
-    "meta": "Cybersecurity Insiders"
-  },
-  {
-    "title": "OKX Blocks Claude Access for Hong Kong Staff Following Anthropic Account Suspension",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52Y0tFU1A4azdvTGUzOUVpaDNfX01WY3dBUDNjN1JJbzNZWjZlUmItVnRud3pPSEZqZWxadXFsdkhwWm9FVDdxYVV0aEVSYWJLVDFnUG5laTZtMmJTSUQzeGI0SWI2djZ1VW1VTTNvNXFBZFJxMlE?oc=5",
-    "source": "Google News",
-    "time": "2026-08-20T11:35:00+00:00",
-    "meta": "finance.biggo.com"
-  },
-  {
-    "title": "Nearly one in ten published Claude Code skills does not load",
-    "url": "https://toolproof.kynth.studio/census",
-    "source": "Hacker News",
-    "time": "2026-08-20T11:24:20+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "NewEdge advisors reshape client work with AI in weeks after Anthropic rollout",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVUNHOGRVVFBPeEhoZURjOUlPTUtVcVF2SlRWOEhBVTZwNGZYVTZjY2JkLTVfX084Zkd2NzFiRVM1QXhQMkZYSDVUWGlOT3J1QXhwaTVPRWdtdGF1cHZfSnBHYmRBMDB1TTV0QmR0OWhFWVFBcTV3ZUw3MFpEWm9LSzFfb0hYX3hKV29LNlZoMDlneVZFWWFOcVk2dG5GZjJlUUtJejVIZXI2UE9iSmtaSmtZZ2VOSGpLay1ZU2Q1NVhDeFBVdFlSYUNn?oc=5",
-    "source": "Google News",
-    "time": "2026-08-20T11:07:47+00:00",
-    "meta": "InvestmentNews"
-  },
-  {
-    "title": "India Country Brief: The Anthropic Economic Index",
-    "url": "https://www.anthropic.com/research/india-brief-economic-index",
-    "source": "Hacker News",
-    "time": "2026-08-20T10:04:12+00:00",
-    "meta": "1 分"
-  },
-  {
-    "title": "Reduce Claudish: Paul-Graham-writing-style-in-Claude.md",
-    "url": "https://gist.github.com/frodo-max-12/090ec580048f0920c20ce9a4da67ddee",
-    "source": "Hacker News",
-    "time": "2026-08-20T09:48:42+00:00",
-    "meta": "3 分"
   }
 ]
