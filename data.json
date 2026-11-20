@@ -3,420 +3,420 @@
     "title": "hesreallyhim/awesome-claude-code — A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
     "url": "https://github.com/hesreallyhim/awesome-claude-code",
     "source": "GitHub",
-    "time": "2026-11-19T06:52:31+00:00",
-    "meta": "58329 ⭐"
+    "time": "2026-11-20T06:40:05+00:00",
+    "meta": "58399 ⭐"
   },
   {
-    "title": "Anthropic raises $81B in record IPO",
-    "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e",
-    "source": "Hacker News",
-    "time": "2026-11-19T06:38:05+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "Anthropic IPO: Can Indians purchase stock of the Claude maker?",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQejZRYTdVbGEtbTQ3MVNhdjl6MUN3ajRZcE9SaVBVUEgzNFFPNjBlSzFZTVhXZkptVnRKRjE4ajlPRFJLelhFN2dhdG1iU1pVQXpjbUN1RW92T01vYlFJUEFGQ2VBTXFabjBZOU9JUWJjY2NJT1FNT1RBMjlhOGc1dnkwUS1FODhFSXI0bzBqSVcyYXNMRHVrZk5oQdIBoAFBVV95cUxOVmVnNy11QXluY1VhRmdTRXdOS3B5dWJSVDVGOTBIZVpSZ21tMDVmaDJ6WU0ybGEzMUZGUzBnOE5mQlhXeVFLWFlwSzFwbVM2cDNtTVBRRVQtMHE2QXN5akV4VVdhc1JfSXdLSEZVdE4wM3F0VmZ6UE1rdFFTZ0RNcHFjZ1d3RUVVR3VkeUxxcERFcGxLbmlCdE1zYmwyb01D?oc=5",
-    "source": "Google News",
-    "time": "2026-11-19T06:14:02+00:00",
-    "meta": "Firstpost"
-  },
-  {
-    "title": "frontierengineer/application-claude-code — Frontier Initial Application: Runs Claude Code as an agent on your workers, through its Agent Client Protocol adapter. Claude Code needs a Claude subscription or an Anthropic API key, signed in on each worker.",
-    "url": "https://github.com/frontierengineer/application-claude-code",
+    "title": "anthropics/claude-plugins-official — Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "url": "https://github.com/anthropics/claude-plugins-official",
     "source": "GitHub",
-    "time": "2026-11-19T06:08:40+00:00",
+    "time": "2026-11-20T06:39:08+00:00",
+    "meta": "47747 ⭐"
+  },
+  {
+    "title": "BA-CalderonMorales/agent-harness — A clean-room Go implementation of agentic coding harness patterns, derived from analyzing production AI agent architectures. Built for learning, extending, and teaching how to build coding agents like Claude Code, OpenCode, and Gemini CLI. Supports OpenRouter and Anthropic out of the box.",
+    "url": "https://github.com/BA-CalderonMorales/agent-harness",
+    "source": "GitHub",
+    "time": "2026-11-20T06:35:33+00:00",
+    "meta": "23 ⭐"
+  },
+  {
+    "title": "sadjow/claude-code-nix — Always up-to-date Nix package for Claude Code with hourly updates from Anthropic's native releases",
+    "url": "https://github.com/sadjow/claude-code-nix",
+    "source": "GitHub",
+    "time": "2026-11-20T06:09:09+00:00",
+    "meta": "524 ⭐"
+  },
+  {
+    "title": "iflykingc-oss/claude-code-setup — Claude Code 国内接入模板：ANTHROPIC_BASE_URL 配置、settings.json、报错排查",
+    "url": "https://github.com/iflykingc-oss/claude-code-setup",
+    "source": "GitHub",
+    "time": "2026-11-20T05:57:08+00:00",
     "meta": "0 ⭐"
   },
   {
-    "title": "Anthropic raises record $81.3 billion in largest IPO in Wall Street history, valued at $1.5 trillion",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLcFhkMEgybEpOTzRRaExIWlVKWTR5QVllaVJyRkk5Q3JqWlBuak51dDRjclZ2OVBId3lnVVRhZkdFRzNMQlZiTE1idmxwVGd1OVNEUnJKSG1YejV4U0p2SjFwQ21Qa0h6Sk9ReUJR?oc=5",
-    "source": "Google News",
-    "time": "2026-11-19T06:06:18+00:00",
-    "meta": "Ynetnews"
-  },
-  {
-    "title": "Anthropic’s stock market debut marks many firsts. Will it boost a struggling AI sector?",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUJOdlNZVjE3VzBlNDNmMU1iZ1I4QjVuV2h6MmhjUXRldUtnOUhmakxBVXRiQmRnaU9obERmM1RDTGZGYW5IVjNqaHJIM1pTSzJhdVJ1b0twMHhUM1NSNl9EQk5raHdma1l3VXVpclY2eElGTkhMU2twdTRHT0M5V1hUcUZHa1RreVM5OXN2YXdvZHUzX3FHcy1uTjlkdS1heXdfeHlURkt0RDlwSVVhbVNEWWVqdHJiX3ZNMNIBwwFBVV95cUxOLTVtMUhZdkZZOERSZ2wtN2tNWWh3NGJWY0hNdWQ5RUNXS0dsVDNWNkVJaGFpUnh4X0wwNHhaZjJWZEhuWUVOTkdBZDV6QmJOU21CN2FhUThFNlpvTk84ZHF5c05pc1pZY2huNGhKMHdKTWlqZkxDTUM1QnNJMVNwMmo0NVhoZFdZZXVyV0p0ZjJJUWdIMGY3Y0djeEVmekRlWFFRWHZKei1Jc3NsQlZiaTY0QTZwU3cyYWZ3UUxrbnF1b0U?oc=5",
-    "source": "Google News",
-    "time": "2026-11-19T06:05:51+00:00",
-    "meta": "The Indian Express"
-  },
-  {
-    "title": "hwanyong/claude-api-switch — macOS menu bar app that repoints Claude Code between the Anthropic API, LM Studio, a Strata engine, or one Anthropic-compatible endpoint you declare, and sizes the context window to what your engine can keep in RAM.",
-    "url": "https://github.com/hwanyong/claude-api-switch",
+    "title": "josesaid/chain-workflow — Prompt chaining workflow pattern with Spring AI 2.1 and Anthropic Claude: four sequential LLM calls turn a text report into a sorted markdown table.",
+    "url": "https://github.com/josesaid/chain-workflow",
     "source": "GitHub",
-    "time": "2026-11-19T05:45:50+00:00",
+    "time": "2026-11-20T05:56:43+00:00",
     "meta": "0 ⭐"
   },
   {
-    "title": "Scholars Condemn Anthropic's Safety Pledge Contradiction Ahead of IPO",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV1RNbFhHOFg1bU9hVi1xbGhkelp4RldBdldZTDc4TEk0Nm5KU3ZlQmNId1F4VWpzLWNDU1ZWUUwydDJfUGJQQXYzNTFkamRZRGdxR2tFTVRuTGxyQ1JBM0VXMms0enhHMUhmQjA5dmRDQjNVNzBWd0JyMXM2TTJ6STd0V1RGbWtX?oc=5",
+    "title": "No invite for China at Anthropic IPO: After SpaceX, Claude parent too shuts Chinese investors out",
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPcXEtVm83eEo0VVpHUEV5U0t5dmlPMUExUmttYWtMODdqdEZYUUprQnlBMWJuNzFXelI1aGE4eUkwQXNQaGR1RVlzVHFZblRMWXM2UGpJQnpOcFNPRi1PbGZwZkhhVlhoN2h3dF9KbmZpeUQwYTd1Mzh2VzJPMVpEMjFHVVJVdG85Q2FSdzVtWjVQZV94ZkIzM05PNmNremVPNmJxZXNDX09ZRlhUWjd1S2sxRGNnSE85OXZqU3VwNVBNc0Q5M0RCT2ZUUTEwWFQ3X3g4dzVUajdrSVdwR3JsOGt5YlR5N0UtRTZjUm51VGRfYkVORzA5d3dXTlRPSzAxRXJQbFR6Mk9ZaDFpNnhPVjhmcWdnOElt0gGeAkFVX3lxTE90d2tveTl2VThWbG1ZdFZnN3Rnd1JGZU1ueTR2TVJmbVJaRnQxRmR5VWJaLXg2ZEtpUlU3eHVGdTN2QVZuSXROaE40Zk9nOTdIOHRqN3NBN3RRUjFHdDNzMVBZNGtCckNBQ1FQOFF1b2E5VDJGV3pGOWhteUkyRGlRTHZpd01yQUR0QUQ2ZnpINzhVM2ZiUGFab2N3UFlxZ1FTM1pZVklqU0FlelZOVVMtcU1FY0ZtUWt4Q3pTeTBZd0E0dUgzMkt0b1BVRTAzSDlPRlQzNUoxaVNIdVFwWmN2RThkRjlxamw4QVJMM1hVMnhScFpCT2RlU2pmMHRiXzJXWXAzNXhvZFQ4ZGNqNFQtc3NuMlhsRkpYTUhleHc?oc=5",
     "source": "Google News",
-    "time": "2026-11-19T05:28:28+00:00",
-    "meta": "조선일보"
-  },
-  {
-    "title": "Claude for Teachers: Anthropic extends free AI access as new student data protections take effect",
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQazhiWkhCcEhpckNOM3VwdmJ3cWItbDVaZzk0QmlxUnNYR3FDb0xWa090ZEZjSGhZRnB2VVNkajFzRzVzZGJ6cFFjZXV2ZlJZZ0t1OEduSmlWbTk5S0tnLVp6bGRJalI5SWU1THRoUHNZOWUxWGdNaXhiRGlUcmdMblRwWi0zaXFpSm1vNlZCM01QdWFobTdWZ2l5WS1aaHZuUU40SC1JTmNBbTdKcTdDY0ZTX29iU3d2T2NVUE1pbGJTaE5OU2E3R0RDMDhZRXVlbUdTcGdNV180RzAzN3RIOGQ4VHVRVXNPMlNNRV9iUGxhUmI1Z3A2Z2pWOEJwd3pBcWYw0gGIAkFVX3lxTE8wd3JUSER2RWtDUjV0UDdMOEwzd0RSdTM0WFB5Z3Zjb2dacTl4a1pSY2FFSlh1MWNhV1VkWmt4QkxCUWVZYlhJNURZRkgtaEYydjZ6WTRRY3pvcjNsTVBvay1RV0ZJWmloSUVLTkN0S1dxbE5hNC15UFVLc0M0cHp5Uk1BeVVWRElEdlJFT094U1ZFNkNJY1V6MUdoeXQ0bTR6cW56N1RlWVZCSXNMT01VUExTc19QS2o0bk83MFhkV3NGS0FLQTlUZVJwTVJTcnVPc3kzSE4tNXZ0WjNJZEh2Y1Ytams4ck9ZQ1hoWU9yUDZFOHpvWmlTNkxsYUVFcDlaZEVfbkIyMQ?oc=5",
-    "source": "Google News",
-    "time": "2026-11-19T05:06:00+00:00",
+    "time": "2026-11-20T05:41:00+00:00",
     "meta": "The Times of India"
   },
   {
-    "title": "Anthropic raises record $81B in IPO at $1.5T valuation",
-    "url": "https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/",
+    "title": "Infobip expands relationship with Anthropic with verified Claude connector for global messaging",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTWFUZHlETHhwbHhpcWhyd0ZqMHUxYmtqY3hyMVFzeDUzeDU4RnN2N0xhWGxyWEJlUXViZlR6QS1rWTNxNUhXZnVIcE1UQjluYnhId05Dc2JsOE9SVjZTN3pKaGsyazE0eVFoZmY1X0xCQWRpbHVYVTJZNXZBY0d2WjhlRUNmY1hZSEVrT2dSOUxBQkJ6RkpoTmRvR0NqenE5alpKRllLVUczS19VZkNjTG5jOExJbXVOTENZRE5NOE9GN1N3QlRz?oc=5",
+    "source": "Google News",
+    "time": "2026-11-20T05:40:30+00:00",
+    "meta": "CXO Digitalpulse"
+  },
+  {
+    "title": "promptfoo/promptfoo — Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
+    "url": "https://github.com/promptfoo/promptfoo",
+    "source": "GitHub",
+    "time": "2026-11-20T05:15:58+00:00",
+    "meta": "27477 ⭐"
+  },
+  {
+    "title": "Dario Amodei Pledges Human Control of AI at Anthropic’s $83 IPO",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX005TVM4bjV6RUdBamZ4Q1cyQUtjOW1PZFhVRldYTTZaaWRZUmRXMld1Tl80bGpJc0NNQ0I5ckxzaGtIdUlNWXQwUWR3NlRiWHdCUE1DaEFfcjgxQnBtT1o3T1ZFMmMzM094cUhDekRvRUZUU1NDY09tbUhnQ1ZkOFlaWWtDQUxhSGxXOUNtQXJvcDBZYnhXbGxILVI1QzVpY2c?oc=5",
+    "source": "Google News",
+    "time": "2026-11-20T04:57:27+00:00",
+    "meta": "Bitcoin Foundation"
+  },
+  {
+    "title": "Anthropic's Australian data centre overwhelmingly opposed by residents",
+    "url": "https://www.reuters.com/world/asia-pacific/anthropics-australian-data-centre-overwhelmingly-opposed-by-residents-2026-11-20/",
     "source": "Hacker News",
-    "time": "2026-11-19T04:55:11+00:00",
+    "time": "2026-11-20T03:43:23+00:00",
+    "meta": "11 分"
+  },
+  {
+    "title": "Tech shares tumble worldwide despite strong debut for Claude maker Anthropic",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcEYwUXNFdm1McVBONDJaNnAyZGhUMC1DaTh1Vjlpekp2LWdzQlhlVWQ5dWZpd0pTTUp0eDZheHJpWE9EQy1kOUI5ekM0Z3pjTktnVW52c09DUlBfZGdNLVdnNXh1ZldVR3Z0dDlpTnk0NEFfUXBKTXV0SkNXc3V6ZVdDTXhTT1BNY2hSN0w4U1JFRUpDVmVod3ptM3M5U0NvWXRVTjMyZzVSb0lHWWR1SnVCRkxoUQ?oc=5",
+    "source": "Google News",
+    "time": "2026-11-20T03:35:05+00:00",
+    "meta": "Stuff"
+  },
+  {
+    "title": "Anthropic shares rise in record IPO as profitability concerns persist",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tQ3d2bjhWZzdiWE1WUklBZ2RlNUdSRmJPeTYxY0ktNFF0ZWdGeEhWN2JORE1KYTRuV2N1MkRzNThqcnRabExlQ2xOWDc2b0dydUFSNXRKZ2VPSDRDekthd0tMV01SZWU1dy1taWxEaGROcnZKQWFmMXNn0gGOAUFVX3lxTFBSN0VsUjZkRzhrNDZ5TEUtclMtSG9GWGxMVHYwZGkteXVOSjlHZmJEU3cwbGVuaF9WNnIyLWh4S3NnRV9sSVJXUzl0WEJZd0lRWUo3MFU1ZDBlYTBzazY2NG9wX0FPVkx6UW16Y2JNclkzeW5VS295YnRkTE1QeUhUelBNZHozLVg1bGlFcEE?oc=5",
+    "source": "Google News",
+    "time": "2026-11-20T03:07:00+00:00",
+    "meta": "Chosunbiz"
+  },
+  {
+    "title": "#e4mXplains: Anthropic's $2 trillion moment and the question of enterprise AI's staying power",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWFgxQi01TmlJQU5nSFg5YXlfc1BaY2dmTzhMUHlkZW9JdGp4aHR6SXZWaGw0ZTZFMS1yV3dwb2NCXzNLcHI5NFl5QVo3RXUxdFNFOHd3VDVsZUxIM3NYREdQUmNBX0dhMTViMzR1Tm5HXzBfZFhmRTJDa0oxeUlhc1dVS21KWXNXcDA2bE9ENHRBd0pxODE5SVJhQmF1MWpMTk11MUgxRFFEWnhTQ3RZT3FYX1RMRjhxLUx4Z1NvQU5zNTJqYU5HR3lhWl8wUQ?oc=5",
+    "source": "Google News",
+    "time": "2026-11-20T02:59:08+00:00",
+    "meta": "Exchange4Media"
+  },
+  {
+    "title": "The seven people who left OpenAI to create Anthropic in 2021 now each hold stakes worth tens of billions of dollars after the company made its stock market debut. https://nyti.ms/3UNr8b8",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbjBLTkF6bEExUHI4WjhJdFpWQTdwMEM4ZFlUME5RREQ3WDk5TEhpeHctZngxNnVFaWp6WWdvdkl4Z2FkQjhwc0dkRndodjZfU0Z5SEJRX1M3QmEzLTRMODBoVXdOMU9sMm5SRXdyVDVxTWFzZkg4N19uNGRjVzBDUktKWVllel9fTUhRai1sQzNXLW9fNHA2NlhEeFFpbkdfbDJ4THAxcjVVTnhKSTU5TFNiYzZXelNfVHV0UXpiTHdUMUFxQ3RkSmhPeTk0MFBqT2Jqcg?oc=5",
+    "source": "Google News",
+    "time": "2026-11-20T01:57:03+00:00",
+    "meta": "Facebook"
+  },
+  {
+    "title": "Anthropic Founders Who Just Became Multibillionaires",
+    "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html",
+    "source": "Hacker News",
+    "time": "2026-11-20T01:50:53+00:00",
+    "meta": "1 分"
+  },
+  {
+    "title": "'Anthropic was supposed to save the AI trade. What went wrong?' – CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+    "source": "Hacker News",
+    "time": "2026-11-20T01:11:25+00:00",
     "meta": "2 分"
   },
   {
-    "title": "Anthropic IPO raises record $81.3B on strong AI demand",
-    "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
+    "title": "Show HN: Zeus – Claude Code for AI voice agents",
+    "url": "https://thunderphone.com/blog/introducing-zeus",
     "source": "Hacker News",
-    "time": "2026-11-19T04:52:30+00:00",
-    "meta": "3 分"
+    "time": "2026-11-20T00:51:52+00:00",
+    "meta": "2 分"
   },
   {
-    "title": "khs0927/Gemini-Web-Router — OpenAI & Anthropic compatible local router for gemini.google.com Pro quota (Gemini 4 Carbon/Neon/Hydrogen) with Aside & Claude Code integration",
-    "url": "https://github.com/khs0927/Gemini-Web-Router",
+    "title": "Claude Chat Reported to FBI? Claimed vs Verified (2026)",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVFJKN3YyY1VSdzVpb1FjQUgzWU15dFBQdEJRejB5ZUx0YW11b19jdjI0bXcyaDFoNEdCeUtrVEh2dWM0NmE1VWl0VF9hbDNkbzFzTVRVZUVDc3lJYzRyUHhYX2M5M3Fsc05ta3Z6NTlLMVNfTTF6OWRMekRtaEpmSzI4dmtIMi1JTzJhcElRaWNkYzlmVXJoUW5PdjZEOU1nR2ZrQWdwdFJEQQ?oc=5",
+    "source": "Google News",
+    "time": "2026-11-20T00:00:00+00:00",
+    "meta": "explainx.ai"
+  },
+  {
+    "title": "Anthropic becomes one of world's most valuable public companies in first-of-its kind IPO",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zckUxSEg1ZjlDTjU5cUN3cW5Sd1NqaktmSm84eU4ybDRrSHNKbU42SEI0dUZVZmEyVXlVOWVFSGJXMzhCTkRhTHZLME16UEhmbHNkWHVoUEF6U0E?oc=5",
+    "source": "Google News",
+    "time": "2026-11-19T23:33:51+00:00",
+    "meta": "BBC"
+  },
+  {
+    "title": "What is Anthropic? The company behind Claude, whose stock closed up 17% on its first day",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUktONjA5QVoxTnFzb2t0UGV5cmZNejBoN1dNQ091SUhMZDdPYk1sb3dWTHhNYkJEcDUxR2x1MEFMWGR4eFV2MExGck1LTjZ3ajgtSjk1X2RkbEFJQ2x6RzJUZ196LW5nMndNcEtnMzdtUndSckFmdUg2RXNEd3FHV2dMZ0hmV214QUNqVEwzOS1zb0dzU0hqLWF4ZHNNRzZwR05MUzF3?oc=5",
+    "source": "Google News",
+    "time": "2026-11-19T22:57:53+00:00",
+    "meta": "Nacionale"
+  },
+  {
+    "title": "Why We Built Anthropic [video]",
+    "url": "https://www.youtube.com/watch?v=sof3vW4mHTs",
+    "source": "Hacker News",
+    "time": "2026-11-19T22:55:16+00:00",
+    "meta": "2 分"
+  },
+  {
+    "title": "How does Anthropic make money? Inside the business of AI.",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZE5vcUdvQk40ZHhGMjJJYlN1ZmZrT3IxLVNlSFh4N0F3TkJlVXRsNk9Hd3d1Q215VFg5LVBJQjhpVGtMLVN2NEx6RVpFWW9BV295bF82WVRrS3VydlpLWnFuSDBQWHJSWnVVcjE1M05WTVR4bGNGTDlXenRuQTN3T0Y1YUhmVmZiTDg1aVpsT0JiMGtDMDNrUWhtUnFXcVNodl9uUU9XWEpvNFF4alN0MWRjZXhMR0ZXSnJNZ080Qlc1a2lPVnhROExDYw?oc=5",
+    "source": "Google News",
+    "time": "2026-11-19T22:40:59+00:00",
+    "meta": "Yahoo Finance"
+  },
+  {
+    "title": "An FBI agent called a Claude user about his chats",
+    "url": "https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police",
+    "source": "Hacker News",
+    "time": "2026-11-19T22:36:51+00:00",
+    "meta": "28 分"
+  },
+  {
+    "title": "ltlancas/anthropic_fellow_app — Claude Fellows App, Claude Test Problem",
+    "url": "https://github.com/ltlancas/anthropic_fellow_app",
     "source": "GitHub",
-    "time": "2026-11-19T04:50:01+00:00",
+    "time": "2026-11-19T22:23:12+00:00",
     "meta": "0 ⭐"
   },
   {
-    "title": "CoreCodeAI/claude-relay-check — Check whether a Claude / Claude Code relay is backed by Anthropic's API: response shape, prompt cache read-back, thinking signature. 检测 Claude 中转是否直连 Anthropic 官方。",
-    "url": "https://github.com/CoreCodeAI/claude-relay-check",
-    "source": "GitHub",
-    "time": "2026-11-19T04:49:17+00:00",
-    "meta": "0 ⭐"
+    "title": "IPO: Anthropic Bankruptsy Likelier Than Success [video][15m]",
+    "url": "https://www.youtube.com/watch?v=a5pHmGq1mEs",
+    "source": "Hacker News",
+    "time": "2026-11-19T22:18:39+00:00",
+    "meta": "4 分"
   },
   {
-    "title": "Anthropic IPO: Claude maker raises $107.3 billion in total haul, surpasses SpaceX",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMTN1LVNfRHUwU1NNSVJhd2JRdWNqcUVLeFZGS2NvcFk5d1pqX1dGSTdtZXRRaHd5a1dSXzgtTl9BaUhqRW5FYkg5SzVfUHp2NHNEYjJ1Skx2bUdqcWdpXzA3Y25rOFVrUmh1TTk3XzhBaTg4aElIaHBYM0JTWEpMZ25hR1F3SzFrWXh3QkhoOW13ZHJDbE5wb21IeWlVNWRkeHpvUFUxeEVKR2FTdlo0Zkx0Rl9tb18xR2piN3hLdTnSAcYBQVVfeXFMTlRGSUtsbkFnZW1LMDdSdzJheTBnVDZVLV9MeUdjRlNyUVpYc1ZIWHg0dWFMOHhIQmoyOTNBc0Q2TWlBWUt5OUMxUGpaemlUVHV5OWVTQ2hkQTg3RERfZ192V0k2NTNlenpIN0hYYWJJMmlQQk1IWWhweHlnendKS2ZWNFpNYTNUelVkS2FaU09ac3F0U0JrcjVKeTBtd1hOYVVDRDZDUVdkZWN0UEJ0RGlubkZrMlhfd0ktZ0pod0FJR2R2ZUtR?oc=5",
+    "title": "Anthropic IPO breaks records on Nasdaq debut: Claude AI service valued near $1.8T",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNmxDQ3djbV91aHBTN3l6R01zSUxINEJpV3YwQXpFanhmY2tuZ2k2LXFzbldqN21ILXV1UGhrVkhCUFBvZGdSUG9nNEJBMHAzb3k4S044T2JnVHpTbXZHTjFYTUF4RFRqVU1qZDV0X0lHOXhTSFl6MUdyM2NBRVo3dEF5NDk1VFF6RVdWdw?oc=5",
     "source": "Google News",
-    "time": "2026-11-19T04:48:36+00:00",
-    "meta": "The Hans India"
+    "time": "2026-11-19T22:14:24+00:00",
+    "meta": "Yahoo"
   },
   {
-    "title": "What Is Anthropic? Who Owns the Company Behind Claude?",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzlKODZxZDh5VWRQRzhDSnM5VnIxQmtFcjVhT2tGZFE1Umg5S0V6Qmk1MFZzSTl4aVhPYWx2LXUtVmtUaHEwQzlKemF4Ql95bDFVUlhUbWVHRXVLYWtQNkJPUXpLR0hBUnU4N3E2a0FMM1pwbmxocV9sb01rUl84R1dxNHo?oc=5",
+    "title": "Anthropic IPO: Claude creator ends market debut with value of $1.7trn - with employees in for a jackpot",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmVSMUszRlhNNFc2TkFnZkRNbDlVWmNQRHotdlcyQXlyNktNYmV1RzRBY1JpbXdRN2pLZGIxWENGQUhwLWNsaU5HeWhQZ0RXN05adU5zT2o3MGJRbDNEeGpUaUZqQlNhNmRSeERZTGNRcHVZUU5PYWJMSk1objBvVUJrTEU5dF9Bb2Y1bEhYZV9KUmk5ZU0xQ0pRbXdiS0JKak9EQ0J3QzMtXzhCRDUtSzZFcmlYWDk0?oc=5",
     "source": "Google News",
-    "time": "2026-11-19T04:41:15+00:00",
-    "meta": "PopTV Culture"
+    "time": "2026-11-19T22:04:20+00:00",
+    "meta": "Sky News"
   },
   {
-    "title": "Claude AI maker Anthropic set for Wall Street debut with $83 share price",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV1dUNVd6SFZHUEtpRjhEUEVQRFBjd1BTLW1ZRGFaQ0M3VHB5YWh4MElrWVh1NFlzc3N2Mkl1S1pUS0JZbEhpZzhBcnVvdm84TU94TXZ3RW9BS19fS3lkeVZKQ053MFk4TGN1NUZBZ1NHcjlodTV2QnVFVVF5V2ZQajNEZEtYNUtVZzZnOTlzZEdPNmROaDRkVi1xV2VsNWJKU1Jfc0c0Wld4Ny0xajF5LQ?oc=5",
-    "source": "Google News",
-    "time": "2026-11-19T04:12:31+00:00",
-    "meta": "cbs19.tv"
+    "title": "Muscle-memory – repeated Claude Code tasks run with zero tokens",
+    "url": "https://github.com/kabirshah4/muscle-memory",
+    "source": "Hacker News",
+    "time": "2026-11-19T22:03:48+00:00",
+    "meta": "1 分"
   },
   {
-    "title": "QUICK TAKE | Meet Anthropic’s Seven Cofounders? Seven Things to Know About the People Behind Claude",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM0VkVjM0dFlvbHhWX1dWbUR3cHliN3RaVFJ5TlN3NU96X2RLenk1QnVOS2VINnpHYmlBMlNkaDM3WkFiaFlHQnpkSDJLUjF1UER4SFVDSkU2ckN4WlNWc296bVJub3VjZnF3TjZxRWVhZTJweDEyVGlPY0hQWGthYmp2Q1EwVWFwUE9FcWZBVC02cktwN3dlcW5mTUJ6ZDViMXJ4a2xIaHJCRHY1d19mMnRHRU5qU2txQ3A2WUJhVjVZWjA4T2JLZnRhdEdOM00?oc=5",
+    "title": "Anthropic instantly became one of the world’s most valuable public companies after its stock market debut on Thursday. Take a closer look at the company’s valuation compared to other tech IPOs. https://nyti.ms/4zYR5Ur",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN3loOXEyak1QRFdSMjRXMEFUVkRFX3RZQi1PdHMyWUpTUkZkZW1iSEZ3b2UtZmhzT0ZYc0prcUtUQVBxVy1rb2h0M3FpMkNQTlBFRmRucEtlNUdwc1JNSkRLbi1HcFRyVGpZTVlZOHczc2pKRGZKTEo2TjZtV183WG1kYlRQVy01WHY2Wk8wUXhNU29WWFh3V0ZQTnZwWnNYY1FNdjRDRG1NZ1BEeTBqdUJvTldWamgzRU1FcUw2UnRzZ1YyWFpJc1lHcGkwQXV2WEVz?oc=5",
     "source": "Google News",
-    "time": "2026-11-19T03:27:34+00:00",
-    "meta": "Open Magazine"
+    "time": "2026-11-19T21:40:04+00:00",
+    "meta": "Facebook"
+  },
+  {
+    "title": "Anthropic should give stock to Stack Overflow (and OpenAI too)",
+    "url": "https://news.ycombinator.com/item?id=50566487",
+    "source": "Hacker News",
+    "time": "2026-11-19T21:15:17+00:00",
+    "meta": "4 分"
+  },
+  {
+    "title": "Watch Claude Users Excited to Invest in Anthropic, Says Ann Berry",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcXdWYUhMUkhOenJvZlB5dmhuTzUzcUVqR0FGWW5iYXRQS21LZDVIbzNOVTNqUWVkVnhKc0V1SEhBYWR1MjRNXzZWRVpKQTBDQWdVbUdhcnBUbUFKRThBMjA4MVE3T1pnd19rM2YyQTlpNDZBSVdHQnVaR2pub2UtVFR4dVBycmp6YnlUakpfbkZoWUFzelh2bzdPR2ZrOWxRbzRyeEJsR3ZSUGRXTEE?oc=5",
+    "source": "Google News",
+    "time": "2026-11-19T21:08:26+00:00",
+    "meta": "Bloomberg.com"
+  },
+  {
+    "title": "Anthropic's IPO compared with the dot-com IPOs",
+    "url": "https://www.kadoa.com/companies/insights/tech-ipo-revenue-multiples",
+    "source": "Hacker News",
+    "time": "2026-11-19T21:02:18+00:00",
+    "meta": "2 分"
+  },
+  {
+    "title": "One of Anthropic's Biggest IPO Winners Feels a Bit Uneasy About the Whole Thing",
+    "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
+    "source": "Hacker News",
+    "time": "2026-11-19T20:46:34+00:00",
+    "meta": "8 分"
+  },
+  {
+    "title": "Anthropic: AI company behind Claude chatbot value rises above $2 trillion in stock market offering",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYVBVNEJsUWN0bEVGdERZZnZsRFBxMlZJX2RxUGxlSG5MX0s2RzhKLTZjWkVUUUc5WmY2S0dsVDlEbmZldUNVWW1FMDV6S3U1WlkxRUE5WWg2a1N6c2FRMmlUaGQyM0VUX3BwcUhpZnV4Y1hhMUhvUHc1aXVNd3VPUDREeDVfalJ1SFQzTWp4cjRpMkoxbkhXeTljWFNnQ0tpeml2YV9ycmxTNEpaaHBpZVFiT0JlTllOTDdOT010VUNYRUNa?oc=5",
+    "source": "Google News",
+    "time": "2026-11-19T20:35:55+00:00",
+    "meta": "Channel 4"
   },
   {
     "title": "Anthropic is not living up to its ideals",
     "url": "https://so8res.substack.com/p/anthropic-is-not-living-up-to-its",
     "source": "Hacker News",
-    "time": "2026-11-19T02:46:35+00:00",
-    "meta": "4 分"
+    "time": "2026-11-19T20:13:22+00:00",
+    "meta": "3 分"
   },
   {
-    "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eVFIWE5uZFRSSHFUOTNCZWJySy1leGw3NHYxbVZkZVpFU01maWdFYW5FU1lrY25NSDEwQV9NRXBpaG5LSDB5dEhXcW83X3JTVEF4aGlIM0FrVm8?oc=5",
-    "source": "Google News",
-    "time": "2026-11-19T02:20:15+00:00",
-    "meta": "BBC"
-  },
-  {
-    "title": "cjsharp1/anthropic-certification-trainer — Self-contained browser study app for the four Anthropic Claude certifications — 764 questions, spaced repetition, and exam simulation in one offline HTML file. No install, no server, no dependencies.",
-    "url": "https://github.com/cjsharp1/anthropic-certification-trainer",
-    "source": "GitHub",
-    "time": "2026-11-19T01:54:51+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "jason-te-sde/nano-claude-code — A terminal coding agent that works with Anthropic, OpenAI-compatible and local models.",
-    "url": "https://github.com/jason-te-sde/nano-claude-code",
-    "source": "GitHub",
-    "time": "2026-11-19T01:44:45+00:00",
-    "meta": "0 ⭐"
-  },
-  {
-    "title": "Anthropic IPO to Mint Millionaires",
-    "url": "https://www.reuters.com/business/world-at-work/anthropic-ipo-mint-thousands-of-millionaires-2026-11-18/",
+    "title": "Drop Agents.md and Claude.md",
+    "url": "https://drmike.xyz/posts/drop-agents-md-and-claude-md/",
     "source": "Hacker News",
-    "time": "2026-11-19T01:41:30+00:00",
+    "time": "2026-11-19T20:09:37+00:00",
+    "meta": "1 分"
+  },
+  {
+    "title": "Show HN: AdversaryPR – A Claude skill to keep up with AI-written PR's",
+    "url": "https://github.com/bugsworthai/adversary",
+    "source": "Hacker News",
+    "time": "2026-11-19T20:07:06+00:00",
+    "meta": "1 分"
+  },
+  {
+    "title": "Claude maker Anthropic pops in Nasdaq debut",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTWIxb1RjSlNHQUsxVVh4MFpHR3QxMVBLR2VJYnRMMnEwZ1oydEh3SkI2Ui0zWmIzeXRWd2VVVXNsM2MwaGdHTlhOdHlkc243b3M3cEhsVVp5N2Z1elMwYzFOajlsOXR1UkNmMmxnVWNVM3JQbkt3cmZoUXNMeS1LZ3VoLThYSWJRejU1VEhsVEVDNmJCS25RVFloeXdWQkxUeUIyNzVkdXhoRUE5RHdTY1prM25UOE42YVVESENB?oc=5",
+    "source": "Google News",
+    "time": "2026-11-19T19:48:13+00:00",
+    "meta": "Capital Brief"
+  },
+  {
+    "title": "Ask HN: Safety Bully Anthropic right steward of our enterprise AI",
+    "url": "https://news.ycombinator.com/item?id=50565222",
+    "source": "Hacker News",
+    "time": "2026-11-19T19:43:45+00:00",
+    "meta": "1 分"
+  },
+  {
+    "title": "Following Anthropic's Massive IPO, This Is the Number AI Leaders Are Watching Carefully—And It's Not the Stock Price",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeVB2RHJ6SzNQNm5BV25hRGRZdnAxT0FET1UwVUFqWW9pRHdPMU8wYmhlUGJKMThtSDZ4U2pRcWtXeGd5WURXREhXZHIwOFBfa0VjNS1vUFRSWUVLa2JyeUR1QVdTYWZFbkZyZFFCektKaUN2RTFOOVh6d0x2X1M5ZjBteDQwT0l2amtfcEdEYlhObmQ2ZndNRDVoUzh2Y0RwVnNsYUdyOHN0OWI4UHRqS3lCYy1UVEd1SUNQU0NZcGZHZGZIdzBKRjJQcG1QTVpVaTUxTnQtNzNEbDB1VWYxS09wWVdtOGc?oc=5",
+    "source": "Google News",
+    "time": "2026-11-19T19:41:21+00:00",
+    "meta": "Inc.com"
+  },
+  {
+    "title": "Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy–Itself",
+    "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+    "source": "Hacker News",
+    "time": "2026-11-19T19:12:33+00:00",
     "meta": "2 分"
   },
   {
-    "title": "Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases",
-    "url": "https://calmatters.org/economy/technology/2026/11/newsom-touts-ai-kill-switch/",
+    "title": "Majority of Anthropic's over 5k employees expected to become millionaires",
+    "url": "https://www.wsj.com/tech/ai/thousands-of-anthropic-employees-and-investors-are-set-to-reap-fortunes-d9c3c6ed",
     "source": "Hacker News",
-    "time": "2026-11-19T01:14:02+00:00",
-    "meta": "4 分"
-  },
-  {
-    "title": "Claude Code makes a finished subagent send its report twice (70-second repro)",
-    "url": "https://gist.github.com/carrollco/bec001c7d337b49a7449bc8f9558854c",
-    "source": "Hacker News",
-    "time": "2026-11-19T01:13:40+00:00",
-    "meta": "2 分"
-  },
-  {
-    "title": "Anthropic valued at $1.5 trillion ahead of blockbuster stock offering for Claude developer",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02WXRNeWM0Rm01SWQyY2ZrOXMtazVqal9zWnQzUDhSRklGTGE2clZhYVdseTVOQVowR2NtSGJlcUh1b2Fndmk1VkxTQlRrbUlkTHZrVFp6aW1KWGJFU1dfSDNnUmNveEFNdEx0dXB0Y1ZRQQ?oc=5",
-    "source": "Google News",
-    "time": "2026-11-19T00:54:59+00:00",
-    "meta": "LBC"
-  },
-  {
-    "title": "Anthropic Sells $81.3 Billion in Shares for a Record IPO",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nQ3JieUUxQkdyelMxelhaUUdmaTFlSTFva2pnR2FHY08wbXdmT01JVk56aUVHRGtQRUFhc1J2SFR0cEp4THBGc3M3aGhlalE3MUlEb3dQbElfREZhYlVjemROWDRVRm51QXVIakZKM2pmZi03by1hUi1FN04?oc=5",
-    "source": "Google News",
-    "time": "2026-11-19T00:41:26+00:00",
-    "meta": "The New York Times"
-  },
-  {
-    "title": "Anthropic's early birds are getting rich",
-    "url": "https://www.vox.com/today-explained-newsletter/510608/anthropic-ipo",
-    "source": "Hacker News",
-    "time": "2026-11-19T00:36:18+00:00",
+    "time": "2026-11-19T19:11:02+00:00",
     "meta": "7 分"
   },
   {
-    "title": "Fable: Written, painted and directed by Claude Fable 5.2",
-    "url": "https://claudia.gallery/fable/",
+    "title": "The Rocky Road from Aggregate to per Share Value: Anthropic's IPO Update",
+    "url": "https://aswathdamodaran.blogspot.com/2026/11/the-rocky-road-from-aggregate-to-per.html",
     "source": "Hacker News",
-    "time": "2026-11-19T00:18:18+00:00",
-    "meta": "54 分"
-  },
-  {
-    "title": "Anthropic IPO: $83 Share Price and Year-End Valuation Odds",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2J2Y0wyMmZoZzJvMFRiOWZQR0loazhMOGFKZ2FtT0h3WDVwbDRoX1pxcDZTSDNINjQ0Q2FYMFdHcWdFMVVaS3Z1QVRNRm9RRHpIN2lPUk1wS1EyQmVMTkRqWkJ2Y3NtVjI0Qy1rVEhOR3l4aWhtVXp1cHczdnFVWktXcGZUQlZRcEk2Z1dEUkotWHIzR2RiRzUzUTNaU29MVFhNcQ?oc=5",
-    "source": "Google News",
-    "time": "2026-11-19T00:07:00+00:00",
-    "meta": "Time Magazine"
-  },
-  {
-    "title": "Microsoft says Copilot costs less than Claude. Anthropic disagrees",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWGhOb0EwZDdscnEtcUNBVjdsZXlkeFE2U3NDeTF6cnlIT1dEbjRLREV4YmpkSHFHQnNGVUxpVktUYnF4eVRCSUxuc1FPUzRsMEFycVpIMG16MGM5QjQza0xnY0JUZDFPbjJKT1hEZWUyMFJmTEt5X20wUFFEbmE2d0pyRzktVDVmaWp2NERKa0NJeUlyQ3AwNlBkbEFVZ9IBowFBVV95cUxOTzJEeUgzeVJPSlVCUFU1MkpmNlZpRWZhM2Ruc1ZIZS15bHVaWUdZczlLUHNBVmpZREF5YzBzQmE4czJQVmFobkpyNHRJOFpRcC1QZUtPdjRhbW5YTWZja0M0dFBkeTJmVTloYXA2elBOZ2I1WFBvVzg4ZkZYX3NTeFpZbGo1YVF2SFhHVlJrUkZqTWhVS1lHZzVqZUNXMTNXeG1j?oc=5",
-    "source": "Google News",
-    "time": "2026-11-18T23:56:23+00:00",
-    "meta": "Gagadget.com"
-  },
-  {
-    "title": "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRHVUTGNxNk9xdFlEd251aVN1dzgzWjNmYl9xeFVQYmpOdzRybF9reDVUbDhOeDRmYjdZazdWNkQtR2VqNTJxVVhtcm5YazdFZnp0dXY3U1VoZG53ZG9pZGhrR1hES1Q3QnMxUEJXZUUzRXBlNllVTmdYUEZiZXlMaG8yU3dfWVJOYWNUM0c0bFZNMldXOWxZdnplYjhjYVVid0p1U2V2R1V1aTRRRHYwNlMyUVpLTF9GMUJjVy00aERJUDV2RmY4aw?oc=5",
-    "source": "Google News",
-    "time": "2026-11-18T23:52:32+00:00",
-    "meta": "Korea JoongAng Daily"
-  },
-  {
-    "title": "Anthropic sets share price at $83 for stock market debut, above expected range",
-    "url": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo",
-    "source": "Hacker News",
-    "time": "2026-11-18T23:32:26+00:00",
-    "meta": "6 分"
-  },
-  {
-    "title": "Anthropic prepares for the largest IPO in history, surpassing Elon Musk’s SpaceX",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFVBUHc2YU5KelJJdGsyOTl2X28yZ3VBZnY4RFNtN1lGcUJOS3hsOTh1RjlCZFZjeDVnLWxOeWYyTHpyQ1lERDNZMXdLRWxTOWZockpFMW1LWFc1aTh3dkpINTBHVEtxM09TQ3pvMXAyTDYydC1xdDduS3R2akpNSzZZMW02QmU2NDBZVzhuZWE2dGN1ckdhd2UyWFhEdjJVUTR3QXN3?oc=5",
-    "source": "Google News",
-    "time": "2026-11-18T23:32:11+00:00",
-    "meta": "Revista Merca2.0"
-  },
-  {
-    "title": "Anthropic prices initial public offering",
-    "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-    "source": "Hacker News",
-    "time": "2026-11-18T23:30:09+00:00",
-    "meta": "143 分"
-  },
-  {
-    "title": "Claude Code can now generate charts in the terminal",
-    "url": "https://twitter.com/RafaAudibert/status/2123172440587043196",
-    "source": "Hacker News",
-    "time": "2026-11-18T23:23:50+00:00",
-    "meta": "6 分"
-  },
-  {
-    "title": "Anthropic reportedly prices its IPO at $83 per share, valuing at $1.5T",
-    "url": "https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c",
-    "source": "Hacker News",
-    "time": "2026-11-18T23:00:26+00:00",
-    "meta": "17 分"
-  },
-  {
-    "title": "How Anthropic's IPO could affect your 401(k) and the AI industry",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORWZSUWUwY2hHcWoxS3RCUkVDYkRzRDhZaXlUM1htSkdZbzVOUE9maklKbmdYQUkySTBJSXlaYXBweTFNcW03ZElPSS00Q3ZEdWJYSzllWFRCa19pN081VVhOblVfNEYxVktPaElXMmktNlpYN202ZHVzXzRsWHpfQ29JM1E2XzQ0SUZNSQ?oc=5",
-    "source": "Google News",
-    "time": "2026-11-18T22:29:00+00:00",
-    "meta": "CBS News"
-  },
-  {
-    "title": "5 things to know about Anthropic",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSjFKeW43ZWxJbHFMZDQ5b2tGZVViUDRlWXJDdVU2MUE3SjNmTkJmQl9oR2RmM0E2SVpIYTJrVnIyQWJJQkRRMnRpSzRaM3Rha015TXAtMDFKeTc4MXM3dG96T242YjQzamdyaVd1X0JNa2dpZlBJdDBvdDB1OGtXLXA3dktCMEU5d2tvdDU5WkRObGxsM1loNXJPdzFta3kzbUZOdHRsMnpDd9IBsgFBVV95cUxNbnVoZnhyNnBJaTRLNk1jWXJrYk5UQUZCazVtLXJNRVZnRjRlM1R0bldtSUpRQzdzTDMyY2pIbTVTcXUyUEc5MWdrUHRCbUwwczZBMXVKS1hEUDZfaS1qUElMNUwxdHRhYlZJY2dSQjNYbE9RN2RiTDd2NDhmd1JBUUNTNVdkNF9MTF9qSTJEYzNtdVBJTXJnMzN3RndTbzFnUDBwWUdWYTNTcExaUU9INEd3?oc=5",
-    "source": "Google News",
-    "time": "2026-11-18T22:28:58+00:00",
-    "meta": "NBC Los Angeles"
-  },
-  {
-    "title": "Anthropic reportedly prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNklqMVdMV1diTGxyS2QtOVlIZWtVZk9TcXEtVFk5Y0hvMW9NR3hXMzlIWDc0d1hBWjQzVUV4Vnk5Z1VWNlpVdjcxcFZUam42OFF2Wl96a0VYbG9iSnRpeExKYU4ySWNKekVfMW52aDMzcUdJZVRIM3JTV2ZPRERieExJMDg3cmo0dzRHX0J0SHVmb1lQZ2ZV?oc=5",
-    "source": "Google News",
-    "time": "2026-11-18T22:24:43+00:00",
-    "meta": "Yahoo Finance"
-  },
-  {
-    "title": "Anthropic Prices IPO at $83, Topping Range on AI Frenzy",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX0ZTNmtzdkszdExaNl9rcUVyUmdueG13aXV3ZVdzY1lMNjFvcEpCazBsa2g5d09UZGRBUERxbmdEUDR3ZVNWeHIyQ2ZZSWg5UzlfdzBOYkkyZ08xZ2Q4X18wYlAwdEpkdFAxYmllN29LWk1DLVdtajk0eXI1eHBvWTVheUlSOGlWTmJRM2otYw?oc=5",
-    "source": "Google News",
-    "time": "2026-11-18T22:04:50+00:00",
-    "meta": "The Tech Buzz"
-  },
-  {
-    "title": "Show HN: A 149M model handles 70% of phone-agent steps locally, Claude the rest",
-    "url": "https://github.com/chayworks/milo-pointer",
-    "source": "Hacker News",
-    "time": "2026-11-18T21:44:59+00:00",
+    "time": "2026-11-19T19:04:33+00:00",
     "meta": "1 分"
   },
   {
-    "title": "Anthropic Prices IPO at $83 a Share",
-    "url": "https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c",
-    "source": "Hacker News",
-    "time": "2026-11-18T21:42:05+00:00",
-    "meta": "11 分"
-  },
-  {
-    "title": "Anthropic prices IPO at $83 per share",
-    "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-    "source": "Hacker News",
-    "time": "2026-11-18T21:37:16+00:00",
-    "meta": "6 分"
-  },
-  {
-    "title": "Anthropic prices IPO at $83, valuing Claude maker at $1.5 trillion",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lb0ltXy1tQ1d5YUxMTlV2V185dWtYUXJ0Mnl4azVvNmQ2ZWFjQ0ZjU284RURXTVNzeThtZjJmZmVhcGNVbFRNdUk4UXo5OUV4MXk0REJPMkRUTWlSa1J0OFMtYWVxbGM?oc=5",
+    "title": "Will Claude Get More Expensive After Anthropic’s IPO?",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnRVhUN1Jwai0wLXJEbmlYVGtreThnVGxBMjRvTFlHakFiaVNVWlVmLXZ3Yy1SVnZaNlVmWl9PQjdrVnJ5OXBHZ3ZfOV9mZzlGMHkzNS1yQkU4bFMyUTkwVzJGaGxpSnpU?oc=5",
     "source": "Google News",
-    "time": "2026-11-18T21:35:00+00:00",
-    "meta": "CTech"
+    "time": "2026-11-19T18:53:19+00:00",
+    "meta": "Kingy AI"
   },
   {
-    "title": "Fardesk – fast iPhone app to manage your Claude sessions",
-    "url": "https://fardesk.franzai.com/",
+    "title": "Claude-code's outputs feel longer than usual",
+    "url": "https://news.ycombinator.com/item?id=50564298",
     "source": "Hacker News",
-    "time": "2026-11-18T20:55:50+00:00",
+    "time": "2026-11-19T18:42:53+00:00",
     "meta": "1 分"
   },
   {
-    "title": "GTA VI like Claude Desktop theme",
-    "url": "https://github.com/komodin/claude-neon-coast-theme",
+    "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
+    "url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
     "source": "Hacker News",
-    "time": "2026-11-18T20:51:58+00:00",
-    "meta": "2 分"
+    "time": "2026-11-19T18:42:13+00:00",
+    "meta": "44 分"
   },
   {
-    "title": "Ask HN: Is Claude Down?",
-    "url": "https://news.ycombinator.com/item?id=50551965",
+    "title": "Anthropic breaks $2T valuation in market debut",
+    "url": "https://www.reuters.com/live/anthropic-ipo-live-claude-maker-goes-public-nasdaq-after-record-share-offering-2026-11-19/",
     "source": "Hacker News",
-    "time": "2026-11-18T20:51:47+00:00",
-    "meta": "3 分"
+    "time": "2026-11-19T18:38:39+00:00",
+    "meta": "4 分"
+  },
+  {
+    "title": "Live stock ticker theme for Claude Code desktop",
+    "url": "https://github.com/cktang88/claude-ticker-theme",
+    "source": "Hacker News",
+    "time": "2026-11-19T18:23:29+00:00",
+    "meta": "1 分"
+  },
+  {
+    "title": "Anthropic, company behind Claude AI, goes public with record-breaking $81 billion IPO",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd3lGZXhxZTMwTDJsRnBXR3VWNlk4Nmw0dmdzSXBOcjNicHlpcTJkMXdyR1VqendQVnJjRzdLaUt1cE5MRU1MNTY0aDIzeG1oM0l1cTBpM1dEMWRSUW1VODFvX25UamJyVFQtaHBzSHdkdzlkYkRNc0JIMzRVMDVaOHNGTFdWR1NwOXhxX2lVV0pUajh2dV9IVmd4Y0tONUdsdHBuZV85SzZHeHQtTWM4V0NuS2ZaUDg2MGJrMFV1RTRjTXFFR081V1dROEpWanhneHNVbnVMcDNfUUtyYmFRWWk4U1M3N1ZhaGF5Q0VmNA?oc=5",
+    "source": "Google News",
+    "time": "2026-11-19T18:20:00+00:00",
+    "meta": "WHAS11"
+  },
+  {
+    "title": "Anthropic's $2 trillion debut comes with a $900 billion AI bet",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yVmdfQkhfWnpvb255NnZWSDg3U2NyeC1WWG1qLXpmb3NnS2plWW1zWkMwVFFqMnBmT3FBU0R2MGpESEpxNG50T21oOEo1SXNRTFpQTG9YcWVQVDBhSXN4OXZ3?oc=5",
+    "source": "Google News",
+    "time": "2026-11-19T17:39:17+00:00",
+    "meta": "Ynetnews"
+  },
+  {
+    "title": "3304711297/workbuddy2api — 腾讯 WorkBuddy / CodeBuddy 订阅转本地标准 API 网关（Tauri v2 桌面端）。原生三协议兼容 OpenAI Chat (/v1/chat/completions)、Anthropic Messages (/v1/messages) 与 OpenAI Responses (/v1/responses)，直连驱动 Codex CLI、Claude Code CLI、Hermes Agent 等智能体；含多账号资产看板、夜间限免感知与风控削峰加固。",
+    "url": "https://github.com/3304711297/workbuddy2api",
+    "source": "GitHub",
+    "time": "2026-11-19T17:37:36+00:00",
+    "meta": "30 ⭐"
   },
   {
     "title": "Claude solves two open problems in the physics of black holes",
     "url": "https://www.anthropic.com/research/claude-black-hole-physics",
     "source": "Hacker News",
-    "time": "2026-11-18T20:45:52+00:00",
-    "meta": "5 分"
+    "time": "2026-11-19T17:30:44+00:00",
+    "meta": "458 分"
   },
   {
-    "title": "The seven Anthropic founders who are about to become multi-billionaires",
-    "url": "https://www.bbc.com/news/articles/cmd7159vlr85o",
+    "title": "Remarks from Anthropic CEO Dario Amodei on our initial public offering",
+    "url": "https://twitter.com/AnthropicAI/status/2123461658890686863",
     "source": "Hacker News",
-    "time": "2026-11-18T19:43:04+00:00",
-    "meta": "6 分"
-  },
-  {
-    "title": "Microsoft Says Copilot Is Beating Anthropic, OpenAI on Price",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXV4cTU5RmZrd3lGNGRVS2RXYUZFU1prYmhYQzhrSnNWdkRHWmF6N2RjT3RkTkVTb0ZpQWhnZ3hXc3c4S1RzUXdsWGRJMFlVQkloZmlhSWhQcjkwNVFfWGxqR3NtbHNmLWdzRTBMb1dCdFVhUlV2SnhYSUYwZTlZZ2dMRjJadm1McGtYS29PcHhNdG9XSGlOVDFHY1FacGRDOWFuamRFdnEyLTVaWl9F?oc=5",
-    "source": "Google News",
-    "time": "2026-11-18T19:35:30+00:00",
-    "meta": "Bloomberg.com"
-  },
-  {
-    "title": "Anthropic promises to pursue human benefit. Its IPO filing gives it wiggle room",
-    "url": "https://apnews.com/article/anthropic-ipo-public-benefit-corp-a2a04c9bcf681c1b46b13607171c83b4",
-    "source": "Hacker News",
-    "time": "2026-11-18T17:58:08+00:00",
-    "meta": "8 分"
-  },
-  {
-    "title": "Just say no to Anthropic's IPO",
-    "url": "https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo",
-    "source": "Hacker News",
-    "time": "2026-11-18T17:54:16+00:00",
-    "meta": "25 分"
-  },
-  {
-    "title": "Meet 4 Silicon Valley engineering leaders whose hefty Claude bills explain Anthropic's rise",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeXdjX09IZnRrQWZmUmNVN3BlRnBtaGd1aTlLVmtncGVWZ3ROYmk5Z3dmVldSa3laZEtEQUhSazYzbFBTOGVLYUZkRWVPMmF3ZWFZb2NsZEx3N0xOd0N3NzE2UnJ4MzBXbHlPVEhaUnNvY2MxSUJ5YURJNzBLYThPWEhVc19FZWVWLXAtN2dEYXdNQQ?oc=5",
-    "source": "Google News",
-    "time": "2026-11-18T17:33:00+00:00",
-    "meta": "Business Insider"
-  },
-  {
-    "title": "The Seven Anthropic Founders Who Are About to Become Multibillionaires",
-    "url": "https://www.wsj.com/tech/ai/the-seven-anthropic-founders-who-are-about-to-become-multibillionaires-443b133e",
-    "source": "Hacker News",
-    "time": "2026-11-18T17:31:56+00:00",
+    "time": "2026-11-19T17:19:54+00:00",
     "meta": "3 分"
   },
   {
-    "title": "Anthropic's blockbuster IPO could test fears about an AI bubble",
-    "url": "https://www.washingtonpost.com/technology/2026/11/18/anthropic-blockbuster-ipo-could-test-fears-about-an-ai-bubble/",
+    "title": "Anthropic shares rise over 30% in market debut, valuing Claude maker at about $2T",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOTE4OHR1dXJOYmZHMXdVRVFWN1lIV3Q5YXJOM0ExMEF5Yktfa2kxR1phZXRpU3VFOUdFcUxWQUVkU3hzdkZnTC1sSEs4MmgxTTBlXzBVQUJzSGNMRDNvQWVNT2tHMEdNS2NxTWpDa25HNGFRbzJMSmxldGVkWUN6VjdoV01XZDBjejVoQnpTVy1GQTdseE5QNFkzNnpicVJlZURlN0xXTWpSa3luUllmMDR6ejMxaFA4RkxF?oc=5",
+    "source": "Google News",
+    "time": "2026-11-19T17:16:16+00:00",
+    "meta": "Anadolu Ajansı"
+  },
+  {
+    "title": "Anthropic slumps 5% post-market after record $107.3bn IPO",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRDczamRRWVgzXzdKT0lQT3RsbDVIVHFFeWlXYm1Ta2NqcnVPVFJPdkdvTm4tZ1lRQUVPLXo3ZEFUTWZsYUFuc0VqaU85dmxfcDZjajIyMG40LWE1LXB0aUZKQ1dlbXM1cWdEcFRERU1pRk5TYU9xM3hSZEJMcEk4SEFYY3ZqQWJpRTVmQkhjNWthVkQzSWJ6TzZJX0xva3BfaEJPOE9NLWVoOHdLcXYyUFhxWlNNdjhfckE?oc=5",
+    "source": "Google News",
+    "time": "2026-11-19T17:09:56+00:00",
+    "meta": "Moneyweb"
+  },
+  {
+    "title": "Anthropic’s Nasdaq debut",
+    "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
     "source": "Hacker News",
-    "time": "2026-11-18T17:21:44+00:00",
-    "meta": "3 分"
+    "time": "2026-11-19T17:02:40+00:00",
+    "meta": "1039 分"
   },
   {
-    "title": "Anthropic labeled ‘high risk’ as investors’ concerns rise pre-IPO",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSXl6cENLYWVNa05hUXEzUTVUdzY4MlhuSHlxVzFzeWtZYnVJS2FmemJjb3plNTc2T1N2SFRuWThxYzZ5RmNzWjlSSHBBc05GUGR2cWYtdE90a0Q0MzVid1E0SF9Dc3JZLUM4WXp6WS1POWlYcTZDZFFZMlpFbVpFZldheTV3Vng2YXdJQUlxV2VRNUN6TVFUSlVFUmhvcnpF?oc=5",
-    "source": "Google News",
-    "time": "2026-11-18T17:17:06+00:00",
-    "meta": "ESG Dive"
-  },
-  {
-    "title": "Anthropic’s 7 founders close in on a combined $130 billion fortune as their AI company expands through major partnerships in Africa",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb3ZUSFBhZzFaeXNISXNwWWlfR3ItQTZoN1JpcGJuZ1M4dUtEblpfNVpqNjVzUnd4WHhYdWtROG5jNUpjZXZRZXBsT2VqUkRPMkhWY284dzlSVmRZdy0tZlp2SkQ5endpUWNia3hjUEkwbE1oTHVCVm1iWTFGQVpXcXVrdktiWHBQSUtBRlRrNU9ZS1FCRkFCRFBiMVdGc05oQmNZQkxaMXVGbk9MVlRMWFdxaHZxQ1Zmcm5FcGxaMmplMjJHc2xQWk91TmVadlhwM29xWk5n?oc=5",
-    "source": "Google News",
-    "time": "2026-11-18T17:12:56+00:00",
-    "meta": "Business Insider Africa"
-  },
-  {
-    "title": "What investors should know about Anthropic's unusual IPO",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTS00RnZlY2c5ZXZQcUxsWGUtNnpwczN6ekNTZndScEdNbkRwRElqbFJ5SEs4WjBGMkhhZjQyMXd1Y1RRdS1rVFN1NVlESEtCOGJ5b1dGdG54eXVZeHZJcS0xaUhtUDhwRHF2dVhjTzhJb3BHWDNSbEhRbXNEcG5kUTFqcFV0a0tTRm56TU1TXzBXMThkV2Y0UHI0empVd21YNl95aQ?oc=5",
-    "source": "Google News",
-    "time": "2026-11-18T17:08:21+00:00",
-    "meta": "Yahoo Finance"
-  },
-  {
-    "title": "Anthropic’s Wall Street debut marks a new chapter for AI",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwN3RZUUlsZ2xnX2REUk5uSEh0RTdScHBHQVd5X1J2dk1Eams5c1pDaHlWM3pJNkl3MXR0ZzR3QzRIOWY3a24zbTZpb21qVlRZMHlVYjMtTTNyOWs1cmozWHNEYXpLS1Z6RWtYOElVRmI1NFA0MGpVYw?oc=5",
-    "source": "Google News",
-    "time": "2026-11-18T16:48:38+00:00",
-    "meta": "CNN"
-  },
-  {
-    "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
-    "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
+    "title": "Anthropic stock is now trading live on the NASDAQ (symbol: ANT)",
+    "url": "https://www.nasdaq.com/market-activity/stocks/ant",
     "source": "Hacker News",
-    "time": "2026-11-18T16:41:22+00:00",
-    "meta": "130 分"
+    "time": "2026-11-19T16:53:14+00:00",
+    "meta": "10 分"
+  },
+  {
+    "title": "Anthropic at $1.4T? My Valuation Is Under $1B",
+    "url": "https://ludovicphalippou.substack.com/p/anthropic-at-14-trillion-my-valuation",
+    "source": "Hacker News",
+    "time": "2026-11-19T16:50:44+00:00",
+    "meta": "2 分"
+  },
+  {
+    "title": "Anthropic (ANT) stock lists at nearly $2T valuation",
+    "url": "https://news.ycombinator.com/item?id=50562528",
+    "source": "Hacker News",
+    "time": "2026-11-19T16:47:32+00:00",
+    "meta": "39 分"
   }
 ]
